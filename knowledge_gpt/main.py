@@ -26,8 +26,8 @@ import glob
 EMBEDDING = "openai"
 VECTOR_STORE = "faiss"
 MODEL_LIST = ["gpt-4-turbo"]
-PERSPECTIVA_SOU_LOCADOR = 'Quero Vender'
-PERSPECTIVA_SOU_LOCATARIO = 'Quero Comprar'
+PERSPECTIVA_SOU_LOCADOR = 'Quero Vender a Produção de Soja'
+PERSPECTIVA_SOU_LOCATARIO = 'Quero Comprar Insumos'
 PROJECT_ROOT = Path(__file__).parent.resolve()
 
 # Uncomment to enable debug mode
@@ -36,13 +36,13 @@ PROJECT_ROOT = Path(__file__).parent.resolve()
 def on_button_locador_clicked():
     st.session_state['prompt_perspective'] = PERSPECTIVA_SOU_LOCADOR
     # Open the file in read mode
-    with open(f"{PROJECT_ROOT}/template_prompt/locador.txt", 'r') as file:
+    with open(f"{PROJECT_ROOT}/template_prompt/venda.txt", 'r') as file:
         # Read the contents of the file
         st.session_state['prompt'] =  file.read()
 
 def on_button_locatario_clicked():
     st.session_state['prompt_perspective'] = PERSPECTIVA_SOU_LOCATARIO
-    with open(f"{PROJECT_ROOT}/template_prompt/locatario.txt", 'r') as file:
+    with open(f"{PROJECT_ROOT}/template_prompt/compra.txt", 'r') as file:
         # Read the contents of the file
         st.session_state['prompt'] =  file.read()
 
@@ -59,7 +59,7 @@ openai_api_key = os.environ.get('OPENAI_API_KEY')
 
 uploaded_file = st.file_uploader(
     "Upload a pdf, docx, or txt file",
-    type=["pdf", "docx", "txt", "jpg", "png", "jpeg"],
+    type=["pdf", "docx", "doc","txt", "jpg", "png", "jpeg"],
     # help="Scanned documents are not supported yet!",
 )
 
@@ -123,7 +123,7 @@ with col2:
     st.button(PERSPECTIVA_SOU_LOCATARIO, on_click=on_button_locatario_clicked)
 
 if st.session_state['prompt_perspective'] is not None:
-    query = st.session_state['prompt'].format(contrato_enviado=docs_as_text(upload_file_content.docs))
+    query = st.session_state['prompt'].format(context=docs_as_text(upload_file_content.docs))
 
 if st.session_state['prompt_perspective'] is not None:
     if not is_query_valid(query):
