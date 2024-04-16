@@ -3,7 +3,7 @@ Responda as perguntas com base no context:
 
 <context>{context}</context>.
 
-qual o melhor preço para vender a soja?
+qual o melhor preço para comprar ureia, fosfato triplo, calcalrio e gesso?
 
 Não informe na resposta que o retorno é baseado no context.
 Caso não consiga responder baseado no context, informar que a informação não está registrada na base de conhecimento. Sempre responda em português.
