@@ -26,8 +26,8 @@ import glob
 EMBEDDING = "openai"
 VECTOR_STORE = "faiss"
 MODEL_LIST = ["gpt-4-turbo"]
-PERSPECTIVA_SOU_LOCADOR = 'Sou Locador'
-PERSPECTIVA_SOU_LOCATARIO = 'Sou Locatário'
+PERSPECTIVA_SOU_LOCADOR = 'Quero Vender'
+PERSPECTIVA_SOU_LOCATARIO = 'Quero Comprar'
 PROJECT_ROOT = Path(__file__).parent.resolve()
 
 # Uncomment to enable debug mode
@@ -47,8 +47,8 @@ def on_button_locatario_clicked():
         st.session_state['prompt'] =  file.read()
 
 
-st.set_page_config(page_title="📖Contrato Revisado - Versão Alpha", page_icon="📖", layout="wide")
-st.header("Contrato Revisado - Versão Alpha")
+st.set_page_config(page_title="Melhor Preço Agro", page_icon="💵", layout="wide")
+st.header("Melhor Preço Agro")
 
 # Enable caching for expensive functions
 bootstrap_caching()
