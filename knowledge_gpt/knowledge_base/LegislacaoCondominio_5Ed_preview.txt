@@ -1,0 +1,886 @@
+LegislacaoCondominio_5Ed.indd   1
+LegislacaoCondominio_5Ed.indd   1
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+LegislacaoCondominio_5Ed.indd   2
+LegislacaoCondominio_5Ed.indd   2
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+LegislacaoCondominio_5Ed.indd   3
+LegislacaoCondominio_5Ed.indd   3
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+© Copyright 2020, Editora Bonijuris Ltda.
+
+Todos os direitos reservados. É proibida a reprodução total ou parcial sem a expressa 
+anuência da editora e dos autores.
+
+Pesquisa, edição, revisão e índice 
+LUIZ FERNANDO DE QUEIROZ 
+OLGA MARIA KRIEGER
+
+Produção editorial e gráfica 
+JÉSSICA REGINA PETERSEN 
+
+Revisão 
+ANDRESSA HARPIS
+
+Capa  
+DANILO OLIVEIRA
+
+Projeto gráfico e diagramação 
+CARLOS ALEXANDRE MIRANDA
+
+1ª edição: 2010; 2ª edição: 2011; 3ª edição: 2014; 4ª edição 2016; 5ª edição 2020
+
+Tiragem: 2.000 exemplares 
+Preço do exemplar: R$ 50,00
+
+Fonte principal de consulta: 
+Portal da Presidência http://www4.planalto.gov.br/legislacao 
+Fechamento desta edição: 30-10-2020
+
+Dados Internacionais de catalogação na publicação (CIP)
+
+L514  Legislação  do  condomínio:  coletânea  prática  /  Organizadores 
+Luiz Fernando de Queiroz ; Olga Maria Krieger – 5. ed. rev., 
+ampl. e atual. – Curitiba: Bonijuris, 2020. 
+
+160p.– (Legisgrafia)
+
+ISBN  978-65-87766-03-4 
+Índice Temático Remissivo
+
+ 
+
+1. Condomínios. 2.Condomínios – Legislação. 3.Direito imobiliá-
+
+rio. I. Queiroz, Luiz Fernando de. II. Krieger, Olga Maria. III. Título. 
+
+ 
+
+ 
+
+Bibliotecária: Ana Rocco CRB9/1934
+
+CDU  347.238.1(81)
+
+EDITORA BONIJURIS LTDA. 
+Rua Marechal Deodoro, 344, 3º andar, Centro 
+80010-010 – Curitiba, PR, Brasil 
+Tel.: (41) 3323-4020 | 0800 645-4020 
+sac@bonijuris.com.br 
+www.editorabonijuris.com.br
+
+LegislacaoCondominio_5Ed.indd   4
+LegislacaoCondominio_5Ed.indd   4
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+Sumário
+
+Apresentação .....................................................................................  
+
+Prefácio à 5ª Edição ............................................................................  
+
+Abreviaturas e Símbolos .....................................................................  
+
+Índice Temático...................................................................................  
+
+Parte I – Condomínio Edilício
+1. 
+
+Código Civil: Condomínio Edilício – Lei 10.406/02 .....................  
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+Lei do Condomínio – Lei 4.591/64 .............................................  
+
+Lei de Locações – Lei 8.245/91 ..................................................  
+
+Código de Processo Civil – Lei 13.105/15 ..................................  
+
+Lei de Registros Públicos – Lei 6.015/73 ....................................  
+
+Código de Trânsito Brasileiro – Lei 9.503/97 ..............................  
+
+Lei do Bem de Família – Lei 8.009/90 ........................................  
+
+Código Civil: Artigos Esparsos – Lei 10.406/02 ..........................  
+
+Lei de Desapropriação – Decreto-Lei 3.365/41 ..........................  
+
+10.  Aplicação da CLT no Condomínio – Lei 2.757/56 .......................  
+
+11.  Regulamento da Previdência Social – Decreto 3.048/99 ............  
+
+12.  Lei de Custeio da Previdência Social – Lei 8.212/91...................  
+
+9
+
+11
+
+13
+
+15
+
+64
+
+71
+
+81
+
+84
+
+85
+
+88
+
+89
+
+90
+
+91
+
+92
+
+92
+
+94
+
+LegislacaoCondominio_5Ed.indd   5
+LegislacaoCondominio_5Ed.indd   5
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+13.  Contrato de Financiamento de Imóveis – Lei 10.931/04 ............  
+
+14.  Programa Minha Casa, Minha Vida - Lei 11.977/09 ...................  
+
+15.  Contribuição Social sobre o Lucro Líquido – Lei 10.833/03 ........  
+
+16. 
+
+Imposto de Renda – Lei 12.973/14............................................  
+
+17.  Sistema de Financiamento Imobiliário – Lei 9.514/97 ................  
+
+18.  Consumo Hídrico Individualizado – Lei 13.312/16 .....................  
+
+19.  Cerca Elétrica – Lei 13.477/17 ...................................................  
+
+20.  Declaração RAIS do Condomínio – Portaria 6.136/20 ................  
+
+21.  Súmulas do Superior Tribunal de Justiça – STJ ...........................  
+
+Parte II – Condomínio Comum
+22.  Código Civil: Condomínio Geral – Lei 10.406/02 ........................  
+
+23.  Código de Processo Civil – Lei 13.105/15 ..................................  
+
+24.  Código das Águas – Decreto 24.643/34 ....................................  
+
+25.  Código Florestal – Lei 12.651/12 ...............................................  
+
+26.  Estatuto da Terra – Lei 4.504/64................................................  
+
+27.  Lei de Falências – Lei 11.101/05 ...............................................  
+
+28.  Código Penal – Decreto-Lei 2.848/40 ........................................  
+
+29.  Regulamento do Imposto de Renda – Decreto 9.580/18 ...........  
+
+Parte III – Outras Leis Aplicáveis ao Condomínio
+30.  Acessibilidade a Pessoas com Deficiência – Lei 10.098/00 ........  
+
+31.  Regulamento da Lei de Acessibilidade – Decreto 5.296/04 ........  
+
+32.  Estatuto da Pessoa com Deficiência – Lei 13.146/15 .................  
+
+33.  Regulamento  de  Acessibilidade  em  Edificação  Residencial 
+ – Decreto 9.451/18 ..................................................................  
+
+34.  Lei Antifumo – Lei 9.294/96 ......................................................  
+
+95
+
+96
+
+98
+
+99
+
+100
+
+100
+
+101
+
+101
+
+103
+
+106
+
+109
+
+112
+
+113
+
+113
+
+114
+
+114
+
+115
+
+118
+
+119
+
+122
+
+124
+
+127
+
+LegislacaoCondominio_5Ed.indd   6
+LegislacaoCondominio_5Ed.indd   6
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+35.  Regulamento da Lei Antifumo – Decreto 2.018/96 ....................  
+
+36.  Contravenções Penais – Decreto-Lei 3.688/41 ...........................  
+
+37.  Manutenção de Ar-Condicionado – Lei 13.589/18 ....................  
+
+38.  Desperdício de Água em Banheiro Público – Lei 13.647/18 .......  
+
+39.  Código Civil: Direitos de Vizinhança – Lei 10.406/02 .................  
+
+Parte IV – Condomínios Especiais
+40.  Estatuto  da  Cidade:  Condomínio  de  Usucapião  Especial  –  Lei 
+10.257/01 .................................................................................  
+
+41.  Lei da Regularização Fundiária Urbana (Reurb): Condomínio Ur-
+bano Simples – Lei 13.465/17 ...................................................  
+
+42.  Regulamento da Reurb - Decreto 9.310/18................................  
+
+43.  Código Civil: Condomínio de Lotes e Direito Real de Laje – Lei 
+10.406/02 .................................................................................  
+
+44.  Código Civil: Condomínio em Multipropriedade – Lei 10.406/02  
+
+45.  Parcelamento de Solo Urbano – Lei 6.766/79 ............................  
+
+46.  Código de Processo Civil – Lei 13.105/15 ..................................  
+
+47.  Lei de Registros Públicos – Lei 6.015/73 ....................................  
+
+Sobre os autores .................................................................................  
+
+128
+
+128
+
+129
+
+129
+
+130
+
+138
+
+138
+
+139
+
+143
+
+146
+
+156
+
+157
+
+157
+
+160
+
+LegislacaoCondominio_5Ed.indd   7
+LegislacaoCondominio_5Ed.indd   7
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+LegislacaoCondominio_5Ed.indd   8
+LegislacaoCondominio_5Ed.indd   8
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+Apresentação
+
+Legislação do Condomínio: coletânea prática é o primeiro volume 
+da série Legisgrafia, publicada pela Editora Bonijuris com o intuito de 
+reunir com coerência a legislação de temas que importam ao dia a 
+dia.
+
+Nele o leitor encontrará uma compilação das normas legais que 
+regulamentam o importantíssimo segmento da compropriedade imo-
+biliária no país, com ênfase nos condomínios edilícios.
+
+A  preocupação  maior  foi  deixar  o  texto  enxuto,  sem  notas  e 
+comentários,  de  modo  a  não  engrossar  nem  encarecer  o  produto 
+final. Os artigos, incisos e parágrafos das leis pesquisadas foram meti-
+culosamente expurgados de quaisquer adendos que pudessem com-
+prometer a meta estabelecida, mas sem perder a visão do conjunto.
+O mérito almejado foi o de colocar num mesmo espaço – no for-
+mato  imbatível  de  um  livro  –  toda  a  legislação  do  condomínio, 
+livrando síndicos, administradores, advogados e outros interessados 
+da enxurrada de informações, úteis ou não, que uma busca na inter-
+net propicia.
+
+Esperamos que se torne uma fonte permanente de consulta.
+
+Editora Bonijuris
+
+Legislação do condomínio: coletânea prática 
+
+  9
+
+LegislacaoCondominio_5Ed.indd   9
+LegislacaoCondominio_5Ed.indd   9
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+LegislacaoCondominio_5Ed.indd   10
+LegislacaoCondominio_5Ed.indd   10
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+ Prefácio à 5ª Edição
+
+Lançado pela primeira vez em 2010, o livro Legislação do Condo-
+mínio chega à sua quinta edição – atualizada e ampliada. Consolida-
+mos as alterações que surgiram nas leis já transcritas nas quatro pri-
+meiras  edições,  e  investimos  na  ampliação  temática  a  partir  de 
+direitos e deveres inseridos em leis publicadas recentemente ou tam-
+bém em normas antigas, mas que agora trazem artigos que dizem 
+respeito à vida em condomínio. 
+
+Ganharam  destaque  os  novos  modelos  de  condomínio  regula-
+mentados nos últimos anos pelo legislador, como o Condomínio de 
+Usucapião  Especial,  Condomínio  Urbano  Simples,  Condomínio  de 
+Lotes, e Condomínio em Multipropriedade. A entrada de tais institu-
+tos  no  ordenamento  jurídico  motivou  a  ampliação  desta  obra  e  a 
+inclusão de uma quarta parte temática – Condomínios Especiais –, a 
+qual abrange, também, as normas relativas ao Direito Real de Laje, 
+construção coletiva tão comum nas grandes cidades.
+
+Quanto  ao  índice  temático  remissivo,  continuamos  a  boa  expe-
+riência das edições anteriores, em que procuramos fornecer excertos 
+suficientes a uma busca orientada. Pois, como chegar à informação 
+precisa  quando  nem  sempre  sabemos  exatamente  o  que  estamos 
+procurando? Dedicamos especial cuidado na elaboração de um índice 
+minucioso,  prático  e  objetivo,  que  não  só  indica  a  página  do  livro 
+como  faz  referência  (entre  parênteses)  à  partícula  da  lei  que  trata 
+especificamente do assunto.
+
+Legislação do condomínio: coletânea prática 
+
+  11
+
+LegislacaoCondominio_5Ed.indd   11
+LegislacaoCondominio_5Ed.indd   11
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+Nossa proposta também visa transformar o índice num verdadeiro 
+roteiro de consulta e pesquisa, ajudando a explicar a lei e a revelar 
+detalhes  às  vezes  obscuros  em  função  da  linguagem  hermética  do 
+legislador.
+
+Contamos com a colaboração do leitor para continuamente apri-
+
+morá-lo.
+
+Luiz Fernando de Queiroz
+Olga Maria Krieger
+Organizadores
+
+12 
+
+  Luiz Fernando de Queiroz e Olga Maria Krieger
+
+LegislacaoCondominio_5Ed.indd   12
+LegislacaoCondominio_5Ed.indd   12
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+Abreviaturas e Símbolos
+
+al. = alínea
+art. = artigo
+inc. = inciso
+it. = item
+§ = parágrafo
+§§ = parágrafos
+par. ún. = parágrafo único
+ss. = seguintes
+súm. = súmula
+v. = ver
+v.tb. = ver também
+
+Legislação do condomínio: coletânea prática 
+
+  13
+
+LegislacaoCondominio_5Ed.indd   13
+LegislacaoCondominio_5Ed.indd   13
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+LegislacaoCondominio_5Ed.indd   14
+LegislacaoCondominio_5Ed.indd   14
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+A
+
+Índice Temático
+
+A
+
+ABRIGO PARA VEÍCULOS (garagem)
+• alienação a terceiros (com aval da assembleia) 64 [art. 1.331, § 1º]
+• disposições gerais 72 [art. 2º, §§ 1º a 3º]
+• livre transferência a outro condômino 72 [art. 2º, § 2º]
+• locação 64 [art. 1.331, § 1º], 67 [art. 1.338]
+• penhora 103 [súm. 449]
+• proibição de venda a estranhos 72 [art. 2º, § 2º]
+• reserva de vaga para pessoa com deficiência 118 [art. 11, par. ún., 
+
+inc. I]
+
+• v.tb. garagem
+
+ABUSO DE PODER (do síndico) 69 [art. 1.349]
+
+AÇÃO DE DEMARCAÇÃO (entre condôminos)
+• citação dos condôminos 110 [art. 572, § 1º], 110 [art. 575]
+• condômino é parte legítima para promover a demarcação 110  
+
+[art. 575]
+
+• cumulação com ação de divisão 109 [art. 570]
+• disposições gerais 109 [art. 569, inc. I], 110 [arts. 574 e 575]
+• linha de demarcação 110 [art. 572]
+
+Legislação do condomínio: coletânea prática 
+
+  15
+
+LegislacaoCondominio_5Ed.indd   15
+LegislacaoCondominio_5Ed.indd   15
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+A
+
+AÇÃO DE DIVISÃO (da propriedade em comum)
+• benfeitorias dos condôminos 111 [art. 596, incs. I a III]
+• citação dos condôminos 110 [art. 572, § 1º], 111 [art. 594, § 1º]
+• cumulação com ação de demarcação 109 [art. 570]
+• disposições gerais 109 [art. 569, inc. II], 110 [art. 588 e ss.]
+• obrigação de partilha da coisa comum (no condomínio geral)  
+
+109 [art. 569, inc. II]
+
+• petição inicial 110 [art. 588]
+• plano de divisão e partilha 111 [arts. 595 e 596]
+• preferência de adjudicação de terreno contíguo 111 [art. 595]
+• procedimento da ação 110 [art. 588 e ss.]
+• sentença homologatória da divisão 112 [art. 597, § 2º]
+
+ACESSIBILIDADE (a pessoa com deficiência)
+• nas áreas de uso comum 126 [art. 7º]
+• nas instalações de uso coletivo 123 [art. 55]
+• nos edifícios de uso coletivo 118 [art. 11], 120 [art. 18 e ss.],  
+
+124 [art. 56]
+
+• nos edifícios de uso privado multifamiliar 118 [arts. 13 e 14],  
+
+120 [art. 18], 122 [art. 27], 124 [art. 58]
+
+• nos edifícios públicos ou de uso coletivo 118 [art. 11]
+
+ACESSO À RUA
+• definição 64 [art. 1.331, § 2º], 71 [art. 2º], 73 [art. 8º, al. d]
+• não se pode privar condômino do acesso à rua 64 [art. 1.331, § 4º]
+• para pessoa com deficiência 118 [art. 11, par. ún., inc. II]
+• passagem forçada para dar acesso à via pública 131 [art. 1.285]
+• utilização comum dos condôminos 64 [art. 1.331, § 2º]
+
+ADJUDICAÇÃO
+• de frações ideais 77 [art. 15, § 2º]
+• na ação de divisão 111 [art. 595]
+
+ADMINISTRAÇÃO (da coisa comum)
+• disposições gerais 108 [art. 1.323 e ss.]
+• eleição do administrador 108 [art. 1.323]
+• partilha dos frutos 108 [art. 1.326]
+
+16 
+
+  Luiz Fernando de Queiroz e Olga Maria Krieger
+
+LegislacaoCondominio_5Ed.indd   16
+LegislacaoCondominio_5Ed.indd   16
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+A
+
+• quórum de deliberação 108 [art. 1.325]
+
+ADMINISTRAÇÃO DAS PARTES COMUNS (condomínio urbano 
+
+simples) 139 [art. 62, § 4º]
+
+ADMINISTRAÇÃO (do condomínio edilício)
+• administrador profissional (regime de multipropriedade)  
+
+154 [art. 1.358-R]
+
+• assembleia geral 69 [arts. 1.350 a 1.355], 81 [art. 24]
+• competência do síndico 69 [art. 1.348, § 1º] 79 [art. 22, § 1º]
+• conselho consultivo 80 [art. 23]
+• conselho fiscal 70 [art. 1.356]
+• disposições gerais 68 [art. 1.347 e ss.]
+• eleição do síndico 68 [art. 1.347] 79 [art. 22, caput]
+• forma de administração na convenção do condomínio  
+
+65 [art. 1.334, inc. II]
+
+• inconveniente ou irregular 69 [art. 1.349]
+• vaga especial para portadores de deficiência 126 [art. 8º, § 3º]
+
+ADMINISTRADOR
+• citação em nome do administrador na desapropriação 92 [art. 16]
+• eleição do administrador da coisa comum 108 [art. 1.323]
+• representa o condomínio em juízo 84 [art. 75, inc. XI]
+• segurado obrigatório quando remunerado 93 [art. 9º, inc. V, al. i], 
+
+94 [art. 12, inc. V, al. f]
+
+ADQUIRENTE (novo proprietário)
+• entrada de novo adquirente no condomínio 78 [art. 18]
+• hipoteca firmada previamente (pela construtora) não tem eficácia 
+
+para o adquirente 103 [súm. 308]
+
+• instituição de reserva legal em condomínio (pelo adquirente)  
+
+• obtenção pelo adquirente de certidão negativa de débito  
+
+113 [art. 16]
+
+95 [art. 47, § 7º]
+
+• responsável pelos débitos de condomínio 68 [art. 1.345]
+
+ÁGUA
+• aproveitamento de queda d’água em condomínio 112 [art. 148, par. ún.]
+
+Legislação do condomínio: coletânea prática 
+
+  17
+
+LegislacaoCondominio_5Ed.indd   17
+LegislacaoCondominio_5Ed.indd   17
+
+06/11/2020   15:04
+06/11/2020   15:04
+
+Parte I
+Condomínio Edilício
+
+LegislacaoCondominio_5Ed.indd   63
+LegislacaoCondominio_5Ed.indd   63
+
+06/11/2020   15:05
+06/11/2020   15:05
+
+1
+
+CÓDIGO CIVIL: CONDOMÍNIO EDILÍCIO
+Lei 10.406, de 10 de janeiro de 2002
+Arts. 1.331 a 1.358
+
+ f Definições gerais do condomínio edilício
+
+Art. 1.331. Pode haver, em edificações, partes que são propriedade 
+exclusiva, e partes que são propriedade comum dos condôminos.   
+§  1º  As  partes  suscetíveis  de  utilização  independente,  tais  como 
+apartamentos, escritórios, salas, lojas e sobrelojas, com as respectivas 
+frações ideais no solo e nas outras partes comuns, sujeitam-se a pro-
+priedade exclusiva, podendo ser alienadas e gravadas livremente por 
+seus proprietários, exceto os abrigos para veículos, que não poderão 
+ser alienados ou alugados a pessoas estranhas ao condomínio, salvo 
+autorização expressa na convenção de condomínio. (Redação dada 
+pela Lei nº 12.607, de 2012)    
+§ 2º O solo, a estrutura do prédio, o telhado, a rede geral de distri-
+buição de água, esgoto, gás e eletricidade, a calefação e refrigeração 
+centrais, e as demais partes comuns, inclusive o acesso ao logradouro 
+público, são utilizados em comum pelos condôminos, não podendo 
+ser alienados separadamente, ou divididos.  
+§ 3º A cada unidade imobiliária caberá, como parte inseparável, uma 
+fração ideal no solo e nas outras partes comuns, que será identificada 
+em forma decimal ou ordinária no instrumento de instituição do con-
+domínio. (Redação dada pela Lei nº 10.931, de 2004) 
+§  4º  Nenhuma  unidade  imobiliária  pode  ser  privada  do  acesso  ao 
+logradouro público. 
+§ 5º O terraço de cobertura é parte comum, salvo disposição contrá-
+ria da escritura de constituição do condomínio.
+
+ f Formas de instituição do condomínio
+
+Art. 1.332. Institui-se o condomínio edilício por ato entre vivos ou 
+testamento, registrado no cartório de registro de imóveis, devendo 
+constar daquele ato, além do disposto em lei especial:  
+I – a discriminação e individualização das unidades de propriedade 
+exclusiva, estremadas uma das outras e das partes comuns; 
+
+64 
+
+  Luiz Fernando de Queiroz e Olga Maria Krieger
+
+LegislacaoCondominio_5Ed.indd   64
+LegislacaoCondominio_5Ed.indd   64
+
+06/11/2020   15:05
+06/11/2020   15:05
+
+II – a determinação da fração ideal atribuída a cada unidade, relativa-
+mente ao terreno e partes comuns;
+III – o fim a que as unidades se destinam.
+
+ f Convenção do condomínio
+
+Art. 1.333. A convenção que constitui o condomínio edilício deve 
+ser subscrita pelos titulares de, no mínimo, dois terços das frações 
+ideais e torna-se, desde logo, obrigatória para os titulares de direito 
+sobre  as  unidades,  ou  para  quantos  sobre  elas  tenham  posse  ou 
+detenção.   
+Parágrafo único. Para ser oponível contra terceiros, a convenção do 
+condomínio deverá ser registrada no cartório de registro de imóveis. 
+Art. 1.334. Além das cláusulas referidas no art. 1.332 e das que os 
+interessados houverem por bem estipular, a convenção determinará:  
+I – a quota proporcional e o modo de pagamento das contribuições 
+dos condôminos para atender às despesas ordinárias e extraordiná-
+rias do condomínio;   
+II – sua forma de administração;
+III  –  a  competência  das  assembleias,  forma  de  sua  convocação  e 
+quórum exigido para as deliberações;  
+IV – as sanções a que estão sujeitos os condôminos, ou possuidores;
+V – o regimento interno.
+§ 1º A convenção poderá ser feita por escritura pública ou por instru-
+mento particular.
+§  2º  São  equiparados  aos  proprietários,  para  os  fins  deste  artigo, 
+salvo disposição em contrário, os promitentes compradores e os ces-
+sionários de direitos relativos às unidades autônomas. 
+
+ f Direitos e deveres dos condôminos
+
+Art. 1.335. São direitos do condômino: 
+I – usar, fruir e livremente dispor das suas unidades;
+II – usar das partes comuns, conforme a sua destinação, e contanto 
+que não exclua a utilização dos demais compossuidores;
+
+Legislação do condomínio: coletânea prática 
+
+  65
+
+LegislacaoCondominio_5Ed.indd   65
+LegislacaoCondominio_5Ed.indd   65
+
+06/11/2020   15:05
+06/11/2020   15:05
+
+III – votar nas deliberações da assembleia e delas participar, estando 
+quite.
+Art. 1.336. São deveres do condômino:  
+I – contribuir para as despesas do condomínio na proporção das suas 
+frações ideais, salvo disposição em contrário na convenção; (Redação 
+dada pela Lei nº 10.931, de 2004)
+II – não realizar obras que comprometam a segurança da edificação;
+III – não alterar a forma e a cor da fachada, das partes e esquadrias 
+externas;
+IV – dar às suas partes a mesma destinação que tem a edificação, e 
+não as utilizar de maneira prejudicial ao sossego, salubridade e segu-
+rança dos possuidores, ou aos bons costumes.  
+§ 1º O condômino que não pagar a sua contribuição ficará sujeito 
+aos juros moratórios convencionados ou, não sendo previstos, os de 
+um por cento ao mês e multa de até dois por cento sobre o débito.  
+§ 2º O condômino, que não cumprir qualquer dos deveres estabele-
+cidos nos incisos II a IV, pagará a multa prevista no ato constitutivo ou 
+na convenção, não podendo ela ser superior a cinco vezes o valor de 
+suas contribuições mensais, independentemente das perdas e danos 
+que se apurarem; não havendo disposição expressa, caberá à assem-
+bleia  geral,  por  dois  terços  no  mínimo  dos  condôminos  restantes, 
+deliberar sobre a cobrança da multa.   
+Art. 1.337. O condômino, ou possuidor, que não cumpre reiterada-
+mente com os seus deveres perante o condomínio poderá, por deli-
+beração de três quartos dos condôminos restantes, ser constrangido 
+a pagar multa correspondente até ao quíntuplo do valor atribuído à 
+contribuição para as despesas condominiais, conforme a gravidade 
+das faltas e a reiteração, independentemente das perdas e danos que 
+se apurem.  
+Parágrafo único. O condômino ou possuidor que, por seu reiterado 
+comportamento antissocial, gerar incompatibilidade de convivência 
+com os demais condôminos ou possuidores, poderá ser constrangido 
+a pagar multa correspondente ao décuplo do valor atribuído à contri-
+buição  para  as  despesas  condominiais,  até  ulterior  deliberação  da 
+assembleia.   
+
+66 
+
+  Luiz Fernando de Queiroz e Olga Maria Krieger
+
+LegislacaoCondominio_5Ed.indd   66
+LegislacaoCondominio_5Ed.indd   66
+
+06/11/2020   15:05
+06/11/2020   15:05
+
+Art.  1.338.  Resolvendo  o  condômino  alugar  área  no  abrigo  para 
+veículos, preferir-se-á, em condições iguais, qualquer dos condômi-
+nos a estranhos, e, entre todos, os possuidores.    
+Art.  1.339.  Os direitos de cada condômino às partes comuns são 
+inseparáveis de sua propriedade exclusiva; são também inseparáveis 
+das frações ideais correspondentes as unidades imobiliárias, com as 
+suas partes acessórias.    
+§ 1º Nos casos deste artigo é proibido alienar ou gravar os bens em 
+separado.
+§ 2º É permitido ao condômino alienar parte acessória de sua uni-
+dade imobiliária a outro condômino, só podendo fazê-lo a terceiro se 
+essa faculdade constar do ato constitutivo do condomínio, e se a ela 
+não se opuser a respectiva assembleia geral. 
+Art. 1.340. As despesas relativas a partes comuns de uso exclusivo de 
+um condômino, ou de alguns deles, incumbem a quem delas se serve. 
+
+ f Obras e construção no condomínio
+
+Art. 1.341. A realização de obras no condomínio depende:   
+I – se voluptuárias, de voto de dois terços dos condôminos; 
+II – se úteis, de voto da maioria dos condôminos.
+§ 1º As obras ou reparações necessárias podem ser realizadas, inde-
+pendentemente de autorização, pelo síndico, ou, em caso de omis-
+são ou impedimento deste, por qualquer condômino. 
+§ 2º Se as obras ou reparos necessários forem urgentes e importarem 
+em despesas excessivas, determinada sua realização, o síndico ou o 
+condômino que tomou a iniciativa delas dará ciência à assembleia, 
+que deverá ser convocada imediatamente. 
+§  3º  Não  sendo  urgentes,  as  obras  ou  reparos  necessários,  que 
+importarem em despesas excessivas, somente poderão ser efetuadas 
+após autorização da assembleia, especialmente convocada pelo sín-
+dico, ou, em caso de omissão ou impedimento deste, por qualquer 
+dos condôminos.   
+§  4º  O  condômino  que  realizar  obras  ou  reparos  necessários  será 
+reembolsado das despesas que efetuar, não tendo direito à restitui-
+ção das que fizer com obras ou reparos de outra natureza, embora de 
+interesse comum. 
+
+Legislação do condomínio: coletânea prática 
+
+  67
+
+LegislacaoCondominio_5Ed.indd   67
+LegislacaoCondominio_5Ed.indd   67
+
+06/11/2020   15:05
+06/11/2020   15:05
+
+Art. 1.342. A realização de obras, em partes comuns, em acréscimo 
+às  já  existentes,  a  fim  de  lhes  facilitar  ou  aumentar  a  utilização, 
+depende  da  aprovação  de  dois  terços  dos  votos  dos  condôminos, 
+não sendo permitidas construções, nas partes comuns, suscetíveis de 
+prejudicar a utilização, por qualquer dos condôminos, das partes pró-
+prias, ou comuns.
+Art. 1.343. A construção de outro pavimento, ou, no solo comum, 
+de  outro  edifício,  destinado  a  conter  novas  unidades  imobiliárias, 
+depende da aprovação da unanimidade dos condôminos.     
+
+ f Conservação do terraço de cobertura
+
+Art.  1.344.  Ao proprietário do terraço de cobertura incumbem as 
+despesas da sua conservação, de modo que não haja danos às unida-
+des imobiliárias inferiores.  
+
+ f Adquirente é responsável pelos débitos condominiais
+
+Art. 1.345. O adquirente de unidade responde pelos débitos do 
+alienante,  em  relação  ao  condomínio,  inclusive  multas  e  juros 
+moratórios.   
+
+ f Seguro obrigatório
+
+Art.  1.346.  É  obrigatório  o  seguro  de  toda  a  edificação  contra  o 
+risco de incêndio ou destruição, total ou parcial.
+
+ f Eleição e competência do síndico
+
+Art. 1.347. A assembleia escolherá um síndico, que poderá não ser 
+condômino, para administrar o condomínio, por prazo não superior a 
+dois anos, o qual poderá renovar-se.  
+Art. 1.348. Compete ao síndico:   
+I – convocar a assembleia dos condôminos;
+
+68 
+
+  Luiz Fernando de Queiroz e Olga Maria Krieger
+
+LegislacaoCondominio_5Ed.indd   68
+LegislacaoCondominio_5Ed.indd   68
+
+06/11/2020   15:05
+06/11/2020   15:05
+
+

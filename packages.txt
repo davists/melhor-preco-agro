@@ -1,0 +1,6 @@
+tesseract-ocr 
+libtesseract-dev
+libgl1
+tesseract-ocr-por
+python-tk
+poppler-utils

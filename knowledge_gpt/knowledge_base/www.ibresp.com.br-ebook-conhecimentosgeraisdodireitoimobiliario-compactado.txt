@@ -1,0 +1,1273 @@
+CONHECIMENTOS GERAIS DO DIREITO 
+IMOBILIÁRIO: esclarecendo as dúvidas!
+
+Olá, tudo bem? 
+Eu sou a Eloisa Moreira 
+
+e  preparei  este  material  para 
+você,  corretor  de  imóveis,  para 
+esclarecer  as  principais  dúvidas 
+que  sempre  aparecem  sobre 
+Direito  Imobiliário  e  o  trabalho 
+do  corretor.  Por  entender  que 
+é  uma  área  de  conhecimento 
+muito  importante  na  condução 
+dos 
+imobiliários, 
+para  poder  dar  mais  clareza  e 
+segurança,  esse  guia  prático 
+apresenta perguntas e respostas 
+de 
+forma  clara,  objetiva  e 
+totalmente  voltado  para  o  seu 
+trabalho.  Não  se  esqueça  que 
+você é peça fundamental para o 
+mercado imobiliário.
+
+negócios 
+
+2
+
+Conhecimentos Gerais do Direito 
+Imobiliário: esclarecendo as dúvidas!
+AUTORA
+Eloisa Moreira 
+
+Direitos Autorais
+
+DIRETOR PRESIDENTE 
+Arnaldo Manoel Alves
+
+DIRETORA DE OPERAÇÕES 
+Jaqueline Araújo
+
+COORDENAÇÃO DE CURSOS 
+Lisamar Delazeri Castro
+
+COORDENAÇÃO DE PRODUÇÃO DE CURSOS 
+Rosa Maria Simone
+
+PROJETO GRÁFICO E DIAGRAMAÇÃO
+Marcos Tadeu Cecone
+
+INSTITUTO BRASILEIRO DE EDUCAÇÃO 
+PROFISSIONAL DO ESTADO DE SÃO PAULO
+
+Informamos que é de inteira 
+responsabilidade do(s) autor(es) a emissão 
+dos conceitos.
+
+Nenhuma parte desta publicação poderá ser 
+reproduzida por qualquer meio ou forma 
+sem prévia autorização do IBRESP.
+
+A violação dos direitos autorais é crime 
+estabelecido na Lei 9.610/98 e punido de 
+acordo com o Art. 184 do Código Penal.
+
+Dados Internacionais de Catalogação na Publicação (CIP)
+
+Conhecimentos gerais do direito imobiliário [livro
+
+4.926 kb
+Formato: PDF
+ISBN: 978-65-88399-26-2
+1. Direito imobiliário. 2. Corretor de imóveis –
+
+Moreira, Eloisa
+ 
+ 
+eletrônico]: esclarecendo suas dúvidas! / Eloisa
+Moreira. –- São Paulo: IBRESP, 2021.
+ 
+ 
+ 
+ 
+Trabalho. 3. Transações imobiliárias. I. Título.
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Sueli Costa - Bibliotecária - CRB-8/5213
+ (SC Assessoria Editorial, SP, Brasil)
+ 
+ 
+1. Direito imobiliário 346.04
+
+Índice para catálogo sistemático:
+
+   CDD-346.04   
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+  
+
+ 
+ 
+
+VEJA SÓ O QUE VAMOS ESCLARECER NESTE GUIA:
+
+1.      Corretor de imóveis pode ser profissional autônomo, associado ou empregado?
+
+2.     Quais as obrigações que a lei impõe ao corretor de imóveis?
+
+3.     Qual a responsabilidade civil do corretor de imóveis?
+
+4.     A intermediação pode ser realizada por mais de um corretor ou por apenas um    
+         corretor, com exclusividade?
+
+            
+
+5.     É necessário fazer contrato de prestação de serviço?
+
+6.     Quando é devida a remuneração do corretor de imóveis?
+
+7.     Como é fixada a remuneração do corretor de imóveis?
+
+8.     Quem deve pagar a remuneração do corretor: vendedor ou comprador?
+
+9.     E se o cliente desistir do negócio, como fica o pagamento da remuneração do  
+         corretor?
+
+ 
+
+10.   Intermediação realizada e negócio fechado, como proceder com o contrato de        
+         compra e venda?
+
+11.   Como e por que é importante solicitar matrícula atualizada do imóvel?
+
+12.   Quais documentos solicitar às partes?
+
+13.   Diferença entre promessa de compra e venda, compromisso de compra e venda,          
+         escritura pública de compra e venda e cessão de direitos.
+
+14.   Quem paga os custos de cartório referente à transferência do imóvel?
+
+15.   O marido, a esposa, o companheiro e a companheira precisam assinar o contrato?
+
+4
+
+16.     É necessário que testemunhas assinem o contrato? Também é necessário que a    
+           assinatura seja reconhecida em cartório? 
+
+17.     Após assinatura do contrato de compra e venda, como proceder?
+
+18.     Como funciona a intermediação de compra e venda de imóvel cujo pagamento será  
+           financiado com o banco?
+
+19.     É necessário fazer uma vistoria no imóvel como requisito para vender?
+
+20.    É possível intermediar um negócio envolvendo imóvel que tem dívida?
+
+21.     É possível intermediar um negócio envolvendo imóvel que não possui matrícula?
+
+22.     Como proceder quando há um inquilino no imóvel que será vendido ou comprado?
+
+23.     É necessária a realização de vistoria antes de iniciar a locação e após a saída do    
+           inquilino do imóvel?
+
+24.     Quais as principais cláusulas de um contrato de locação?
+
+25.     Como funciona a entrega das chaves em uma locação?
+
+26.     É necessário pedir certidões e analisar a matrícula do imóvel para fins de locação?
+
+27.     Como funciona a aplicação da multa em uma locação?
+
+28.     Quem é responsável pela administração da locação: proprietário ou corretor de    
+            imóveis?
+
+29.     Se o imóvel for vendido durante o período da locação, é obrigatório o pagamento            
+            da comissão do corretor ou precisar constar no contrato?
+
+ENTÃO, VAMOS COMEÇAR:
+
+1. Corretor de imóveis pode ser 
+profissional autônomo, associado 
+ou empregado?
+
+O  corretor  pode  trabalhar  de  forma  autônoma,  sem  estar  vinculado  a  ninguém  e  a  nenhuma 
+imobiliária. Também pode ter vínculo com uma, ou com mais de uma imobiliária ou, ainda, ser 
+empregado em uma imobiliária. Mas atente-se: caso haja contrato assinado e a imobiliária exija 
+exclusividade, o corretor deverá limitar-se a trabalhar em favor daquela empresa apenas.
+ 
+Dependendo da oferta feita ao corretor, é possível trabalhar como associado em uma imobiliária, 
+sem  deixar  de  trabalhar  de  forma  autônoma  ou  de  fazer  parceiras  com  outros  colegas  ou  com 
+outras imobiliárias.
+ 
+É claro que a escolha da forma de atuação depende de vários fatores, como: fase e preparação 
+profissional,  experiência,  contatos/carteira  de  clientes,  remuneração  (trabalhando  como 
+empregado  ou  associado,  não  receberá  o  valor  integral  das  comissões),  estrutura,  acervo  de 
+oportunidades etc. 
+ 
+Não existe certo ou errado, tanto que essas possibilidades de atuação estão previstas na lei que 
+regula a profissão do corretor de imóveis (Lei 6.530/78). A escolha depende da fase profissional e 
+das oportunidades que surgirem.
+
+2. Quais as obrigações que a lei 
+impõe ao corretor de imóveis?
+
+Quantas vezes você já escutou que a obrigação do corretor é de RESULTADO? Ou seja, que o corretor 
+somente vai receber se conseguir fechar o negócio. Diz aí: já escutou algo parecido, certo?
+
+Pois bem, essa palavra “resultado” aparece no artigo 725 do Código Civil e significa que a obrigação 
+do  corretor  é  atingir  o  resultado  combinado  com  o  cliente,  seja  ele  compra,  venda,  locação, 
+permuta etc.
+
+6
+
+É só isso? Não! 
+
+Além  da  obrigação  de  resultado,  o  corretor  também  precisa  prestar  atenção  em  outras  duas 
+obrigações que estão no artigo 723 do Código Civil:
+
+A)       A obrigação de intermediar o negócio com diligência e prudência; e
+B)      A  obrigação  de  prestar  todas  as  informações  e  todos  os  esclarecimentos  sobre 
+
+ 
+ 
+ 
+                          a segurança e os riscos do negócio ao cliente, de forma espontânea.
+ 
+
+Então, você pode pensar: mas o que seria agir com diligência e prudência? Quais seriam todas 
+essas informações que precisam ser passadas ao cliente?
+
+Os Tribunais, depois de julgarem várias situações que questionavam exatamente essas dúvidas, 
+entenderam que não basta somente localizar o imóvel desejado pelo cliente e, pronto, fechar o 
+negócio.
+ 
+É necessário tomar outras atitudes, como solicitar a matrícula atualizada do imóvel, verificar a 
+existência de ônus no imóvel, como: hipoteca, penhora, alienação fiduciária não quitada, entre 
+outros; verificar a existência de dívidas relacionadas ao imóvel e as pessoas envolvidas no negócio, 
+investigar a atual situação das partes envolvidas, incluindo o marido/a esposa e o companheiro/a 
+companheira.
+ 
+Ou  seja,  precisa  fazer  uma  investigação  completa  sobre  a  situação  do  imóvel  e  das  pessoas 
+envolvidas na negociação, passar um pente fino, para evitar prejuízos ao cliente e, principalmente, 
+para evitar a responsabilização do corretor de imóveis, caso o cliente tenha algum prejuízo.
+
+3. Qual a responsabilidade civil 
+do corretor de imóveis?
+
+Lembra das obrigações do corretor de imóveis? Então, se elas não forem cumpridas, o corretor 
+poderá ser responsabilizado e poderá responder por perdas e danos.
+ 
+Perdas e danos é uma expressão que o “povo do Direito” usa para se referir a um prejuízo, que 
+pode ser material ou moral (sabe aquele famoso “danos morais”? É esse mesmo). 
+ 
+Responder por perdas e danos significa que se, em razão de uma ação ou da falta de uma ação 
+do corretor, como por exemplo: omitir uma informação sobre o negócio, deixar de analisar um 
+documento  importante,  como  a  matrícula  atualizada,  o  cliente  tiver  um  prejuízo,  o  corretor 
+precisará arcar com este prejuízo.
+ 
+Mas,  para  que  o  corretor  arque  com  esse  prejuízo,  é  necessário  que  o  cliente  prove  que  esse 
+prejuízo aconteceu por culpa do corretor de imóveis.
+ 
+Em outras palavras, se o corretor for negligente e não analisar toda a documentação do imóvel e 
+das partes envolvidas no negócio e, por isso, o negócio fracassar e o cliente perder dinheiro, ele 
+vai poder exigir que o corretor arque com o prejuízo que ele sofreu.
+ 
+Por  outro  lado,  se  o  corretor  for  diligente  e  sempre  verificar  se  existem  pendências  ou 
+irregularidades  referentes  ao  negócio  que  o  cliente  deseja  e,  principalmente,  alertá-lo,  não 
+poderá ser responsabilizado. 
+
+! DICA: 
+
+ainda que o cliente queira prosseguir com o negócio, 
+é  importante  que  o  corretor  se  proteja  por  meio  da 
+elaboração  de  um  termo  de  ciência,  que  deverá  ser 
+assinado  pelo  cliente,  justamente  para  comprovar 
+que ele foi alertado sobre os riscos do negócio e que, 
+mesmo assim, decidiu prosseguir.
+
+8
+
+4. A intermediação pode ser realizada 
+por mais de um corretor ou por apenas 
+um corretor, com exclusividade? 
+
+A intermediação pode ser feita das duas formas.
+
+1-  Um  time  de  corretores  pode  trabalhar  em  prol  de  uma  negociação,  sendo  cada  um  deles 
+remunerado em porcentagens iguais. 
+ Por  exemplo,  seis  corretores  trabalharam  para  realizar  a  venda  de  um  determinado  imóvel, 
+no valor de R$ 100.000,00. Concluíram a venda e alcançaram o resultado. Como remuneração, 
+receberam 6% sobre o valor do imóvel, ou seja, R$ 6.000,00. Então, cada um dos seis corretores 
+receberá R$ 1.000,00 pelo trabalho realizado. Claro que nem sempre a divisão acontece desse jeito. 
+Em regra, é isso que o Código Civil, no artigo 728, diz. 
+ Mas, é possível ajustar o percentual de pagamento de acordo com outros fatores, como:
+ 
+ 
+ 
+ 
+ 
+ 2- Por outro lado, o cliente pode preferir a contratação exclusiva de um corretor ou de apenas uma 
+imobiliária. Nesse caso, a remuneração será paga de forma integral ao corretor ou a imobiliária, e 
+este fará a divisão com os parceiros envolvidos.
+ 
+Essa possibilidade de contratação exclusiva está prevista no Código Civil, nos artigos 726 e 727, 
+que, em resumo dizem o seguinte:
+
+A)  parâmetros  de  mercado  (naquela região, como a divisão da remuneração costuma ser  
+feita);
+B) parâmetros da imobiliária (como funciona naquela imobiliária);
+C) acordo com os colegas envolvidos.
+
+• 
+Artigo  726:  se  o  negócio  for  fechado  sem  a  intermediação  do  corretor,  ele  não  será 
+remunerado.  Mas,  se  o  cliente  contratou  um  corretor  ou  uma  imobiliária,  com  exclusividade, 
+ainda que o negócio seja fechado sem o auxílio profissional, o cliente deverá pagar a remuneração, 
+a não ser que o corretor ou a imobiliária não tenham feito nada.
+
+Artigo 727: aqui temos duas possibilidades:
+
+• 
+1. a exclusividade pode ser ajustada por um prazo determinado, por exemplo, 04 meses. Se passar 
+esse  prazo  e  o  cliente  fechar  negócio,  não  precisará  pagar  a  remuneração  do  corretor.  Porém, 
+se o cliente fechar o negócio depois do prazo de exclusividade, em razão do trabalho feito pelo 
+corretor, por exemplo, com alguém com quem o corretor estava negociando há um tempo, deverá 
+pagar a remuneração;
+
+2. se não for estabelecido um prazo de exclusividade do serviço e se o cliente dispensar o corretor 
+e, em seguida, fechar o negócio com alguém com quem o corretor estava negociando, deverá pagar 
+a remuneração.
+ 
+Uma dica importante para comprovar as negociações com pessoas interessadas é fazer um termo 
+de cancelamento da exclusividade, incluir o nome e contato dos interessados agenciados e pedir 
+para o cliente assinar. 
+ 
+Assim, será mais fácil para comprovar que se o negócio foi concluído devido ao seu esforço e que, 
+portanto, a remuneração é devida.
+
+5. É necessário fazer contrato de 
+prestação de serviço? 
+
+É mais do que necessário!
+
+Anota aí: sempre,
+sempre, sempre,
+faça um contrato.
+
+Ter um contrato é essencial para estabelecer os limites do serviço que você presta e para resguardar 
+os seus direitos, sobretudo o direito de remuneração.
+E não só, o contrato estabelece os limites de prestação do serviço do corretor de imóveis e, por 
+consequência,  o  resultado  desejado  pelo  cliente;  as  obrigações  do  profissional  e  do  cliente;  as 
+consequências de uma possível exclusividade na prestação do serviço e de possíveis problemas 
+que podem acontecer; e, especialmente, a remuneração ($$).
+
+• VOCÊ PODE ESTAR PENSANDO: 
+ah, mas Eloisa, eu não tenho tempo de fazer um contrato 
+
+ 
+ 
+              para cada cliente ...
+ 
+ 
+ 
+
+E por isso eu te respondo o seguinte: tenha um documento 
+padrão e, de acordo com cada cliente, ajuste o que for preciso. 
+Isso vai te poupar tempo.
+
+10
+
+Agora, se realmente você não conseguir separar uns minutinhos para ajustar o contrato, faça, pelo 
+menos, um termo em que o cliente irá autorizar que você negocie em nome dele e que, se você 
+conseguir fechar o negócio, será devida a remuneração “x”.
+
+Se você tiver como, contrate um advogado, para que ele faça esse modelo padrão. Você gastará 
+uma única vez, terá um documento bem-feito e quando necessário mudará apenas nomes, datas, 
+valores, o imóvel e uma ou outra cláusula, mas não terá o trabalho de redigir ele todo. Invista em 
+sua segurança.
+ 
+Tanto  no  contrato  quanto  nesse  termo  é  importante  que  conste  a  autorização  do  cliente  em 
+relação  ao  uso  dos  dados  dele  (nome,  RG,  CPF  etc.)  e  das  imagens  do  imóvel  para  divulgação, 
+para que você não corra o risco de ser multado pelo descumprimento da Lei Geral de Proteção 
+de Dados, justamente porque o objetivo dessa lei é a proteção dos dados das pessoas, para evitar 
+que eles sejam expostos. 
+
+Falando em LGPD, caso queira saber mais sobre o assunto e como impacta na área imobiliária, 
+confira o material que o Ibresp preparou:
+
+6.  Quando é devida a remuneração do 
+corretor de imóveis? 
+
+O Código Civil ensina, no artigo 725, que a remuneração é devida ao corretor quando ele alcançar 
+o resultado previsto no contrato de mediação, ainda que o resultado não se realize em virtude de 
+arrependimento das partes. 
+ 
+Em  resumo,  a  lei  explica  que  o  corretor  de  imóveis  somente  será  remunerado  se  alcançar 
+o  resultado  pretendido,  combinado  em  contrato,  pelo  cliente,  ainda  que  ele  ou  a  outra 
+pessoa envolvida se arrependa e desista do negócio. 
+ 
+Esse arrependimento não pode ter qualquer razão para ocorrer. Deve ser de interesse pessoal de 
+uma das partes envolvidas na negociação, sem nenhuma causa plausível que tenha influenciado a 
+decisão de desfazer o negócio.  
+
+7.  Como é fixada a remuneração do 
+corretor de imóveis?
+
+Regra geral, a remuneração do corretor é combinada com o cliente ou com a imobiliária para quem 
+o corretor presta serviços. 
+ 
+Mas, no artigo 724 do Código Civil - sim, sempre ele - constam dois parâmetros que podem ser 
+utilizados, em caso de dúvida na hora de precificar o serviço:
+ 
+a) natureza do negócio: de que se trata o negócio? Compra e venda? Permuta? Avaliação? É imóvel 
+urbano ou rural? Quais são os valores envolvidos na negociação?
+b) usos locais: no mercado local, ou seja, na região em que você atua, como é fixado o valor de 
+remuneração? Muitas vezes a tabela de honorários do CRECI de cada Estado é utilizada, justamente 
+como parâmetro para auxiliar na precificação do serviço prestado pelo corretor.
+ 
+Claro que outros fatores podem contribuir para a precificação do trabalho do corretor, como a 
+experiência profissional e a demanda de trabalho, mas a tabela de honorários do CRECI do seu 
+Estado pode ser utilizada como um dos argumentos para explicar ao cliente o valor do seu serviço. 
+Fica a dica!
+
+12
+
+Lógico  que  se  você  se  dedicar  a  um  ramo  específico,  se  aperfeiçoar  e  tiver  uma  expertise 
+diferenciada, seus honorários poderão ser diferenciados também. Por isso, estude, se aperfeiçoe 
+sempre e invista em sua carreira.
+
+8.  Quem deve pagar a remuneração do 
+corretor: vendedor ou comprador?
+
+A pessoa que contrata o serviço é responsável pelo pagamento da remuneração do corretor. Mas, é 
+possível que as pessoas envolvidas na negociação decidam quem fará o pagamento.
+ 
+Não esqueça de especificar no contrato de intermediação de quem será essa obrigação para evitar 
+aquele famoso “veja bem” no futuro.
+
+9.  E se o cliente desistir do negócio, como 
+fica o pagamento da remuneração do 
+corretor? 
+
+O  corretor  presta  um  serviço  ao  cliente,  mas  somente  é  remunerado  se  alcançar  o  resultado 
+acordado. Ou seja, não basta apenas aproximar as partes e intermediar o negócio entre elas, É 
+NECESSÁRIO QUE O NEGÓCIO SEJA FECHADO.
+
+ 
+
+E QUANDO QUE O NEGÓCIO É CONSIDERADO FECHADO?
+
+ 
+Não, não é com o aperto de mãos! Os Tribunais entendem que o fechamento do negócio ocorre 
+com a assinatura do contrato de promessa de compra e venda ou da escritura pública de compra e 
+venda.
+
+Então, se o cliente desistir do negócio antes da assinatura do contrato de promessa de compra e 
+venda ou da escritura pública de compra e venda, a remuneração do corretor não será devida.
+ 
+Contudo, se o cliente desistir depois de fechar o negócio, a remuneração do corretor será devida.
+ 
+O artigo 725 do Código Civil é claro ao afirmar que a comissão de corretagem será devida ainda 
+que  o  resultado  pretendido,  isto  é,  o  negócio  de  interesse  do  cliente,  não  se  realize,  devido  ao 
+arrependimento de uma das pessoas envolvidas. 
+
+Porém, esse arrependimento não pode ser motivado.
+ 
+O arrependimento motivado é aquele em que uma das pessoas envolvidas no negócio desiste - se 
+arrepende - em razão de uma atitude provocada pelo corretor: inércia na prestação do serviço, 
+descumprimento dos devedores (tratamos dele na questão 02), ou, ainda, por eventual insegurança 
+jurídica verificada e não informada pelo corretor de imóveis.
+ 
+Em  outras  palavras,  se  a  pessoa  desistir  do  negócio  porque  o  corretor  não  prestou  um  bom 
+serviço, não passou um pente fino na situação do imóvel e das pessoas envolvidas para verificar se 
+existia algum problema a ser resolvido, sobretudo não puxou as certidões negativas e a matrícula 
+atualizada, não informou as partes sobre todas as informações necessárias, a remuneração não 
+será devida, porque o corretor deu causa à desistência do negócio.
+ 
+Percebe como é importante fazer uma investigação imobiliária redondinha?!
+ 
+Agora, se a desistência em prosseguir com o negócio for imotivada, sem um motivo concreto, mas 
+apenas a falta de interesse ou ao simples arrependimento de fechar aquele negócio, a remuneração 
+será sim devida ao corretor, porque ele prestou o serviço com diligência, prudência e com respeito 
+às obrigações legais, porém a pessoa simplesmente perdeu o interesse no negócio.
+ 
+Então, nesse caso, o trabalho do corretor não pode ser prejudicado.
+
+10. Intermediação realizada e negócio 
+fechado, como proceder com o contrato 
+de compra e venda? 
+
+Depois  de  fechado  o  negócio,  o  primeiro  passo  é  fazer  uma  due  diligence,  antes,  inclusive,  de 
+efetivamente aconselhar o cliente a assinar o contrato.
+
+ 
+- MAS, ELOISA, O QUE É DUE DILIGENCE?
+ 
+Due  diligence  significa  diligência  devida.  No  Direito 
+Imobiliário,  o  objetivo  dessa  diligência  é  investigar  a  situação  do 
+imóvel  e  das  pessoas  envolvidas  na  negociação,  a  partir  de  vários 
+documentos  (confira  as  questões  11  e  12)  e  também  da  lei,  para 
+verificar  se  há  algum  problema  que  precisa  ser  resolvido,  por 
+exemplo, uma dívida de IPTU pendente, a penhora do imóvel, um 
+marido ou uma esposa que foi escondido durante a negociação.
+
+14
+
+Em resumo, é preciso passar um pente fino no negócio e analisar a matrícula atualizada do imóvel, 
+dívidas  relacionadas  ao  imóvel,  inclusive  de  tributos  (IPTU,  taxa  de  lixo,  taxa  de  iluminação, 
+dívidas  com  a  Receita  Federal,  Estadual  ou  Municipal),  regularidade  da  construção,  situação 
+pessoal e financeira do vendedor e do comprador (será que o vendedor pode realmente vender o 
+imóvel? Será que o comprador tem nome limpo para comprar o imóvel?) etc. 
+ 
+Essa  investigação  é  extremamente  importante  para  reduzir  o  risco  da  aquisição,  porque  a 
+aquisição de um imóvel é um investimento considerável, que precisa de segurança para ser feito 
+com tranquilidade.
+ 
+A intenção não é travar o negócio. Pelo contrário! É apresentar o panorama do negócio, verificar 
+se ele é viável e seguro e sugerir soluções caso existam problemas que podem ser resolvidos para 
+viabilizar a assinatura do contrato. 
+ 
+Pode  ser  que  não  seja  possível  vencer  os  problemas  apresentados,  porque,  infelizmente,  nem 
+sempre é possível. Então, nesse caso, restará apenas desaconselhar o negócio. Por isso, é muito 
+importante fazer essa investigação, inclusive para evitar uma responsabilização - um processo - 
+no futuro.
+
+11. Como e por que é importante solicitar 
+matrícula atualizada do imóvel? 
+
+A  matrícula  é  o  documento  mais  importante  em  qualquer  negócio  imobiliário.  Então,  nunca 
+esqueça  de  perguntar  se  o  cliente  tem  a  matrícula  atualizada  do  imóvel  ou  ofereça  a  ele  a 
+possibilidade de solicitar esse documento.
+ 
+A matrícula precisa ser atualizada! E quando a gente fala atualizada quer dizer com, no máximo, 
+30 dias. Ou seja, não tem como aceitar aquele papel amarelado que o cliente tem guardado.
+
+O que a matrícula mostra?
+
+•  descrição e o tipo de imóvel;
+
+•  quem é o proprietário do imóvel;
+
+•  se o imóvel pertence a mais de uma pessoa 
+    (casamento, sucessão, condomínio);
+
+•  número de contribuinte municipal, número do cadastro
+    rural, número do cadastro na SPU (imóveis de marinha),
+    entre outros números importantes;
+
+•  averbação de construção na matrícula;
+
+•  se há contrato averbado ou registrado, com cláusula de  
+    locação vigente;
+
+•  se há promessa de compra e venda anterior averbada;
+
+•  se o contrato foi dado em garantia real de um empréstimo 
+    ou financiamento, com alienação fiduciária;
+
+•  se há registro de servidão, anticrese e demais direitos reais   
+    de uso sobre coisa alheia;
+
+•  se há usufruto registrado;
+
+•  se houve venda de ascendente para descendente, com  
+    anuência dos demais descendentes;
+
+•  registro de ações judiciais (averbação premonitória) 
+    e penhoras;
+
+•  Restrições legais e convencionais.
+
+16
+
+Mas, se o cliente não tem a matrícula atualizada, onde é possível solicitar esse documento?
+ Você tem duas opções:
+ 
+ 
+Obs.: em algumas cidades, como São Paulo, há mais de um Registro de Imóveis. Então, é necessário 
+verificar qual é o Cartório responsável pelo imóvel que está sendo negociado.
+
+1. No Cartório de Registro de Imóveis onde está localizado o imóvel.
+
+ 
+2.  Na  Central  de  Registro  de  Imóveis  do  Brasil,  acesse:  https://www.registrodeimoveis.
+org.br/. Basta acessar, escolher o Estado desejado, fazer o cadastro caso você não tenha, fazer a 
+solicitação (tenha em mãos o número da matrícula e o Cartório) e fazer o pagamento, que depende 
+de cada Estado. Normalmente, a matrícula é disponibilizada na hora ou, no máximo, em 48 horas.
+
+12.  Quais documentos mínimos para 
+solicitar as partes? 
+
+SE PREPARA PARA O CHECKLIST!
+Documentos do imóvel:
+  
+ 
+ 
+ 
+ 
+ 
+
+matrícula atualizada do imóvel;
+certidão negativa de IPTU, se o imóvel for urbano;
+certidão negativa de ITR, se o imóvel for rural;
+certificado de cadastro de imóvel rural, se for o caso;
+certidão negativa de débitos de condomínio; e
+certidão de imóveis enfitêuticos, se o imóvel for de domínio útil da união.
+
+Documentos do comprador e do vendedor:
+
+RG e CPF;
+comprovante de endereço atualizado;
+certidão atualizada do estado civil;
+certidão negativa de protestos; 
+certidão de feitos ajuizados: justiça estadual, justiça federal e justiça do trabalho;
+certidão negativa de débitos (mobiliários e imobiliários) municipais;
+certidão negativa de débitos (inscritos e não inscritos) estaduais;
+certidão negativa de débitos federais; 
+certidão negativa de débitos trabalhistas;
+declaração de domicílio e local de trabalho nos últimos 10 anos (para que você saiba em que             
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+              cidades/estados é necessário buscar certidões); e
+ 
+
+declaração se é sócio ou não de empresas, ou se foi nos últimos 20 anos.
+
+Esses documentos são essenciais para qualquer negociação, mas, a depender do número de pessoas 
+envolvidas e da complexidade do negócio, é possível que outros documentos sejam solicitados.
+ 
+13.  Diferença entre promessa de compra e 
+venda, compromisso de compra e venda, 
+escritura pública de compra e venda e 
+cessão de direitos.
+
+Promessa de compra e venda: é um contrato preliminar que pode ser elaborado por instrumento 
+particular  ou  público  (escritura  pública).  É  retratável  e  revogável,  ou  seja,  pode  ser  desfeito,  e 
+pode depender de uma condição futura e incerta, por exemplo: se eu vender 500 sacos de soja até 
+o mês de setembro, concluímos o negócio.
+ 
+Compromisso de compra e venda: é um contrato que também pode ser elaborada por instrumento 
+particular ou público (escritura pública). É irretratável e irrevogável, ou seja, não pode ser desfeito. 
+É o contrato utilizado na rotina dos corretores, especialmente quando há algum impeditivo para a 
+operacionalização direta do contrato definitivo, ou seja, da escritura pública, como o pagamento 
+parcelado do valor do imóvel. Nesse contrato, a condição para elaboração do contrato definitivo é 
+futura e certa. 
+ 
+Contrato de compra e venda: é o contrato definitivo, no qual o objeto principal é efetivamente a 
+compra e venda, ou seja, não há um evento futuro, certo ou incerto, do qual o negócio dependa. Se 
+for de imóvel de valor acima de 30 salários-mínimos nacionais deverá, obrigatoriamente, ser feito 
+por escritura pública (artigo 108 do Código Civil) ou por instrumento particular que tenha força 
+de escritura pública, como os contratos de financiamentos feitos pelas instituições financeiras.
+ 
+Escritura  pública:  é  um  documento  público,  escrito  (lavrado)  pelo  Tabelião  de  Notas.  Esse 
+documento tem fé pública, ou seja, até que se prove o contrário, o que está escrito ali é verdade. A 
+escritura pública é muito utilizada para documentar a compra e venda de imóveis, mas também 
+pode ser usada para outros fins, como a instituição de usufruto, para doação, nos procedimentos 
+de divórcios e inventários, enfim.
+
+18
+
+Cessão de direitos: também pode ser realizada por documento particular ou por escritura pública. 
+Aqui, o objeto do negócio é a transmissão dos direitos e das obrigações de uma pessoa para outra. 
+Por exemplo: José morreu e deixou um imóvel de herança para seus 04 herdeiros. Os herdeiros 
+têm interesse em vender o imóvel, porém não tem dinheiro para fazer o inventário (aliás, tome 
+cuidado:  a  compra  ou  a  venda  de  imóvel  em  nome  de  pessoa  falecida  precisa  ser  regularizada 
+por meio de inventário). Nesse caso, os herdeiros poderão ceder os direitos e as obrigações que 
+possuem sobre o imóvel para quem deseja comprar o bem, por escritura pública (não pode ser por 
+contrato particular). Então, a pessoa que deseja adquirir o bem, será o cessionário, ou seja, quem 
+vai receber os direitos e as obrigações, e deverá fazer o inventário para poder adjudicar (pegar para 
+si) o imóvel e passa-lo para seu nome. Caso contrário, se a cessão for feita por simples contrato 
+particular, a pessoa adquirirá apenas direitos e não será proprietário do imóvel.
+
+14. Quem paga os custos de cartório 
+referente a transferência do imóvel?
+
+A lei diz que é o comprador: 
+ 
+Artigo 490, Código Civil. Salvo cláusula em contrário, ficarão as despesas de escritura e registro a 
+cargo do comprador, e a cargo do vendedor as da tradição.
+
+O que é “tradição”? De família? Não, não senhores! Brincadeiras à parte, tradição neste contexto 
+significa – TRANSFERÊNCIA (do imóvel). Mas, na prática como estamos falando de IMÓVEL, a 
+tradição jurídica ocorre com o registro da escritura ou contrato de financiamento na matrícula, 
+então esta parte final não se aplicaria a bens imóveis.
+No entanto, nada impede que o vendedor pague, se as partes combinarem dessa forma. Ou seja, é 
+possível negociar.
+ 
+
+15.  O marido, a esposa, o companheiro 
+e a companheira precisam assinar o 
+contrato?
+SEMPRE! 
+
+Só tem uma exceção: no regime da separação TOTAL de bens!
+*  Não  esqueça  de  solicitar  a  certidão  atualizada  de  estado  civil  das  pessoas  envolvidas  na 
+negociação.
+ 
+
+O artigo 1.647 do Código Civil fala assim: se você não for casado pelo regime da separação absoluta 
+de bens (nesse regime, cada um tem os seus bens antes do casamento ou da união estável, mas 
+podem adquirir bens enquanto estiverem juntos), não vai rolar vender, dar em garantia o imóvel, 
+entrar com ação judicial ou ser réu quando o tema do processo for bem imóvel, prestar fiança ou 
+aval, fazer doação de bens do casal ou dos que possam integrar futura meação se o seu “benzinho” 
+não autorizar.
+ 
+Na prática, isso acontece? Acontece! Nem todos são tão “benzinhos” assim. 
+ 
+Nesse caso, o ato, ou seja, uma compra e venda por exemplo, poderá ser anulado pelo cônjuge ou 
+companheiro que não participou da venda, em até 02 anos após o término do casamento ou da 
+união estável (artigo 1.649 do Código Civil).
+ 
+Mas, o que fazer quando o “benzinho” não quiser dar autorização? 
+ 
+Se ele não tiver um bom motivo (e, aqui, não conta a simples vontade), você terá que abrir um 
+processo e pedir para que o Juiz - isso mesmo, o Juiz - supra essa autorização (artigo 1.648 do 
+Código Civil). E aqui vai mais uma dica: Tenha um advogado parceiro para esses problemas, porque 
+correr atrás na última hora, quando as partes já estão com a caneta para assinar o contrato pode 
+ser bem difícil.
+
+16. É necessário que testemunhas 
+assinem o contrato? Também é 
+necessário que a assinatura seja 
+reconhecida em cartório? 
+
+Sim, é necessário que duas testemunhas assinem o contrato, porque, nesse caso, o contrato se 
+tornará um título executivo extrajudicial, de acordo com o artigo 784, inciso III, do Código de 
+Processo Civil.
+ 
+Isso  significa  que,  se  assinado  por  duas  testemunhas,  o  contrato  vai  poder  ser  diretamente 
+executado.
+ 
+CALMA!  Executado, quer dizer cobrado em um processo judicial. Ou seja, se uma das partes 
+descumprir uma obrigação prevista no contrato, como a obrigação de pagar, a parte prejudicada 
+poderá abrir um processo de execução e cobrar diretamente o valor pendente de pagamento.
+
+20
+
+“Mas Eloisa, isso já não 
+
+funciona assim?”
+
+Não exatamente. Quando um contrato não tem assinatura de duas testemunhas e uma das partes 
+não cumpre com a obrigação de pagar, por exemplo, a pessoa prejudicada também poderá abrir 
+um processo para cobrar o valor. 
+ 
+Mas, nesse caso, ela vai precisar provar um monte de coisas ao Juiz e, só depois de sair a sentença 
+(ou seja, muito tempo depois), ela vai poder executar, ou seja, tentar efetivamente receber aquele 
+valor.
+ 
+Com a assinatura das duas testemunhas no contrato, como já expliquei, ele se torna um título 
+executivo, e pode ser executado direto, sem precisar daquele primeiro processo, o que agiliza em 
+alguns anos a possibilidade de pagamento.
+ 
+O reconhecimento de firma serve para comprovar que aquela assinatura é autêntica da pessoa que 
+está assinando e, especialmente, para comprovar que as pessoas que estão negociando não foram 
+coagidas, obrigadas contra a vontade, a assinar o contrato.
+
+!
+
+DICA: 
+sempre que possível opte pelo reconhecimento 
+de firma de todos os envolvidos, por autenticidade.
+
+17.  Após assinatura do contrato de 
+compra e venda, como proceder? 
+
+Due diligence realizada e sem nenhum perigo? Contrato assinado pelas partes?
+
+Agora, é o momento de ir ao Tabelionato de Notas para lavrar a escritura pública de compra e 
+venda e, em seguida, registrar essa escritura na matrícula do imóvel.
+ 
+Sempre aconselhe o cliente a registrar a escritura, porque é esse registro na matrícula do imóvel 
+que vai tornar o seu cliente o dono daquele imóvel. Não esqueça daquele velho ditado: quem não 
+registra, não é dono!
+
+No próprio Tabelionato de Notas é possível solicitar ao escrevente ou ao Tabelião um orçamento 
+(exame e cálculo) dos custos para lavrar a escritura e para registrar esse documento na matrícula 
+do imóvel. Assim, você já consegue passar uma estimativa de gastos para que o seu cliente possa 
+se organizar.
+ 
+Caso o comprador precise fazer um financiamento para pagamento do valor, após a assinatura 
+do  contrato  de  compra  e  venda,  ele  precisará  ir  até  um  banco  e  iniciar  o  procedimento  de 
+financiamento.  Se  concedido  o  financiamento,  o  próprio  contrato  com  o  banco  será  utilizado 
+como se fosse a escritura pública de compra e venda.
+ 
+Então,  nessa  situação,  será  preciso  ir  direto  ao  Cartório  de  Registro  de  Imóveis  para  registrar 
+a  compra  e  venda  e  a  existência  do  financiamento,  inclusive  da  garantia  deste  financiamento 
+(alienação fiduciária ou hipoteca) na matrícula.
+
+ATENÇÃO:  se  as  certidões  estiverem  corretas,  e  o  pagamento  for  a  vista,  não  precisa 
+necessariamente do compromisso particular, pode pular direto para o contrato de financiamento 
+ou escritura pública.
+
+18.  Como funciona a intermediação 
+de compra e venda de imóvel cujo 
+pagamento será financiado com o banco?
+
+Não há mistério: funciona do mesmo modo 
+que a intermediação da compra e venda de um 
+imóvel sem a utilização de financiamento.
+ 
+Claro que, nesse caso, será preciso verificar, 
+antes  de  concluir  efetivamente  o  negócio, 
+se  o  comprador  possui  crédito  e  realmente 
+receberá crédito bancário para pagar o valor 
+do imóvel.
+ 
+Então,  para  não  correr  o  risco  de  perder  o 
+negócio e para evitar o bom e velho calote do 
+comprador, é possível fazer um contrato de 
+promessa de compra e venda entre as partes.
+
+22
+
+Nesse contrato, pode ser previsto o pagamento de um sinal para “amarrar” o negócio, enquanto o 
+comprador verifica com o banco se realmente terá o pedido de financiamento concedido, inclusive 
+se poderá utilizar recursos de FGTS, caso queira.
+ 
+Se a resposta do banco for positiva, ótimo, será possível fazer o contrato de compra e venda e, 
+após o pagamento, o comprador poderá registrar o contrato de financiamento na matrícula do 
+imóvel (como já conversamos na questão 17).
+ 
+Mas, se a resposta do banco for negativa, será preciso orientar a busca por crédito em outro banco, 
+ou carta de crédito pré-aprovada (consórcio), recursos próprios, empréstimos de parente ou, se 
+não for possível, desaconselhar o negócio.
+ 
+Caso o seu cliente seja o vendedor e opte por prosseguir com o pagamento de forma parcelada 
+diretamente com o comprador, o ideal é verificar se esse comprador possui dívidas ou bens em 
+nome  e  orientar  a  fazer  uma  escritura  pública  de  compra  e  venda  de  imóvel  com  pagamento 
+condicionado, ou seja, uma escritura pública de compra e venda com cláusula resolutiva expressa, 
+ou, um instrumento de compra e venda com garantia de alienação fiduciária diretamente entre os 
+particulares.
+ 
+Assim,  se  o  comprador  deixar  de  pagar  as  parcelas,  será  mais  fácil  cobrá-lo  em  um  processo 
+judicial de execução - de cobrança direta - da dívida.
+
+19. É necessário fazer uma vistoria no 
+imóvel como requisito para vender?
+
+Não é obrigatório fazer uma vistoria para comprar um imóvel, mas é aconselhável que a vistoria 
+seja feita, especialmente quando o negócio envolver a compra de móveis planejados.
+Como um bom corretor de imóveis, com certeza você já terá verificado toda a condição do imóvel 
+e saberá exatamente o que seu cliente está vendendo ou comprando. Lembre-se que é trabalho do 
+corretor sempre conhecer muito bem do imóvel objeto da negociação.
+ 
+Imagine receber o imóvel e, dias após a mudança, descobrir uma parede coberta de mofo e de 
+infiltração, atrás daquele closet impecável que o seu cliente tanto sonhou? Ou, ainda, descobrir 
+que todo o revestimento do banheiro precisa ser trocado, porque, diante da falta de manutenção, 
+está trincando e descolando?
+
+Pois é, em uma vistoria, esses e outros detalhes poderiam ser verificados, repassados e negociados 
+entre as partes envolvidas. Então, tanto na compra e venda, quanto na locação, sempre oriente o 
+seu cliente sobre a importância de realizar a vistoria.
+
+Ah, e se for verificado que o imóvel está cheio de problemas, devo aconselhar a desistir? Jamais! 
+Mas deixe claro para ele tudo o que está acontecendo e isso deverá refletir num abatimento de 
+preço, afinal o comprador terá prejuízo com reformas. 
+
+20. É possível intermediar um negócio 
+envolvendo imóvel que tem dívida?
+
+Sim. Mas, antes de efetivamente fechar o negócio, a natureza da dívida precisa ser verificada.
+ 
+Quer dizer, você precisa analisar a matrícula do imóvel e conferir as certidões negativas para saber 
+qual o tipo da dívida e, sobretudo, se o seu cliente está se metendo em uma enrascada.
+ 
+Por exemplo, uma dívida de IPTU, ainda em cobrança administrativa, é algo fácil de resolver. Por 
+outro lado, uma dívida de condomínio, já em fase de execução em um processo judicial, em que foi 
+determinada a penhora do imóvel, é mais complexo.
+ 
+Então, sempre analise a natureza da dívida e se há possibilidade de resolver a situação ou se vale a 
+pena partir para outro negócio.
+
+21.  É possível intermediar um negócio 
+envolvendo imóvel que não possui 
+matrícula? 
+
+SIM, É POSSÍVEL! 
+ 
+Mas, antes de efetivamente orientar o cliente a fechar o negócio, é preciso entender o motivo pelo 
+qual esse imóvel não possui matrícula: o dono perdeu a matrícula, comprou apenas uma parte do 
+imóvel e não desmembrou, ainda não foi feita a matrícula do imóvel?
+ 
+Pode ser uma situação simples. Os imóveis derivados de loteamento ou de apartamentos adquiridos 
+na planta, por exemplo, quando ainda adquiridos em fase inicial, quando não estão prontos, não 
+possuem matrícula própria de cada lote e de cada unidade.
+
+24
+
+Após a regularização do loteamento e a entrega da obra dos apartamentos, será possível registrar 
+uma matrícula individualizada para cada lote e para cada apartamento.
+ 
+Se, por outro lado, a pessoa não tiver a matrícula do imóvel, é preciso tomar cuidado, inclusive 
+para saber se ela está agindo de má-fé. Nesse caso, é importante consultar um profissional da 
+área jurídica, especialista em Direito Imobiliário, para auxiliar você e o seu cliente a regularizar o 
+imóvel, se for possível.
+
+22. Como proceder quando há um 
+inquilino no imóvel que será vendido ou 
+comprado? 
+
+Quando o imóvel envolvido em uma negociação de compra e venda estiver alugado, é preciso, antes 
+de concretizar o negócio, respeitar um detalhe de extrema importância: o Direito de preferência 
+do inquilino.
+ 
+O Direito de Preferência do Inquilino está previsto no artigo 27 da Lei do Inquilinato e significa 
+que  o  inquilino  tem  preferência  em  comprar  o  imóvel  que  alugou,  nas  mesmas  condições  que 
+outra pessoa:
+
+Artigo 27. No caso de venda, promessa de venda, cessão ou promessa de 
+cessão de direitos ou dação em pagamento, o locatário tem preferência 
+para adquirir o imóvel locado, em igualdade de condições com terceiros, 
+devendo  o  locador  dar  -  lhe  conhecimento  do  negócio  mediante 
+notificação judicial, extrajudicial ou outro meio de ciência inequívoca. 
+Parágrafo único. A comunicação deverá conter todas as condições do 
+negócio e, em especial, o preço, a forma de pagamento, a existência de 
+ônus reais, bem como o local e horário em que pode ser examinada a 
+documentação pertinente.
+
+Por exemplo, imagine que Antônio tem interesse em comprar o imóvel de João. O valor do imóvel 
+é R$ 300.000,00, sendo R$ 150.000,00 de entrada e 10 parcelas de R$ 15.000,00.
+ 
+
+Antes de fechar negócio com o Antônio, João precisa comunicar ao inquilino sobre a intenção de 
+venda do imóvel e, consequentemente, ofertar as mesmas condições negociadas com Antônio. 
+João não pode oferecer uma proposta diferente ou menos vantajosa ao inquilino, na verdade, ela 
+precisa ser IGUAL ou MELHOR do que as condições negociadas com Antônio.
+ 
+A comunicação sobre a intenção de venda pode ser realizada por uma notificação extrajudicial, 
+para dar ciência da intenção de venda do imóvel ao inquilino e comprovar o respeito ao Direito de 
+Preferência. 
+ 
+Na notificação, devem constar todas as condições do negócio: 
+ 
+ 
+ 
+ 
+ 
+ 
+Mas, se o inquilino for notificado e não se manifestar no prazo de 30 dias, o direito de preferência 
+irá caducar (artigo 28 da Lei do Inquilinato) e, então, João e Antônio poderão fechar negócio, com 
+segurança.
+ 
+No entanto, se o inquilino descobrir que a proposta feita a uma terceira pessoa é mais vantajosa do 
+que a proposta por ele recebida, poderá pedir indenização ou tomar o imóvel, se pagar o preço do 
+negócio e as despesas de transferência da propriedade (artigo 33 da Lei do Inquilinato).
+
+•  preço; 
+•  forma de pagamento; 
+•  existência de problemas no imóvel, como dívidas de IPTU ou reparos estruturais; e 
+•  local e horário em que os documentos da negociação possam ser analisados. 
+
+23. É necessária a realização de vistoria 
+antes de iniciar a locação e após a saída 
+do inquilino do imóvel? 
+
+Sim,  porque  o  objetivo  da  vistoria  é  relatar  o  real  estado  de  conservação  do  imóvel,  de  forma 
+detalhada e técnica, se possível. 
+ 
+Ou seja, ela serve para atestar qual o verdadeiro estado do imóvel, incluindo a existência de reparos 
+a serem realizados, antes de iniciar o período da locação e após o término do período da locação. 
+Por exemplo: 
+
+26
+
+A)  como está a fachada do imóvel?
+B)  a pintura era nova, ou está conservada ou precisa de reparos? 
+C)  existem rachaduras ou manchas nas paredes? 
+D)  o telhado está bem conservado ou há alguma telha quebrada? 
+E)  a parte elétrica foi revisada? 
+F)  os encanamentos e os banheiros estão funcionando? 
+G)  as calhas estão limpas ou estão entupidas?
+
+O ideal é contratar um profissional qualificado para vistoriar o imóvel e documentar de forma 
+completa e correta todas as informações. Sempre faça fotos! Dá uma certeza muito melhor do 
+estado de conservação. Não utilize vistorias antigas! 
+ 
+Ao  comparar  o  laudo  de  vistoria  inicial  e  o  laudo  de  vistoria  final,  você  consegue  verificar  a 
+existência de avarias/danos no imóvel e, principalmente, comprovar de quem é a responsabilidade 
+em resolver determinado problema no imóvel.
+ 
+Sem os laudos de vistoria inicial e final, não se pode presumir a deterioração do imóvel e, menos 
+ainda, que a pessoa que ocupava o bem seja responsabilizada por eventuais prejuízos, ainda que 
+os tenha causado. 
+ 
+Por  mais  que  você  possua  fotos,  vídeos,  recibos  de  pagamento  dos  reparos,  as  chances  de 
+responsabilizar o locador ou o inquilino, a depender da situação, são bem menores. 
+ 
+Então, oriente seu cliente a fazer a vistoria no imóvel, ainda que seja feito por ele mesmo. Não 
+esqueça de pedir para que o locador e o inquilino assinem o laudo da vistoria. 
+
+24. Quais as principais cláusulas de um 
+contrato de locação? 
+
+• Finalidade da locação: sempre deixar muito claro qual é o tipo da locação, se é residencial ou não 
+residencial, prazo determinado ou indeterminado, curta temporada, e verificar se o inquilino não 
+está usando o imóvel para outra coisa, pois, do contrário, o contrato poderá ser rescindido.
+ 
+• Prazo da locação: sempre estabeleça qual o prazo da locação e, principalmente, a possibilidade 
+de renovação e de comunicação da renovação ou do desinteresse em renovar o contrato, com 30 
+dias de antecedência do vencimento do contrato.
+
+•  Índice  de  correção  monetária:  com  o  IGPM  nas  alturas,  é  melhor  evitar  discussão  diante  do 
+reajuste  do  contrato  entre  o  locador  e  o  inquilino.  Sugira  outro  índice  que  seja  vantajoso  para 
+ambas as partes, como o IPCA ou o índice do Tribunal de Justiça do seu Estado. 
+ 
+• Garantia: o contrato pode, ou não ter garantia. Se as partes optarem pela garantia, não esqueça 
+que  é  somente  uma.  Caso  contrário,  se  houver  necessidade  de  despejar  o  inquilino  (tirá-lo  do 
+imóvel), será possível se utilizar de pedido liminar na ação de despejo, ou seja, pedir para o Juiz 
+tirá-lo do imóvel, antes de julgar o processo, em razão da ausência de garantia no contrato.
+ 
+• Multa: não esquecer de informar qual será a multa em caso de atraso no pagamento do aluguel 
+e,  também,  a  multa  pelo  descumprimento  do  contrato,  que  costuma  ser  calculada  de  forma 
+proporcional, no valor de até 03 aluguéis.
+ 
+• Vistoria: como já conversamos, sempre oriente o cliente a realizar a vistoria antes de iniciar o 
+período da locação e após o término da locação, justamente para que seja possível comparar como 
+estava o imóvel antes e após o período que ele ocupou e, especialmente, se há algum prejuízo que 
+ele precise arcar.
+
+25. Como funciona a entrega das chaves 
+em uma locação?
+
+Via de regra, depois de realizada a vistoria inicial do imóvel, é elaborado o termo de entrega de 
+chaves.
+ 
+Esse termo comprova que o direito de uso do imóvel, simbolizado pela entrega das chaves pelo 
+locador, está sendo transferido ao inquilino. Do mesmo modo, ao término da locação, também é 
+preciso elaborar o termo, mas, agora, para comprovar a desocupação do imóvel.
+ 
+O que precisa constar no termo:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+É interessante o reconhecimento de firma das assinaturas, mas não é uma medida obrigatória. É 
+importante que cada uma das partes receba uma cópia desse documento.
+
+• nome completo, estado civil, RG, CPF e endereço do locador ou da imobiliária 
+   que o representa na administração da locação;
+• nome completo, estado civil, RG, CPF e endereço do locatário;
+• descrição do imóvel, com informação do número da matrícula inclusive;
+• data, hora e local de entrega das chaves.
+
+28
+
+26. É necessário pedir certidões e 
+analisar a matrícula do imóvel para fins 
+de locação?
+
+Sempre faça uma investigação imobiliária, tanto na compra e venda, quanto na locação de imóvel.
+ 
+Solicite os documentos das partes, as certidões negativas e a matrícula atualizada do imóvel. Na 
+verdade, quando o negócio envolver um imóvel, SEMPRE, peça a matrícula atualizada.
+ 
+A partir das certidões, será possível verificar se o inquilino tem a ficha “limpa”, ou seja, se ele 
+possui processos judiciais (inclusive criminais e ações de despejo), se ele tem títulos protestados 
+pela falta de pagamento, inclusive se está com restrição nos órgãos de proteção ao crédito, como 
+SPC e SERASA.
+ 
+A matrícula atualizada mostrará a você se o locador realmente é o proprietário e se o imóvel está 
+regular, quer dizer, se ele não é objeto de leilão, se não está envolvido em um processo judicial, 
+inclusive se existe outro contrato de locação averbado na matrícula do imóvel.
+ 
+E por que é importante saber se o contrato de locação está averbado na matrícula do imóvel?
+ 
+Tanto  se  o  cliente  for  alugar  e,  principalmente  se  for  comprar  o  imóvel,  essa  informação  é 
+importante. 
+ 
+Se a locação for por tempo determinado, se existe cláusula permitindo que a locação continue, 
+ainda que o imóvel seja vendido para um terceiro, e se o contrato de locação não foi averbado 
+na matrícula do imóvel, o novo inquilino ou o comprador deverá aguardar encerrar o prazo do 
+contrato de locação para poder usufruir do imóvel. 
+ 
+Porém, se a locação não possuir um prazo específico, se não existir a cláusula de vigência e se o 
+contrato de locação estiver averbado na matrícula do imóvel, pelo menos 30 dias antes do negócio 
+de  compra  e  venda,  será  possível  notificar  o  inquilino  que  lá  estiver  sobre  o  desinteresse  em 
+continuar com a locação e conceder o prazo de 90 dias para que ele desocupe o imóvel (denúncia 
+do contrato, artigo 8.º da Lei de Locações). 
+ 
+Perceba que o prazo de 90 dias inicia a partir do registro do negócio de compra e venda na matrícula 
+do imóvel, para efetivar a transferência da propriedade.
+
+27. Como funciona a aplicação da multa 
+em uma locação?
+
+A  multa  contratual  é  devida  pela  rescisão  antecipada  do  contrato  de  locação  ou  diante  do 
+descumprimento de cláusulas contratuais, tanto pelo locador quanto pelo locatário.
+ 
+O pagamento da multa contratual deve ser realizado de forma proporcional ao tempo que falta 
+para a conclusão do contrato. Então, para que seja possível chegar ao valor devido, é preciso saber 
+as seguintes informações:
+ 
+ 
+ 
+ 
+ 
+ 
+Imagine a seguinte situação: Antônio alugou seu imóvel para João, pelo prazo de 12 meses, pelo 
+valor de R$ 1.000,00 mensais, com início em 01/06/2020.
+
+A) Qual é o prazo do contrato de locação?
+B) Quantos dias o inquilino utilizou o imóvel?
+C) Quantos dias faltam para encerrar o prazo do contrato?
+D) Qual o valor da multa estabelecida?
+
+Após  o  cumprimento  dos  04  primeiros  meses  do  contrato  de  locação,  João  decide  rescindir  o 
+contrato, pois deseja residir em outro local da cidade
+ 
+Neste caso, o cálculo seria o seguinte:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+encerrar o contrato) = R$ 1.997,26 valor da multa.
+
+Prazo do contrato: 365 dias
+Dias utilizados pelo inquilino: 122
+Dias que faltam para encerrar o contrato: 243
+Multa prevista no contrato: até 3 vezes o valor do aluguel, ou seja, até R$ 3.000,00
+
+Cálculo:  R$  3.000,00  (multa)  /  365  (prazo  do  contrato)    x    243  (dias  que  faltam  para 
+
+Tem alguma exceção que a multa não é devida?                      SIM! Em caso em que o locatário for 
+transferido por seu empregador, para prestar serviços em localidades diferentes daquela do início 
+do contrato.
+
+30
+
+Art.  4o  Durante  o  prazo  estipulado  para  a  duração  do  contrato,  não 
+poderá o locador reaver o imóvel alugado. Com exceção ao que estipula 
+o § 2o do art. 54-A, o locatário, todavia, poderá devolvê-lo, pagando a 
+multa pactuada, proporcional ao período de cumprimento do contrato, 
+ou, na sua falta, a que for judicialmente estipulada.      (Redação dada 
+pela Lei nº 12.744, de 2012)
+Parágrafo único. O locatário ficará dispensado da multa se a devolução 
+do  imóvel  decorrer  de  transferência,  pelo  seu  empregador,  privado 
+ou  público,  para  prestar  serviços  em  localidades  diversas  daquela  do 
+início do contrato, e se notificar, por escrito, o locador com prazo de, no 
+mínimo, trinta dias de antecedência.
+
+28. Quem é responsável pela 
+administração da locação: proprietário 
+ou corretor de imóveis?
+
+Os dois podem ser responsáveis pela administração da locação. O proprietário pode contratar os 
+serviços do corretor de imóveis para anunciar a disponibilidade do imóvel para locação.
+ 
+Mas, ele também pode estender um pouco mais esse serviço. Quer dizer, o proprietário pode optar 
+por não se envolver com as burocracias decorrentes da locação do imóvel e desejar contratar os 
+serviços do corretor para que ele seja responsável por essas atividades, como:
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+agenciamento do imóvel para locação;
+divulgação do imóvel e negociação com interessados;
+investigação imobiliária;
+elaboração do contrato de locação;
+realização da vistoria inicial do imóvel, com relatório detalhado;
+elaboração do termo de entrega de chaves;
+manutenção dos pagamentos mensais dos aluguéis;
+intermediação do contato entre locador e inquilino;
+renovação do contrato de locação, se o caso;
+realização da vistoria final, com relatório detalhado;
+elaboração do termo de entrega de chaves para desocupação do imóvel.
+
+Dentre as atividades mencionadas, o locador pode combinar outras atribuições com o corretor. 
+Portanto,  é  de  extrema  importância  definir  em  um  contrato  de  prestação  dos  serviços  de 
+intermediação imobiliária todas as atividades que serão realizadas. 
+ 
+Além  da  definição  das  atividades,  é  importante  incluir  o  valor  da  remuneração  mensal  pelo 
+serviço de administração, porque, neste caso, a prestação do serviço é continuada e não depende 
+exclusivamente do fechamento do negócio para que a remuneração seja devida ao corretor.
+
+Percebe como é importante ter um contrato para definir com 
+
+clareza o serviço que você irá prestar para o cliente?
+
+ 
+
+29. Se o imóvel for vendido durante 
+o período da locação, é obrigatório o 
+pagamento da comissão do corretor ou 
+precisa constar no contrato?
+
+Não,  não  é  obrigatório.  Os  Tribunais  entendem  que,  ainda  que  o  corretor  de  imóveis  receba 
+o  pagamento  pela  prestação  do  serviço  de  administração  do  contrato  de  locação  e  que,  neste 
+contrato, exista uma cláusula prevendo o pagamento de honorários pela venda do imóvel alugado, 
+há  necessidade  de  demonstrar  que  o  profissional  também  intermediou  o  negócio  de  venda  e 
+compra.
+ 
+Ou seja, você precisa demonstrar que a venda do imóvel pelo proprietário ao inquilino, ou a uma 
+terceira pessoa, ocorreu com o auxílio do seu serviço.
+ 
+A mera comunicação da intenção de venda ao inquilino não configura aproximação das partes, 
+na  verdade,  é  uma  obrigação  do  corretor  de  imóveis,  em  respeito  ao  Direito  de  preferência  do 
+inquilino.
+ 
+Portanto,  caso  o  locador  tenha  o  interesse  em  vender  o  imóvel  e  contrate  os  seus  serviços  de 
+intermediação desse negócio, não esqueça de notificar o inquilino para que ele exerça, ou não, 
+o  Direito  de  preferência  e,  além  disso,  faça  um  contrato  de  prestação  de  serviços  referente  à 
+intermediação da venda do imóvel, ainda que você seja responsável pela administração da locação.
+
+32
+
+Bem,  espero  que  esses  esclarecimentos  tenham  ajudado  você  a  entender  um 
+pouco mais sobre os direitos, deveres e obrigações de todos os envolvidos em uma 
+negociação imobiliária e, principalmente, traga mais clareza e segurança no seu 
+trabalho como corretor de imóveis.
+
+DESEJO MUITO SUCESSO!
+
+

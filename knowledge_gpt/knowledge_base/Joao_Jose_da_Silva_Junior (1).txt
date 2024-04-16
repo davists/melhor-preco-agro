@@ -1,0 +1,3453 @@
+DIREITO IMOBILIÁRIO 
+
+MINICURSO 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROFESSOR: JOÃO JOSÉ DA SILVA JÚNIOR 
+
+ENTIDADE PROMOTORA: TV JUSTIÇA – STF 
+
+PROGAMA SABER DIREITO AULA 
+
+Fevereiro/2012
+
+SUMÁRIO 
+
+ 
+
+ 
+
+1.  DIREITO IMOBILIÁRIO .................................................................................................. 4 
+
+1.1  DIREITO IMOBILIÁRIO – NOÇÕES GERAIS ....................................................... 4 
+
+1.2  DIREITOS REAIS - NOÇÕES GERAIS .................................................................... 4 
+
+1.3 
+
+LEGISLAÇÕES ATINENTES AO DIREITO IMOBILIÁRIO ................................. 7 
+
+2.  DA POSSE .......................................................................................................................... 9 
+
+2.1 
+
+POSSE ......................................................................................................................... 9 
+
+2.2  DA DETENÇÃO ....................................................................................................... 10 
+
+2.3 
+
+TEORIAS DA POSSE............................................................................................... 10 
+
+2.4  OBJETO DA POSSE................................................................................................. 12 
+
+2.5  CLASSIFICAÇÃO DA POSSE ................................................................................ 12 
+
+2.6  AQUISIÇÃO DA POSSE ......................................................................................... 13 
+
+2.7 
+
+PERDA DA POSSE .................................................................................................. 14 
+
+2.8 
+
+EFEITOS DA POSSE ............................................................................................... 15 
+
+3.  DA PROPRIEDADE ........................................................................................................ 20 
+
+3.1  CONCEITO ............................................................................................................... 20 
+
+3.2  CARACTERÍSTICAS DA PROPRIEDADE ........................................................... 20 
+
+3.3 
+
+SUJEITOS ................................................................................................................. 23 
+
+3.4  OBJETO .................................................................................................................... 23 
+
+3.5 
+
+ESPÉCIES DE PROPRIEDADE .............................................................................. 23 
+
+3.6 
+
+EXTENSÃO DA PROPRIEDADE ........................................................................... 24 
+
+3.7  MODOS DE AQUISIÇÃO DA PROPRIEDADE .................................................... 24 
+
+3.8 
+
+FORMAS DE AQUISIÇÃO DA PROPRIEDADE IMÓVEL.................................. 25 
+
+4.  DA ENFITEUSE .............................................................................................................. 30 
+
+4.1  ORIGEM ................................................................................................................... 30 
+
+4.2  CONCEITO ............................................................................................................... 30 
+
+4.3 
+
+ESPÉCIES DE ENFITEUSE/AFORAMENTO ........................................................ 30 
+
+4.4 
+
+SUJEITOS DA RELAÇÃO ....................................................................................... 31 
+
+4.5 
+
+TERRENOS DE MARINHA E SEUS ACRESCIDOS ............................................ 31 
+
+4.6  NATUREZA JURÍDICA DO AFORAMENTO E CARACTERÍSTICAS .............. 32 
+
+4.7  DISTINÇÕES COM OUTROS INSTITUTOS JURÍDICOS ................................... 32 
+
+4.8  MODOS DE EXTINÇÃO ......................................................................................... 33 
+
+5.  DO LAUDÊMIO .............................................................................................................. 37 
+
+5.1  CONCEITO E ASPECTOS GERAIS ....................................................................... 37 
+
+5.2  RENDAS INCONFUNDÍVEIS COM O LAUDÊMIO ............................................ 38 
+
+5.3  CONFUSÃO DOS SUJEITOS .................................................................................. 39 
+
+5.4  COMO SE DESVENCILHAR DA RENDA LAUDÊMICA?.................................. 39 
+
+6.  CONCLUSÃO .................................................................................................................. 48 
+
+7.  REFERÊNCIAS BIBLIOGRÁFICAS .............................................................................. 49 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. DIREITO IMOBILIÁRIO 
+
+1.1  DIREITO IMOBILIÁRIO – NOÇÕES GERAIS 
+
+O Direito Imobiliário é o ramo do direito privado que se destina a disciplinar vários as-
+
+pectos da vida privada, tais como, a posse, as várias formas de aquisição e perda da proprie-
+
+dade,  o  condomínio,  o  aluguel,  a  compra  e  venda,  a  troca,  a  doação,  a  cessão  de  direitos,  a 
+
+usucapião, os financiamentos da casa própria, as incorporações imobiliárias, o direito de pre-
+
+ferência  do  inquilino,  o  direito  de  construir,  o  direito  de  vizinhança,  o  registro  de  imóveis, 
+
+dentre muitos outros institutos jurídicos concernentes ao bem imóvel.  
+
+Não obstante, tendo-se em vista que o objeto primacial deste minicurso é o estudo acer-
+
+ca da real natureza jurídica e aplicabilidade da renda laudêmica no ordenamento jurídico bra-
+
+sileiro,  torna-se,  assim,  imprescindível  o  estudo  acerca  dos  direitos  reais  de  propriedade  e 
+
+enfiteuse, porquanto que o laudêmio origina-se da enfiteuse (aforamento), e este, por sua vez, 
+
+decorre do direito de propriedade. 
+
+1.2  DIREITOS REAIS - NOÇÕES GERAIS 
+
+Direitos Reais (“res” - palavra latim, que significa coisa), é o sub-ramo do direito civil, 
+
+cujas regras cuidam do poder dos homens sobre as coisas apropriáveis. 
+
+1.2.1  Conceito 
+
+ 
+
+1.2.2  Objeto 
+
+O objeto dos direitos reais são as coisas apropriáveis, as quais podem ser objeto de pro-
+
+priedade, isto é, aquelas coisas que são suscetíveis de alienação, portanto, as que podem estar 
+
+em comércio, já que são suscetíveis de valor econômico, patrimonial, ou, ainda, pecuniário.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Direito Imobiliário 
+
+ 
+
+ 5 
+
+A princípio, todas as coisas úteis podem ser objeto de apropriação, diante do interesse 
+
+econômico  que  elas  despertam.  Excluem-se,  todavia,  os  bens  sem  valoração  econômica,  a 
+
+exemplo da água do mar, o ar que se respira, luz do sol, etc.  
+
+As coisas podem ser apropriadas devido a uma relação jurídica contratual (ex.: A vende 
+
+a B e B se torna dono da coisa e A do dinheiro) ou pela captura (ocupação, onde não há rela-
+
+ção com pessoas, ex.: pegar uma concha na praia, pescar um peixe).  A aquisição decorrente 
+
+de contrato se diz derivada, porque a coisa já pertenceu a outrem; a aquisição havida da ocu-
+
+pação se diz originária porque a coisa nunca teve dono (res nullius – coisa de ninguém), ou já 
+
+teve  dono  um  dia  e  não  tem  mais  (res  derelicta  –  coisa  que  já  teve  dono  e  não  tem  mais  – 
+
+equivale ao abandono ou renúncia). 
+
+Assim, as coisas apropriáveis são objeto de propriedade, que é o mais amplo direito re-
+
+Pode-se perceber uma pequena distinção entre os termos propriedade e domínio. Pois, 
+
+em  sentido amplo, o termo  propriedade pode ser entendido como  sinônimo  de domínio. To-
+
+davia, no sentido restrito da palavra, o termo propriedade serve tanto para fazer referência às 
+
+coisas corpóreas (materiais) como também às incorpóreas (imateriais). Assim, não se mostra 
+
+correto  falar  em  domínio  intelectual  do  autor,  mas  em  propriedade  intelectual  do  autor;  ao 
+
+passo que o termo domínio é utilizado para designar, tão somente as coisas corpóreas. 
+
+Outra singela distinção em que se verifica na doutrina é entre os vocábulos coisa e bem. 
+
+Pois, o termo bem é espécie do de coisa. Assim, em sentido amplo ambos são sinônimos, mas, 
+
+em  sentido  restrito  o termo  coisa  é  utilizado  para  fazer  referência  tanto  a  bens  apropriáveis, 
+
+como aos inapropriáveis, enquanto que o termo bem serve tão só para as coisas apropriáveis, 
+
+ou seja, aquilo suscetível de economicidade, patrimonialidade, pecúnia, (estar in comércio). 
+
+ 
+
+1.2.3  Características dos Direitos Reais 
+
+  Sequela 
+
+  Preferência 
+
+al.  
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Direito Imobiliário 
+
+ 6 
+
+  SEQUELA: é o poder que tem o titular do direito real  de reivindicação do bem  (Artigo 
+
+1.228 do Código Civil de 2002). É o direito de reaver a coisa de quem quer que injusta-
+
+mente a possua ou detenha. Vem do verbo “seguir”. Dá-se quando o titular do direito real 
+
+persegue a coisa para recuperá-la, não importando com quem a coisa esteja. 
+
+ 
+
+É uma característica fundamental dos direitos reais, pois, não existe nos direitos obri-
+
+gacionais  (creditícios  ou  creditórios),  razão  pela  qual  os  direitos  reais  são  mais  fortes  e 
+
+poderosos do que os direitos pessoais.  
+
+  PREFERÊNCIA:  interessa  aos  direitos  reais  de  garantia  (penhor,  hipoteca  e  alienação 
+
+fiduciária), contidos respectivamente nos Artigos 1419 e 1422 do Código Civil de 2002 e 
+
+Lei nº 9.514 de 20 de novembro de 1997 que instituiu o contrato de alienação fiduciária de 
+
+bem  imóvel.  Já  as  garantias  pessoais  como  fiador  e  aval  não  dão  preferência  de  credito 
+
+numa eventual execução.   
+
+1.2.4  Diferenças entre os Direitos Reais e os Direitos Obrigacionais 
+
+  
+
+  Do  Objeto 
+
+serviço. 
+
+D.R.: é determinado; é corpóreo (via de regra). 
+
+D.O.: indeterminado até a satisfação do crédito. Incorpóreo em regra; ex.: a prestação de 
+
+Obs.: exceções à regra da materialidade do objeto dos direitos reais são os chamados direitos 
+
+autorais. É a propriedade intelectual. 
+
+  Da Violação 
+
+D.R.: por ação ex.: invadir propriedade alheia. 
+
+D.O.: por omissão, em geral; ex.: deixar de pagar a dívida. 
+
+Obs.: exceção à regra da omissão é a obrigação de não fazer: cumpre-a o devedor que se omi-
+
+te, logo sua violação dar-se-á por ação. 
+
+  Da Duração 
+
+D.R.: permanentes 
+
+D.O.: temporários 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Direito Imobiliário 
+
+ 7 
+
+Obs.: quanto mais é exercido mais forte o direito real se torna, através da ostensibilidade, ou 
+
+seja,  a  sociedade  sabe.  Exercer  o  direito  obrigacional  é  extingui-lo.  Exercer  o  direito  real  é 
+
+fortalecê-lo.  
+
+  Da Usucapião 
+
+D.R.: usucapíveis 
+
+quisitos legais.  
+
+  Do Sujeito Passivo 
+
+D.O.: não se adquirem pela usucapião 
+
+Obs.:  usucapião é a aquisição originária da propriedade pela posse prolongada, e demais re-
+
+D.R.: absoluto (toda a sociedade). “Erga Omnes”, isto é, toda a sociedade precisa respei-
+
+tar minha propriedade sobre meus bens. 
+
+D.O.: relativo (o devedor); só posso cobrar a dívida do devedor e não de toda sociedade. 
+
+Obs.: a característica “erga omnes” significa contra todos. 
+
+  Da Tipicidade 
+
+D.R.: típicos (criados pela lei tão somente) 
+
+D.O.: atípicos (Artigo 425 do Código Civil – criação de contratos, contratos inominados).  
+
+Obs.: O Artigo 1.225 do Código Civil de 2002 – estabelece os direitos reais existentes. O re-
+
+ferido  dispositivo,  na  melhor  exegese  da  dogmática  jurídica,  é  qualificado,  a  meu  ver,  de 
+
+enumeração taxativa mitigada, porquanto  verifica-se que além  dos  direitos  reais hospedados 
+
+nos  incisos  daquele  dispositivo  legal,  acrescentam-se  mais  dois:  o  direito  de  preferência  do 
+
+inquilino,  contido  no  Artigo  33  da  lei  8.245/91  (lei  do  inquilinato),  pois,  parte  da  doutrina 
+
+denomina este direito de preferência como “obrigação com eficácia real”; e a alienação fidu-
+
+ciária em garantia de bem imóvel, Lei nº 9.514/97; já os artigos 1.361 a 1.368 do Código Civil 
+
+de 2002, também tratam da alienação fiduciária, mas versam sobre bens móveis, portanto, não 
+
+é objeto de nosso estudo. 
+
+1.3  LEGISLAÇÕES ATINENTES AO DIREITO IMOBILIÁRIO 
+
+Código Civil atual, Lei nº 10.406, de 10 de janeiro de 2002. 
+
+Prof. João Jr. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+  
+
+ 
+
+Direito Imobiliário 
+
+ 8 
+
+A  Lei  nº  4.591/64,  que  regula  o  condomínio  especial  ou  horizontal,  teve  sua  primeira 
+
+parte (Artigos 1º a 27) inserida no novo Código Civil, que cria a denominação de condomínio 
+
+edilício.  Alguns  poucos  dispositivos  continuam  em  vigor,  por  não  terem  sido  regulados  no 
+
+novo Código Civil. A segunda parte da Lei, relativa às incorporações imobiliárias, continuará 
+
+em vigor, pois esta matéria não foi contemplada no novo Código Civil. 
+
+Há inúmeras outras leis especiais de grande importância, que cuidam do direito imobili-
+
+ário. Exemplificativamente, verificam-se: 
+
+- Lei nº 8.245/91 (locações);  
+
+- Lei nº 4.380/64 (sistema financeiro da habitação);  
+
+- Lei nº 6.015/73 (registros públicos).  
+
+Importante ressaltar que a Lei nº 8.078/90 (Código de Defesa do Consumidor), também 
+
+se aplica as transações imobiliárias, uma vez que criou novas regras em defesa do hipossufici-
+
+ente, valorizando a boa fé contratual e punindo a onerosidade excessiva.  
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+ 
+
+ 
+
+ 
+
+2. DA POSSE 
+
+ 
+
+ 
+
+2.1  POSSE 
+
+A palavra POSSE deriva do latim possessio que provém de potis, prefixo potestas, que 
+
+significa poder; e sessio, sufixo da mesma origem de sedere, que quer dizer, estar firme, as-
+
+sentado. Indica, portanto, um poder que se prende a uma coisa. 
+
+A POSSE, portanto, não se confunde com a propriedade. Esta é fundada em uma rela-
+
+ção de direito, enquanto aquela é fundada em uma relação de fato. 
+
+Porque o instituto jurídico POSSE é muito importante? Quais os motivos para se estudar 
+
+tal instituto? 
+
+1 – A posse é a exteriorização da propriedade, que é o principal direito real; existe uma 
+
+presunção de que o possuidor é o proprietário da coisa. Olhando para vocês eu presumo que 
+
+estas roupas e livros que vocês estão usando (possuindo) são de propriedade de vocês, embora 
+
+possam não ser, possam  apenas ser emprestadas, ou alugadas, por exemplo. A aparência é a 
+
+de que o possuidor é o dono, embora possa não ser.  
+
+2 - A posse precisa ser estudada e protegida para evitar violência e manter a paz social; 
+
+assim,  se  o  indivíduo  não  defende  seus  bens  através  do  DESFORÇO  IMEDIATO,  instituto 
+
+este legitimado pelo ordenamento jurídico pátrio, previsto no parágrafo 1o do Artigo 1.210 do 
+
+C.C/02, e perde a posse deles, esse indivíduo não pode usar a força para recuperá-los, precisa 
+
+pedir à Justiça. Você continua proprietário dos seus bens, mas, para recuperar a posse da coisa 
+
+esbulhada só através do Estado-Juiz, para evitar violência.  
+
+3 – A posse existe no mundo antes da propriedade, afinal a posse é um fato que está na 
+
+natureza,  enquanto  a  propriedade  é  um  direito  criado  pela  sociedade;  os  homens  primitivos 
+
+tinham  a  posse  dos  seus  bens,  a  propriedade  só  surgiu  com  a  organização  da  sociedade  e  o 
+
+desenvolvimento do direito.  
+
+A  propriedade  prevalece  sobre  a  posse.  (Súmula  487  do  STF:  será  deferida  a  posse  a 
+
+quem evidentemente tiver o domínio, se com base neste for disputada).   
+
+Prof. João Jr. 
+
+ 10 
+
+Da Posse 
+
+ 
+
+ 
+
+ 
+
+1.198 do C.C/02).  
+
+2.2  DA DETENÇÃO 
+
+Conceito  de  detenção:  estado  de  fato  que  não  corresponde  a  nenhum  direito  (Artigo 
+
+Citemos como exemplo o motorista de ônibus; o motorista particular em relação ao car-
+
+ro  do  patrão;  o  bibliotecário  em  relação  aos  livros;  o  caseiro  de  nossa  granja  ou  da  casa  de 
+
+praia, etc. Tais pessoas não têm posse, mas, mera detenção por isso jamais podem adquirir a 
+
+propriedade pela usucapião dos bens que ocupam, pois só a posse prolongada enseja a usuca-
+
+pião, a detenção prolongada não enseja nenhum direito. O detentor é o fâmulo, ou seja, aquele 
+
+que possui a coisa em nome do verdadeiro possuidor, obedecendo a ordens dele.  
+
+Então, pode-se concluir que a posse é menos do que a propriedade, e a DETENÇÃO é 
+
+menos do que a posse. Pois, existe um estado de fato inferior à posse que é a detenção.  
+
+Dois juristas alemães fizeram estudos profundos sobre a posse que merecem nosso co-
+
+ 
+ 
+2.3  TEORIAS DA POSSE 
+
+nhecimento: 
+
+ 
+
+2.3.1  Teoria Subjetiva 
+
+Elaborada por Savigny em 1803, que elaborou um tratado sobre a posse afirmando que 
+
+a posse seria a soma de dois elementos: o “corpus” e o “animus”. O corpus é o elemento ma-
+
+terial, é o poder físico da pessoa sobre a coisa, é o elemento externo/objetivo, é a ocupação da 
+
+coisa pela pessoa; já o animus é o elemento interno/subjetivo, é a vontade de ser dono daquela 
+
+coisa possuída, é a vontade de ter aquela coisa como sua. Assim, para este jurista, o locatário, 
+
+o usufrutuário, o comodatário não teriam posse, pois sabem que não são donos. Tais pessoas 
+
+teriam apenas detenção, não poderiam sequer se proteger como autoriza o Artigo 1.210 e seu 
+
+parágrafo 1o. (ex.: o inquilino não poderia defender a casa onde mora contra um ladrão, pois o 
+
+inquilino seria mero detentor). Savigny errou ao valorizar demais o animus.  
+
+Conceito de posse de Savigny: posse é o poder que tem a pessoa de dispor fisicamente 
+
+de uma coisa (corpus) com a intenção de tê-la para si (animus). 
+
+ 
+
+Prof. João Jr. 
+
+Da Posse 
+
+ 
+
+ 
+
+2.3.2  Teoria Objetiva de Ihering 
+
+ 11 
+
+O referido jurista criticou Savigny e deu destaque à propriedade. Diz  Ihering que se o 
+
+proprietário  tem  a  posse,  não  há  necessidade  de  distinção  entre  elas.  Porém,  o  proprietário 
+
+pode  transferir  sua  posse  a  terceiros  para  um  melhor  uso  econômico  (ex.:  uma  pessoa  que 
+
+herda uma fazenda e por não saber administrá-la, decide então alugá-la/arrendá-la ou empres-
+
+tá-la a um agricultor/empresário). Assim, a posse se fragmenta em posse indireta (do proprie-
+
+tário)  e  posse  direta  (do  locatário/arrendatário  ou  comodatário).  Ambos  os  possuidores  têm 
+
+direito a exercer a proteção possessória do que autoriza o Artigo 1.210, do C.C/02.  
+
+Nosso  Código  Civil  adotou  a  Teoria  Objetiva  de  Ihering,  como  se  vê  dos  Artigos 
+
+1.196 e 1.197, ambos do C.C./02.  
+
+Ihering veio depois de Savigny e pôde aperfeiçoar a Teoria Subjetiva. Na prática, a dife-
+
+rença entre as teorias é porque para Ihering o proprietário e o possuidor direto podem defen-
+
+der a posse, já que o proprietário permanece possuidor indireto  (ex.: o MST invade uma fa-
+
+zenda alugada, então tanto o proprietário como o arrendatário podem defender as terras e/ou 
+
+acionar a Justiça).  
+
+Não obstante o indivíduo deva reunir os dois elementos (objetivo = corpus, e o subjeti-
+
+vo = animus), para ter posse, para a teoria objetiva idealizada por Ihering, possuidor é aquele 
+
+que  exerce  sobre  a  coisa  uma  das  faculdades  da  propriedade,  isto  é,  possuidor  é  aquele  que 
+
+usa, goza, ou dispõe da coisa. Em outras palavras, o possuidor é aquele que tem o “corpus”, 
+
+pois, presume-se que tem também o “animus”, cabendo, então, ao seu contestante comprovar 
+
+que aquele indivíduo não tem o elemento subjetivo - “animus”. 
+
+Ihering desprezou o animus e deu importância à fragmentação do corpus para uma me-
+
+lhor exploração econômica da coisa.  
+
+Conceito de posse de Ihering: posse é a relação de fato entre pessoa e coisa para fim 
+
+de sua utilização econômica, seja para si, seja cedendo-a para outrem.  
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Prof. João Jr. 
+
+Da Posse 
+
+ 12 
+
+2.4  OBJETO DA POSSE 
+
+ 
+
+Pode ser toda coisa material, corpórea, que ocupa lugar no espaço. Assim, todas as coi-
+
+sas móveis, imóveis e semoventes que ocupam lugar no espaço podem ser possuídas e prote-
+
+gidas.  Essa  é  a  regra  geral,  embora  admita-se  a  possibilidade  de  posse  de  coisas  imateriais 
+
+como linha telefônica, energia elétrica, sinal de TV por assinatura, marcas e patentes protegi-
+
+das  pela  propriedade  intelectual,  etc.  Mas,  alguns  contratos  exigem  a  transferência  da  posse 
+
+para sua formação como locação, depósito e comodato. Outros contratos não transferem só a 
+
+posse, mas, também, a propriedade da coisa como compra e venda, doação, etc. 
+
+2.5  CLASSIFICAÇÃO DA POSSE 
+
+ 
+
+2.5.1  Objetiva 
+
+Esta classificação leva em conta elementos externos, visíveis, e divide a posse em justa 
+
+e injusta. A posse injusta é a violenta, clandestina ou precária, a posse justa é o contrário (Ar-
+
+tigo 1.200 do C.C./02). A posse violenta nasce da força física ou violência psíquica (ex.: inva-
+
+são de uma fazenda, de um terreno urbano, o roubo de um bem). A posse clandestina é adqui-
+
+rida na ocultação (ex.: o furto), às escondidas, e o dono nem percebe o desapossamento para 
+
+tentar reagir como permite o § 1o do art. 1.210 do C.C/02. A posse precária é a posse injusta 
+
+mais odiosa porque ela nasce do abuso de confiança (ex.: o comodatário que findo o emprés-
+
+timo não devolve o imóvel; o inquilino que não devolve a casa ao término da locação). O re-
+
+levante é porque a posse violenta e a clandestina podem convalescer, ou seja, podem se curar 
+
+e virar posse quando cessar a violência ou a clandestinidade, e o ladrão passar a usar a coisa 
+
+publicamente, sem oposição ou contestação do proprietário.  Já a posse precária jamais conva-
+
+lesce, nunca quem age com abuso de confiança pode ter a posse da coisa para com o passar do 
+
+tempo  se beneficiar pela usucapião e adquirir a propriedade. O ladrão e o invasor até podem 
+
+se tornar proprietários, mas quem age com abuso de confiança nunca.  
+
+ 
+
+2.5.2  Subjetiva 
+
+A  classificação  subjetiva  leva  em  conta  a  condição  psicológica  do  possuidor,  ou  seja, 
+
+elementos internos/íntimos do possuidor, e divide a posse em de boa-fé e de má-fé. A posse 
+
+ 
+
+ 
+ 
+
+ 
+
+Prof. João Jr. 
+
+Da Posse 
+
+ 
+
+ 13 
+
+é de boa-fé quando o possuidor tem a convicção de que sua posse não prejudica ninguém (Ar-
+
+tigo 1.201 do C.C/02). A posse é de má-fé quando o possuidor sabe que tem vício. A posse de 
+
+boa-fé,  embora  íntima,  admite  um  elemento  externo  para  facilitar  a  sua  comprovação.  Este 
+
+elemento  externo  é  chamado  de  “justo  título”,  ou  seja,  um  documento  aparentemente  hábil 
+
+para  transferência  de  posse  ou  domínio,  e  que  traz  verossimilhança  à  boa-fé  do  possuidor. 
+
+(Artigo 1.201 do C.C/02; ex.: comprar bem de um menor que tinha identidade falsa; outro ex.: 
+
+A aluga uma casa a B e proíbe sublocação, C não sabe de nada, e B subloca a C, C está de 
+
+boa-fé, pois tem um contrato com B, porém sua boa-fé cessa quando A comunicar a C que B 
+
+não podia sublocar – artigo 1.202 do C.C/02).  
+
+Em geral a posse injusta é de má-fé e a posse justa é de boa-fé, porém admite-se posse 
+
+injusta de boa-fé (ex.: comprar coisa do ladrão, 1.203 do C.C/02; é injusta porque nasceu da 
+
+violência, mas o comprador não sabia que era roubada),  e posse justa de  má-fé  (ex.:  o tutor 
+
+comprar  bem  do  órfão;  o  Juiz  comprar  o  bem  que  ele  mandou  penhorar,  mesmo  pagando  o 
+
+preço correto, é vedado pelo artigo 497, inciso III do C.C/02; a posse é justa porque foi pago 
+
+o preço correto, mas é de má-fé porque tem vício, ante a violação da ética, da moral, e da pró-
+
+pria lei).  
+
+COMPOSSE: é a posse exercida por duas ou mais pessoas, como o condomínio é a proprie-
+
+dade exercida por duas ou mais pessoas (Art. 1199 do C.C/02). A composse pode ser tanto na 
+
+posse direta como na indireta (ex: dois irmãos herdam um apartamento e alugam a um casal, 
+
+hipótese em que os irmãos condôminos terão composse indireta e o casal a composse direta). 
+
+2.6  AQUISIÇÃO DA POSSE 
+
+ 
+
+Já  sabemos  que  nosso  legislador  adotou  a  teoria  objetiva  da  posse  de  Ihering.  Então 
+
+possuidor  é  todo  aquele  que  ocupa  a  coisa,  seja  ou  não  dono  dessa  coisa  (Artigo  1196  do 
+
+C.C/02), salvo os casos de detenção já vistos (Artigo 1.198 de C.C/02). Sabemos também que 
+
+o proprietário, mesmo que deixe de ocupar a coisa, mesmo que perca o contato físico sobre a 
+
+coisa, continua por uma ficção jurídica seu possuidor indireto, podendo proteger a coisa con-
+
+tra agressões de terceiros (Artigo 1197 do C.C/02). 
+
+Quais são os poderes inerentes à propriedade referidos no art. 1.196? São três: o uso, a 
+
+fruição  (ou  gozo)  e  a  disposição,  conforme  Artigo  1228  do  C.C/02.  Então  todo  aquele  que 
+
+ 
+ 
+
+ 
+
+Prof. João Jr. 
+
+Da Posse 
+
+ 
+
+ 14 
+
+usa, frui ou dispõe de um bem é seu possuidor (Artigo 1196 do C.C/02). É por isso que a pro-
+
+priedade  é  conhecida  como  um  direito  complexo,  porque  é  a  soma  de  três  atribu-
+
+tos/poderes/faculdades. 
+
+Para adquirir a posse de um bem, basta usar, fruir ou dispor desse bem. Pode ter apenas 
+
+um, dois ou os três poderes inerentes à propriedade que será possuidor da coisa (Artigo 1204 
+
+do C.C/02: “em nome próprio” para diferenciar a posse da detenção do 1.198 do C.C/02). É 
+
+por isso que pode haver dois possuidores (o direto e o indireto), pois a posse pertence a quem 
+
+tem o exercício de algum dos três poderes inerentes ao domínio.  
+
+Exemplos de aquisição  da posse:  através da ocupação ou  apreensão  (pescar um  peixe, 
+
+pegar uma concha na praia, pegar um sofá abandonado na calçada), através de alguns contra-
+
+tos (compra e venda, doação, troca, mútuo – vão transferir posse e propriedade; já na locação, 
+
+comodato e depósito só se adquire posse), através dos direitos reais (usufruto, superfície, ha-
+
+bitação, alienação fiduciária), através do direito sucessório (Artigo 1784 C.C/02). 
+
+Na  hipótese  de  ocupação  (ou  apreensão)  se  diz  que  a  aquisição  da  posse  é  originária, 
+
+pois não existe vínculo com o possuidor anterior. Nos demais caos a aquisição da posse é de-
+
+rivada de alguém, ou seja, a coisa passa de uma pessoa para outra com os eventuais vícios dos 
+
+Artigos 1203 e 1206 do C.C/02. (ex.: comprar coisa de um ladrão não gera posse justa, mas 
+
+sim injusta pela violenta, salvo vindo a posse convalescer, virando posse justa e depois pro-
+
+priedade pela usucapião; 1208 e 1261 do C.C/02).  
+
+É importante saber o dia em que a posse foi adquirida para contagem do prazo da usu-
+
+capião, bem como para caracterizar a posse velha (mais de um ano e um dia) do Artigo 924 do 
+
+O incapaz pode adquirir posse? Sim, isso porque o incapaz adquire e exerce a posse por 
+
+meio de seu representante legal ou assistente, seja a incapacidade absoluta ou relativa, respec-
+
+CPC. 
+
+ 
+
+tivamente. (Artigo 542 do C.C/02).  
+
+ 
+ 
+2.7  PERDA DA POSSE 
+
+ 
+
+Perde-se a posse quando a pessoa deixa de exercer sobre a coisa qualquer dos três pode-
+
+res inerentes ao domínio, conforme Artigos 1.223, 1.224, 1196 e 1204, do C.C/02. 
+
+Prof. João Jr. 
+
+Da Posse 
+
+ 15 
+
+Exemplificando: perde-se a posse por:  
+
+a)  Abandono (significa renunciar à posse, é a res derelictae = coisa abandonada); 
+
+b)  Tradição (entrega da coisa a outrem com ânimo de se desfazer da posse, como ocorre 
+
+nos contratos de compra e venda, doação, etc.;  
+
+c)  Perda da coisa com o animus de não mais recuperá-la; a perda é involuntária e perma-
+
+d)  Pela sua colocação fora do comércio  (ex.: o governo decide proibir o cigarro, Artigo 
+
+nente; 
+
+104, II, do C.C/02); 
+
+e)  Pela posse de outrem (invasor, ladrão) que, com a cessação da violência ou clandesti-
+
+nidade já passa a ter posse, e após alguns anos terá propriedade através da usucapião, 
+
+isso  tudo  se  o  proprietário  permitir  e  não  estiver  questionando  na  Justiça  a  perda  do 
+
+seu bem; isso parece absurdo, proteger o ladrão/invasor, mas o efeito do tempo é tão 
+
+importante para o direito, e a posse é tão importante para presumir (dar  aparência) a 
+
+propriedade. 
+
+2.8  EFEITOS DA POSSE 
+
+ 
+
+São muitos os efeitos da posse, vez que ela é a exteriorização de um direito complexo e 
+
+importantíssimo  -  a  propriedade  -,  desse  modo  a  posse  tem  consequências  jurídicas,  e,  por 
+
+isso, tal instituto é um fato protegido pelo direito.  
+
+Vejamos os efeitos da posse:  
+
+a) Direito à legítima defesa, ou desforço imediato, ou autodefesa da posse do § 1o do 1210 
+
+do C.C/02, afinal quem não defende seus bens, móveis ou imóveis, não é digno de possuí-los. 
+
+Se o possuidor não age “logo” precisa recorrer ao Poder Judiciário, para não incidir no Artigo 
+
+345 do Código Penal. Os limites desta autodefesa são os mesmos da legítima defesa do direito 
+
+penal, ou seja, deve-se agir com moderação, mas usando os meios e forças até o indispensável 
+
+para recuperar a coisa.  
+
+b) Direito aos interditos: interdito é uma ordem do Juiz e são três as ações possessórias clás-
+
+sicas que se pode pedir ao Juiz quando o possuidor não tem sucesso através do desforço ime-
+
+diato, quais sejam: 
+
+Prof. João Jr. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Da Posse 
+
+ 
+
+ 16 
+
+ Ação  de  interdito  proibitório:  é  uma  ação  preventiva  usada  pelo  possuidor  diante  de  uma 
+
+séria  ameaça  a  sua  posse  (ex.:  os  jornais  divulgam  que  o  MST  vai  invadir  a  fazenda  X  nos 
+
+próximos dias). O dono (ou possuidor, ex.:  arrendatário/locatário) da fazenda ingressa então 
+
+com a ação e pede ao Juiz que proíba os réus de fazerem a invasão sob pena de prisão e sob 
+
+pena de multa em favor do autor da ação. (parte final do Artigo 1210 caput do C.C/02). 
+
+Ação de manutenção de posse: esta ação é cabível quando houver turbação, ou seja, quando 
+
+já houve violência à posse (ex.:  derrubada da cerca, corte do arame, cerco à fazenda, fecha-
+
+mento  da  estrada  de  acesso).  O  possuidor  não  perdeu  sua  posse,  mas  está  com  dificuldade 
+
+para  exerce-la  livremente  conforme  os  exemplos.  (Artigo  1.210  parte  inicial,  do  C.C/02).  O 
+
+possuidor pede ao Juiz para ser mantido na posse, para que cesse a violência e para ser inde-
+
+nizado dos prejuízos sofridos. Turbação significa perturbação, isto é, ter a posse perturbada. 
+
+Ação de reintegração de posse: esta ação vai ter lugar em caso de esbulho, ou seja, quando o 
+
+possuidor efetivamente perdeu a posse da coisa pela violência de terceiros. O possuidor pede 
+
+ao  Juiz  que  devolva  o  que  lhe  foi  tomado.  Esta  ação  cabe  também  quando  o  inquilino  não 
+
+devolve a coisa no término do contrato, ou quando o comodatário não devolve no término do 
+
+empréstimo. A violência do inquilino e do comodatário surge ao término do contrato, ao não 
+
+devolver  a  coisa,  abusando  da  confiança  do  locador/comodante.  (Artigo  1.210  C.C/02).  O 
+
+possuidor pede ao Juiz para ser reintegrado na posse. 
+
+Estas três  ações são  fungíveis, ou seja, se o advogado se equivoca quanto ao título da 
+
+ação, não tem problema, pois uma ação pode substituir a outra (ex.: ingressa com o interdito, 
+
+mas quando o Juiz vai despachar já houve esbulho, não tem problema, Artigo 920 CPC); além 
+
+disso, o direito é mais importante do que o processo.  
+
+Outra coisa muito importante: estas ações devem ser propostas no prazo de até um ano e 
+
+um  dia  da  agressão  (Artigo  924  do  CPC),  pois  dentro  deste  prazo  o  Juiz  pode  LIMINAR-
+
+MENTE determinar o afastamento dos réus que tem posse injusta; após esse prazo, o invasor 
+
+já tem POSSE VELHA e o Juiz não pode mais deferir uma liminar, e o autor vai ter que espe-
+
+rar a sentença pelo rito ordinário. 
+
+c) Direito aos frutos e aos produtos: O possuidor de boa-fé tem direito aos frutos e aos pro-
+
+dutos da coisa possuída (Artigos 95 e 1214 do C.C/02). Então o arrendatário de uma fazenda 
+
+pode retirar os frutos e os produtos da coisa durante o contrato. Os frutos diferem dos produ-
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Da Posse 
+
+ 17 
+
+tos, pois estes são esgotáveis, são exauríveis (ex.: uma pedreira, lençol de petróleo), enquanto 
+
+que os frutos se renovam. Os frutos podem ser naturais (ex.: crias dos animais, frutas das ár-
+
+vores, safra de uma plantação) ou industriais/artificiais (ex.: produção de uma fábrica de car-
+
+ros)  ou  civis  (ex.:  rendimentos  provenientes  de  capital  como  os  juros,  aluguéis).  (Artigos 
+
+1214,  e  1215  do  C.C/02).  O  possuidor  de  má-fé  não  tem  esses  direitos  (Artigo  1216  do 
+
+C.C/02),  salvo  os  da  parte  final  do  1.216  do  mesmo  código,  afinal,  mesmo  de  má-fé,  gerou 
+
+riqueza na coisa.  
+
+d)  Direito  à  indenização  e  retenção  por  benfeitorias:  Se  o  possuidor  realiza  benfeitorias 
+
+(melhoramentos,  obras,  despesas)  na  coisa  deve  ser  indenizado  pelo  proprietário  da  coisa, 
+
+afinal a coisa sofreu uma valorização com tais melhoramentos. Se o proprietário não indeni-
+
+zar, o possuidor poderá exercer o direito de retenção, ou seja, terá o direito de reter (conser-
+
+var, manter) a coisa em seu poder em garantia dessa indenização (desse crédito) contra o pro-
+
+prietário.  
+
+casos. 
+
+Mas tais direitos de indenização e de retenção não são permitidos pela lei em todos os 
+
+Inicialmente  precisamos  identificar  o  tipo  de  benfeitoria  realizada.  Pelo  Artigo  96  do 
+
+C.C/02, as benfeitorias podem ser voluptuárias, úteis e necessárias. Os parágrafos desse artigo 
+
+conceituam tais espécies de benfeitorias; então exemplificando a voluptuária seria uma estátua 
+
+ou uma fonte no jardim de um casa, ou então um piso de mármore, ou uma torneira dourada; 
+
+já a útil seria uma piscina, uma garagem coberta, um pomar, fruteiras; finalmente, a benfeito-
+
+ria  necessária  seria  consertar  uma  parede  rachada,  reparar  um  telhado  com  goteiras,  trocar 
+
+uma porta cheia de cupim.  
+
+tá de boa-fé ou de má-fé. 
+
+Precisamos também identificar a condição subjetiva da posse, ou seja, se o possuidor es-
+
+Pois bem; se o possuidor está de boa-fé (ex.: inquilino, comodatário, usufrutuário, etc.) 
+
+terá sempre direito à indenização e retenção pelas  benfeitorias necessárias; já as benfeitorias 
+
+voluptuárias  poderão  ser  levantadas  (retiradas)  pelo  possuidor,  se  a  coisa  puder  ser  retirada 
+
+sem estragar e se o dono não preferir comprá-las, não cabendo indenização ou retenção; quan-
+
+to às benfeitorias úteis, existe mais um detalhe: é preciso saber se tais benfeitorias úteis foram 
+
+expressamente autorizadas pelo proprietário para ensejar a indenização e retenção. 
+
+Prof. João Jr. 
+
+ 
+
+ 
+
+ 
+
+Da Posse 
+
+ 
+
+ 18 
+
+Numa leitura isolada do Artigo 1219 do C.C/02, fica a impressão de que as benfeitorias 
+
+necessárias e úteis têm o mesmo tratamento. Mas, isso não é verdade por três motivos: 
+
+Primeiro por uma questão de justiça, afinal, como já vimos, são diferentes as benfeitori-
+
+as úteis e necessárias, e estas são mais importantes do que aquelas. Não se pode comparar a 
+
+necessidade de reparar uma parede rachada (que ameaçava derrubar o imóvel) com a simples 
+
+utilidade de uma garagem coberta (é bom, evita que o carro fique quente, facilita o embarque 
+
+das pessoas sob chuva, mas não é imprescindível).  
+
+Segundo por que os Arts. 505 e 578 do C.C/02 exigem autorização expressa do proprie-
+
+tário para autorizar a indenização e retenção por benfeitorias úteis. 
+
+Em suma, em todos os casos de transmissão da posse (locação, comodato, usufruto), o 
+
+possuidor  de  boa-fé  terá  sempre  direito  à  indenização  e  retenção  pelas  benfeitorias  necessá-
+
+rias; nunca terá tal direito com relação às benfeitorias voluptuárias; e terá tal direito com rela-
+
+ção às benfeitorias úteis se foi expressamente autorizado pelo proprietário a realizá-las.  
+
+Já ao possuidor de má-fé se aplica o Artigo 1220 do C.C/02, ou seja, nunca cabe direito 
+
+de retenção, não pode retirar as voluptuárias e só tem direito de indenização pelas benfeitorias 
+
+necessárias. Não pode nem retirar as voluptuárias até para compensar o tempo em que de má-
+
+fé ocupou a coisa e impediu sua exploração econômica pelo proprietário (possuidor).  
+
+e) Direito a usucapir (captar pelo uso = usucapião): Para alguns autores este é o principal 
+
+efeito da posse, o direito de adquirir a propriedade pela posse durante certo tempo. A posse é 
+
+o principal requisito da usucapião, mas não é o único.  
+
+f) Responsabilidade do possuidor pela deterioração da coisa: Vocês sabem que, de regra, 
+
+res perit domino, ou seja, a coisa perece para o dono. Assim, se eu empresto meu carro a José 
+
+(posse de boa-fé) e o carro é furtado ou atingido por um raio, o prejuízo é meu e não do pos-
+
+suidor  (Artigo  1217  do  C.C/02).  O  possuidor  de  boa-fé  tem  responsabilidade  subjetiva,  só 
+
+indeniza o proprietário se agiu com culpa para a deterioração da coisa (ex.: deixou a chave na 
+
+ignição e facilitou o furto).  
+
+Já o possuidor de má-fé pode ser responsabilizado mesmo por um acidente sofrido pela 
+
+coisa, conforme Artigo 1218 do C.C/02, salvo se provar a parte final daquele dispositivo (ex.: 
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Da Posse 
+
+ 19 
+
+um  raio  atinge  minha  casa  que  estava  invadida,  o  invasor  não  tem  responsabilidade,  pois  o 
+
+raio teria caído de todo jeito, estivesse a casa na posse do dono ou do invasor). O possuidor de 
+
+má-fé tem, de regra, responsabilidade objetiva, independente de culpa (ex.: A empresta o car-
+
+ro a B para fazer a feira, mas B passa dois dias com o carro que termina sendo furtado em seu 
+
+próprio trabalho).  
+
+ 
+
+g) Direito a inversão do ônus da prova: A aparência (presunção) é a de que o possuidor é o 
+
+dono, assim cabe ao terceiro reivindicante provar sua melhor posse ou sua condição de verda-
+
+deiro dono (Artigo 1211 do C.C/02).  Na dúvida, se mantém a coisa com quem já estiver.   
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+ 
+
+ 
+
+ 
+
+3. DA PROPRIEDADE 
+
+ 
+
+ 
+
+  
+
+3.1  CONCEITO 
+
+É o mais importante e complexo direito real. É o único direito real sobre a coisa própria, 
+
+pois os demais direitos reais do art. 1.225 do C.C/02 são direitos reais sobre coisas alheias. 
+
+Nosso ordenamento protege a propriedade a nível constitucional (Artigo 5º, XXII e 170, 
+
+II da CF/88). 
+
+  A  propriedade  é  mais  difícil  de  ser  percebida  do  que  a  posse,  pois  a  posse  está  no 
+
+mundo da natureza, enquanto a propriedade está no mundo jurídico. Eu sei que vocês têm a 
+
+posse das roupas, livros e relógios que estão usando agora, mas não tenho certeza se vocês são 
+
+realmente donos desses objetos.  
+
+Conceito 
+
+O Código Civil em seu Artigo 1.228 conceitua o direito de propriedade como: o direito 
+
+de usar,  gozar e dispor da coisa, bem  como  de reavê-la do poder de quem  quer que injusta-
+
+mente a possua ou detenha. 
+
+Então a propriedade é o poder de usar, fruir (gozar) e dispor de um bem (três faculda-
+
+des/atributos/poderes do domínio) e mais o direito de reaver essa coisa do poder de quem in-
+
+justamente a ocupe.              
+
+ 
+ 
+
+            
+
+3.2.1  Complexidade  
+
+3.2  CARACTERÍSTICAS DA PROPRIEDADE  
+
+Pelo conceito legal de propriedade se percebe porque se trata de um direito complexo. A 
+
+complexidade é justamente porque a propriedade é a soma de três faculdades e mais esse di-
+
+reito de reaver de terceiros. 
+
+Expliquemos estas três faculdades e este direito de reaver: 
+
+Prof. João Jr. 
+
+Da Propriedade 
+
+ 21 
+
+Uso – é o jus utendi, ou seja, o proprietário pode usar a coisa, pode ocupá-la para o fim a que 
+
+se destina. Ex.: morar numa casa; usar um carro para trabalho/lazer. O uso pode ser também 
+
+negativo, como deixar um relógio guardado. 
+
+Fruição (ou gozo) – jus fruendi; o proprietário pode também explorar a coisa economicamen-
+
+te, auferindo seus benefícios  e vantagens. Ex.:  vender os frutos  das árvores do quintal; ficar 
+
+com as crias dos animais da fazenda; alugar o imóvel. 
+
+Disposição – jus disponiendi; é o poder de abusar da coisa, de modificá-la, reformá-la, vendê-
+
+la, consumi-la, e até destruí-la. A disposição é o poder mais abrangente. 
+
+Exemplo: se eu sou dono de um quadro eu posso pendurá-lo na minha parede (jus uten-
+
+di), posso alugá-lo para uma exposição (jus fruendi) e posso também vendê-lo (jus disponien-
+
+di). 
+
+O dono pode também ceder a terceiros só o uso da coisa (ex.: direito real de habitação 
+
+do Artigo 1.414 do C.C/02); pode ceder o uso e a fruição (ex.:  usufruto  do Artigo 1.394 do 
+
+C.C/02,  e  superfície  do  Artigo  1369  do  C.C/02);  pode  ceder  só  a  disposição  (ex.:  contrato 
+
+estimatório ou por consignação do Artigo 537 do C.C/02). O proprietário tem as três faculda-
+
+des, já o possuidor tem pelo menos uma dessas três (Artigos 1196, 1204 do C.C/02).  
+
+Além de ser a soma destas três faculdades, a propriedade produz um efeito, que é justa-
+
+mente o direito de reaver a coisa (parte final do Artigo 1228 do C.C/02). Como se faz isso? 
+
+Como se recuperam nossos bens que injustamente estejam com terceiros? 
+
+ Através da ação reivindicatória. Esta é a ação do proprietário sem posse e contra o pos-
+
+suidor sem título. Esta ação serve ao dono contra o possuidor injusto, contra o possuidor de 
+
+má-fé ou contra o detentor. 
+
+ Não confundam com a ação possessória. A possessória é a ação do possuidor contra o 
+
+invasor, que inclusive pode ser o proprietário (ex.: locador quer entrar a qualquer hora na casa 
+
+do inquilino, alegando ser o dono; não pode. Mas o proprietário que aluga uma fazenda tam-
+
+bém  pode usar a possessória se o MST ameaça invadir e o arrendatário não toma providên-
+
+cias, afinal o proprietário tem posse indireta). A vantagem da possessória é a possibilidade de 
+
+concessão  de  liminar  “initio  litis”  específica  pelo  Juiz.  Na  reivindicatória  não  cabe  liminar 
+
+ 
+
+ 
+
+  
+
+ 
+
+Prof. João Jr. 
+
+ 22 
+
+Da Propriedade 
+
+ 
+
+CPC.  
+
+específica, e sim a genérica, através da antecipação de tutela, instituto previsto no Art. 273 do 
+
+Este direito de reaver é consequência da sequela, aquela característica dos direitos reais, 
+
+e que permite que o titular do direito real o exerça contra qualquer pessoa.  
+
+3.2.2  É direito absoluto 
+
+Se  o  proprietário  pode  dispor,  pode  abusar  da  coisa  (jus  abutendi),  pode  vendê-la,  re-
+
+formá-la e até destruí-la. Esse absolutismo não é mais pleno, pois o direito moderno exige que 
+
+a coisa cumpra uma função social, exige um desenvolvimento sustentável do produzir evitan-
+
+do poluir (Art. 5º, XXIII da CF/88 c/c, § 1º do Artigo 1228 do C.C/02).  
+
+Respeitar a função social é um limite ao direito de propriedade. 
+
+Com  efeito,  quando  uma  propriedade  não  cumpre  sua  função  social,  o  Estado  a  desa-
+
+propria não para si (o que seria comunismo ou socialismo), mas para outros particulares que 
+
+possam melhor utilizá-la. Isso só comprova que nosso direito valoriza a propriedade privada.  
+
+É  absoluto  também  porque  se  exerce  contra  todos,  é  direito  erga  omnes;  todos  vocês 
+
+têm que respeitar minha propriedade sobre meus bens e vice-versa.  
+
+3.2.3  Perpetuidade  
+
+Os direitos de crédito prescrevem, mas a propriedade dura para sempre, passa inclusive 
+
+para nossos filhos  através do direito das sucessões. Quanto  mais o dono usa a coisa, mais o 
+
+direito de propriedade se fortalece. A propriedade não se extingue pelo não-uso do dono, mas 
+
+sim pelo  uso de terceiros. Então eu posso  guardar meu relógio  na gaveta que ele continuará 
+
+meu  para  sempre.  Eu  posso  passar  décadas  sem  ir  ao  meu  terreno  na  praia.  Mas  se  alguém 
+
+começar a usá-lo poderá adquiri-lo pela usucapião.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Da Propriedade 
+
+3.2.4  Exclusividade  
+
+condomínio. 
+
+ 
+
+3.2.5  Elasticidade  
+
+ 
+ 
+3.3  SUJEITOS  
+
+ 
+
+direito de propriedade.  
+
+ 
+ 
+3.4  OBJETO 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 23 
+
+Artigo 1231 do C.C/02; o proprietário pode proibir que terceiros se sirvam do seu bem; 
+
+a presunção é a de que cada bem só tem um dono exclusivo, mas nosso ordenamento admite o 
+
+A propriedade se contrai e se dilata, é elástica como uma sanfona; por exemplo, tenho 
+
+uma fazenda e cedo em usufruto para José; eu perco as faculdades de uso e de fruição, minha 
+
+propriedade antes plena (completa) vai diminuir para apenas disposição e posse indireta; mas 
+
+ao término do usufruto, minha propriedade se dilata e torna-se plena novamente. 
+
+Quais os sujeitos no direito de propriedade? De um lado o sujeito ativo, o proprietário, 
+
+qualquer pessoa  física ou jurídica, desde que  capaz. O menor pode adquirir mediante repre-
+
+sentação do pai ou do tutor (Arts. 1634, V e 1747, I do C.C/02). Do outro lado o sujeito passi-
+
+vo indeterminado, ou seja, todas as demais pessoas da sociedade que devem respeitar o  meu 
+
+O objeto da propriedade é toda coisa corpórea, móvel ou imóvel. Admite-se propriedade 
+
+de coisas incorpóreas como o direito autoral e o fundo de comércio. 
+
+3.5  ESPÉCIES DE PROPRIEDADE 
+
+a) Plena ou Ilimitada: quando as três faculdades do domínio (uso, fruição e disposição) estão 
+
+concentradas nas mãos do proprietário e não existe nenhuma restrição. Artigo 1231 do C.C/02 
+
+b) Limitada:  subdivide-se em  1) restrita:  quando a propriedade  está  gravada com  um  ônus 
+
+real, como a hipoteca, penhor, etc., ou quando o proprietário, por exemplo, cedeu a coisa em 
+
+Prof. João Jr. 
+
+Da Propriedade 
+
+ 24 
+
+usufruto para outrem e ficou apenas com a disposição e posse indireta do bem; 2 ) resolúvel: 
+
+propriedade resolúvel é aquela que está subordinada a um termo ou condição resolutórios, ou 
+
+seja,  pode ser resolvida (extinta), e só se tornará plena após certo tempo ou certa condição. 
+
+Na hipótese de retrovenda, por exemplo, o comprador do imóvel tem a propriedade resolúvel, 
+
+ou seja, a sua propriedade vigorará até o advento do termo final previsto na avença, conforme 
+
+prevê o Artigo 505 do C.C/02. 
+
+3.6  EXTENSÃO DA PROPRIEDADE 
+
+Até onde vai a propriedade? Até onde vai o poder do dono sobre a coisa? Como esta-
+
+mos tratando aqui de direito imobiliário, vamos nos ater a imóveis. Pois, com o imóvel sur-
+
+gem alguns problemas quanto ao limite vertical. O limite horizontal do terreno será o muro, a 
+
+cerca,  o  rio,  etc.  E  o  limite  vertical?  Até  que  altura  e  profundidade  do  solo  o  proprietário  é 
+
+dono?  Diziam  os  romanos  “qui  dominus  est  soli  dominus  est  usque  ad  caelum  et  usque  ad 
+
+inferos” (quem é dono do solo é dono até o céu e até o inferior). Mas com a aviação e a im-
+
+portância estratégica dos minerais, o espaço aéreo e o subsolo passaram a pertencer ao Estado, 
+
+assim o dono não pode impedir que um avião passe bem alto por cima de seu terreno, e nem 
+
+pode explorar os recursos minerais do subsolo (Artigos 1230 C.C/02 e 176 CF/88). No final, 
+
+predomina  a  razoabilidade/bom  senso/utilidade  prática  do  Art.  1229  do  C.C/02,  que  usa  as 
+
+expressões “úteis ao exercício” e “interesse em impedir”, de modo que o proprietário não po-
+
+de impedir que o metrô passe por baixo de seu terreno, mas pode impedir que o vizinho cons-
+
+trua uma garagem por baixo de sua casa; o proprietário não pode impedir o  sobrevoo de um 
+
+avião lá no alto, mas pode impedir voos rasantes sobre sua casa. Prepondera o interesse cole-
+
+tivo sobre o privado, via de regra.  
+
+3.7  MODOS DE AQUISIÇÃO DA PROPRIEDADE  
+
+A aquisição da propriedade pode ser originária ou derivada; é originária quando a pro-
+
+priedade é adquirida sem vínculo com o dono anterior, de modo que o proprietário sempre vai 
+
+adquirir propriedade plena, sem  nenhuma restrição, sem  nenhum  ônus (ex.:  acessão prevista 
+
+no  Art.  1248  do  C.C/02,  usucapião  e  ocupação);  a  aquisição  é  derivada  quando  decorre  do 
+
+relacionamento entre pessoas (ex: contrato registrado para imóveis, sucessão hereditária), e o 
+
+Prof. João Jr. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Da Propriedade 
+
+ 25 
+
+novo dono vai adquirir nas mesmas condições do anterior (ex.: se compra uma casa com hipo-
+
+teca,  vai  responder  perante  o  credor  hipotecário;  se  herda  um  apartamento  com  servidão  de 
+
+vista, vai se beneficiar da vantagem).  
+
+3.8  FORMAS DE AQUISIÇÃO DA PROPRIEDADE IMÓVEL    
+
+São três modalidades previstas no capítulo II, do título III, do livro III, da parte especial 
+
+ 
+ 
+
+         
+
+do Código Civil de 2002.  
+
+3.8.1  Pela usucapião 
+
+domini - elemento subjetivo).  
+
+ 
+
+  Requisitos 
+
+A  palavra  é  feminina  porque  vem  do  latim  “usus”  +  “capere”,  ou  seja,  é  a  capta-
+
+ção/tomada/aquisição pelo uso. Conceito: é a modalidade originária de aquisição da proprie-
+
+dade pela posse prolongada e demais requisitos legais. Não só a propriedade se adquire pela 
+
+usucapião, mas outros direitos reais como superfície, usufruto e servidão predial também.  A 
+
+usucapião  exige  posse  prolongada  (elemento  objetivo)  com  a  vontade  de  ser  dono  (animus 
+
+a)  Capacidade  do  adquirente:  o  incapaz  não  pode  adquirir  pela  usucapião  (104,  I  do 
+
+C.C/02.), e também não pode perder pela usucapião, caso seu representante (pai, tutor, cu-
+
+rador) não defenda seus bens (198, I do C.C/02, – a usucapião, como a prescrição, é tam-
+
+bém efeito do tempo no direito; diz-se que a prescrição do Art 189 é prescrição extintiva, 
+
+enquanto a usucapião é prescrição aquisitiva). Art. 1244 do C.C/02. 
+
+b)  A coisa usucapienda precisa estar no comércio (ex: Art. 102, drogas do C.C/02.).  
+
+c)  A posse: não  é qualquer posse, mas a posse para ensejar a usucapião precisa ser mansa, 
+
+pacífica, pública, contínua e com intenção de dono da parte do possuidor; para a posse re-
+
+unir  essas  características,  o  proprietário  precisa  se  omitir  e  colaborar  com  o  amadureci-
+
+mento desta posse; como já vimos, a detenção violenta e clandestina pode convalescer e 
+
+virar posse, mas a detenção precária jamais; empregado, caseiro, também não tem posse, 
+
+mas mera detenção (Art. 1198 do C.C/02.); inquilino/comodatário, durante o contrato, tem 
+
+Prof. João Jr. 
+
+ 
+
+ 
+
+ 
+
+Da Propriedade 
+
+ 26 
+
+posse mas não tem animus domini, e depois do contrato, caso não desocupem a coisa, sua 
+
+situação passa a ser de detentor, por isso em  nenhum  caso inquilino/comodatário  podem 
+
+adquirir pela usucapião. Acessão de posses: é a soma da posse do sucessor com a posse do 
+
+antecessor para atingir o tempo exigido em lei para a usucapião, desde que as posses te-
+
+nham as mesmas características (Art. 1243 do C.C/02.).  
+
+d)  O tempo: o tempo varia de dois a quinze anos, conforme a espécie da usucapião que ve-
+
+remos a seguir. 
+
+  Espécies de usucapião 
+
+a)  Extraordinária: é a do art. 1238 do C.C/02, mesmo que o possuidor esteja de má-fé; esta é 
+
+a usucapião que beneficia inclusive o ladrão e o invasor; não há limite para o tamanho do 
+
+terreno e a pessoa pode já ter um imóvel e mesmo assim usucapir outro; o tempo para esta 
+
+espécie já foi de 30 anos, depois caiu para 20 e agora é de 15; isto é uma prova da impor-
+
+tância da posse para o direito; o artigo fala em “juiz declarar por sentença”, pois o juiz não 
+
+constitui a propriedade para o autor, o juiz apenas reconhece/declara que a pessoa adquiriu 
+
+aquela propriedade do tempo. Com a sentença, o autor fará o registro no cartório de imó-
+
+veis, mas repito, o autor terá adquirido pelo tempo e não pelo registro. Porém o registro é 
+
+importante para dar publicidade e para permitir que o autor depois possa fazer uma hipo-
+
+teca, servidão, superfície, vender o bem a terceiros, etc. A sentença aqui é o título a que se 
+
+refere o Art. 1245 do C.C/02, ao invés do tradicional contrato mediante escritura pública.   
+
+b)  Ordinária: Art. 1242 do C.C/02; o prazo é menor, de dez anos, pois exige título e boa-fé 
+
+do possuidor, além da posse mansa, pacífica, etc.; exemplos de título justo seriam um con-
+
+trato particular, um recibo, uma promessa de compra e venda, etc.  
+
+c)  Especial rural: Art. 1239 do C.C/02: o prazo é de apenas cinco anos, mas existe um limite 
+
+para o tamanho do terreno (até 50 hectares) usucapiendo e o proprietário lá tem que traba-
+
+lhar e não pode ter outro imóvel; beneficia os sem terra.  
+
+d)  Especial urbano: art. 1240 do C.C/02; semelhante ao rural; beneficia os sem teto. Imóvel 
+
+até 250 m².  
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Da Propriedade 
+
+ 27 
+
+e)  Usucapião Documental: Também chamado de USUCAPIÃO ORDINÁRIO PRIVILEGI-
+
+ADO, trata-se de nova espécie de usucapião trazida no bojo do noviço Código Civil, com-
+
+pulsando-se como base legal o disposto no parágrafo único do art. 1.242. 
+
+f)  Usucapião por abandono de lar: Espécie de usucapião criada recentissimamente pela Lei nº 
+
+12.424 de 16 de junho de 2011, que acrescentou o artigo 1.240-A. 
+
+ 
+
+3.8.2  Pelo Registro do Título 
+
+Antigamente chamava-se de transcrição; é aquisição derivada. O registro é o modo mais 
+
+comum  de  aquisição  de  imóveis.  Conceito:  trata-se  da  inscrição  do  contrato  no  cartório  de 
+
+registro do lugar do imóvel.  Existem cartórios de notas (onde se faz escritura pública, testa-
+
+mento,  reconhecimento  de  firma,  cópia  autenticada)  e  cartórios  de  registro  de  imóveis  em 
+
+cada cidade. Cada imóvel (casa, terreno, apartamento) tem um número (matrícula) próprio e 
+
+está devidamente registrado no cartório de imóveis do seu bairro (se a cidade for pequena só 
+
+tem um). O cartório de imóveis tem a função pública de organizar os registros de propriedade 
+
+e  verificar  a  regularidade  tributária  dos  imóveis,  pois  não  se  podem  registrar  imóveis  com 
+
+dívidas de tributos. A função é pública, mas a atividade é privada, sendo fiscalizada pelo Po-
+
+der Judiciário. 
+
+A  lei  6.015/73  dispõe  sobre  os  registros  públicos.  Quando  você  compra/doa/troca  um 
+
+imóvel  você  precisa  celebrar  o  contrato  através  de  escritura  pública  (Arts.  108  e  215  do 
+
+C.C/02, salvo se o valor do imóvel não ultrapassar o valor de 30 salários mínimos, caso em 
+
+que  autoriza  a  escritura  particular)  e  depois  inscrever  essa  escritura  no  cartório  do  lugar  do 
+
+imóvel.  Só  o  contrato/entrega  das  chaves/pagamento  do  preço  não  basta,  é  preciso  também 
+
+fazer o registro tendo em vista a importância da propriedade imóvel na nossa vida. O registro 
+
+confirma  o  contrato  e  dá  publicidade  ao  negócio  e  segurança  na  circulação  dos  imóveis.  A 
+
+escritura pode ser feita em qualquer cartório de notas do país, mas o registro só pode ser feito 
+
+no cartório do lugar do imóvel, que é um só.  Art. 1245 e seus parágrafos do C.C/02. O título 
+
+translativo a que se refere o § 1º em geral é o contrato.  O registro de imóveis em nosso país 
+
+não é perfeito, afinal o Brasil é um país jovem e continental, e muitos terrenos ainda não têm 
+
+registro, mas o ideal é que cada imóvel tenha sua matrícula com suas dimensões, sua história, 
+
+seus eventuais ônus reais (ex: hipoteca, servidão, superfície, usufruto, etc) e o nome de seus 
+
+proprietários.  No cartório de imóveis  se registra  não só a propriedade, mas qualquer direito 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Da Propriedade 
+
+ 28 
+
+real  (ex.:  hipoteca,  servidão,  superfície,  usufruto,  etc).  Antes  do  registro  do  contrato  não  há 
+
+direito real, não há propriedade, não há  sequela ainda em  favor do comprador (§ 1º do Art. 
+
+1245 do C.C/02), mas apenas direito pessoal (obrigacional). 
+
+Características do registro: fé pública (presume-se que o registro exprima a verdade; o cartó-
+
+rio deve ser bem organizado e os livros bem cuidados, cabendo ao Juiz fiscalizar o serviço; os 
+
+livros são acessíveis a qualquer pessoa, Art. 1246 do C.C/02); possibilidade de retificação (se 
+
+o registro está errado, o Juiz pode determinar sua correção, Art. 1247 do C.C/02); obrigatorie-
+
+dade (o registro é obrigatório no cartório de imóveis do lugar do imóvel: § 1º do Art. 1245 do 
+
+C.C/02)  e  continuidade  (o  registro  obedece  a  uma  sequência  lógica,  sem  omissão,  de  modo 
+
+que não se pode registrar em nome do comprador se o vendedor que consta no contrato não é 
+
+o  dono  que  consta  no  registro;  muita  gente  desconhece  a  importância  do  registro,  ou  então 
+
+para não pagar as custas, só celebra o contrato de compra e venda; aí fica transmitindo posse 
+
+de um para outro; quando finalmente alguém resolve registrar, não encontra mais o dono, aí o 
+
+jeito é partir para a usucapião).      
+
+ 
+
+3.8.3  Pela Acessão  
+
+É aquisição originária. Adquire-se por acessão tudo  aquilo que adere (soma) ao solo  e 
+
+não  pode  ser  retirado  sem  danificação.  Através  da  acessão  a  coisa  imóvel  vai  aumentar  por 
+
+alguma das cinco hipóteses do Art. 1248 do C.C/02. As quatro primeiras são acessões naturais 
+
+e a quinta é acessão humana ou industrial/artificial. 
+
+Impende  destacar  que  não  se  confundem  os  institutos  jurídicos  da  benfeitoria  e  aces-
+
+são,  pois,  segundo  ensinamento  doutrinário  majoritário,  benfeitorias  são  gastos  e  despesas 
+
+realizadas na coisa com a finalidade de conservá-la, aumentá-la ou embelezá-la, enquanto que 
+
+acessão  é  modo  originário  de  aquisição  de  propriedade,  sendo  que,  tal  aquisição,  em  regra, 
+
+carece daquelas finalidades.  
+
+Espécies de Acessão: 
+
+a)  Formação de ilhas: Art. 1249 do C.C/02. 
+
+b)  Aluvião: é o acréscimo lento de um terreno ribeirinho; a parte do terreno que aumenta 
+
+passa a pertencer ao dono deste terreno, Art. 1250 do C.C/02. 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Da Propriedade 
+
+ 29 
+
+c)  Avulsão: difere da aluvião, pois a avulsão é brusca: Art. 1251 do C.C/02. 
+
+d)  Álveo abandonado: trata-se do leito do rio que secou; este rio seco torna-se proprieda-
+
+de do dono do terreno onde ele passava: Art. 1252 do C.C/02. 
+
+e)  Construções  e  plantações:  esta  é  a  acessão  humana,  pois  é  o  homem  que  constrói  e 
+
+planta num terreno; a regra é o acessório seguir o principal. Então tais acessões serão 
+
+de propriedade do dono do terreno, Art. 1253 do C.C/02; porém, se o dono do material 
+
+e  das  sementes  não  for  o  dono  do  terreno  surgirão  problemas  sobre  o  domínio  das 
+
+acessões e indenização ao prejudicado. Como resolver isso para evitar enriquecimento 
+
+ilícito do dono do terreno? Vai depender da boa fé ou da má fé  dos envolvidos, bem 
+
+como do valor da acessão. 
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+4. DA ENFITEUSE 
+
+ 
+
+ 
+
+ 
+
+4.1  ORIGEM  
+
+A  enfiteuse  tem  origem  na  Grécia,  no  século  V  antes  de  Cristo.  No  Império  Romano, 
+
+era  o  direito  de  usar  e  gozar,  por  tempo  ilimitado,  um  terreno  alheio,  para  cultivo,  contra  o 
+
+pagamento de um foro anual ao proprietário do terreno. 
+
+ No tocante ao Brasil, a evolução histórica do instituto ora em apreço deu-se no período 
+
+colonial, quando a coroa portuguesa diante da existência de largas áreas de terras abandona-
+
+das em seu território, decidiu utilizar compulsoriamente o aforamento, através do instituto da 
+
+sesmaria, segundo o qual o proprietário do solo tinha de aceitar a presença em suas terras de 
+
+lavradores que iriam utilizá-la mediante remuneração. O sesmeiro, autoridade pública criada 
+
+em Portugal, distribuía e fiscalizava as terras incultas. 
+
+4.2  CONCEITO 
+
+ 
+
+ 
+ 
+
+Chamada também de Aforamento ou Aprazamento, ENFITEUSE é o direito real so-
+
+bre  coisa  alheia,  pelo  qual  o  proprietário  de  um  imóvel  identificado  como  senhorio  direto, 
+
+admite o fracionamento da propriedade concedendo a terceiro, em caráter de perpetuidade, o 
+
+domínio útil desse imóvel, do qual poderá usar, gozar, dispor, como também reavê-lo, medi-
+
+ante pagamento de uma renda anual, denominada de foro ou pensão, ou, ainda, Canon. 
+
+4.3  ESPÉCIES DE ENFITEUSE/AFORAMENTO 
+
+4.3.1  Privada 
+
+Foi  ab-rogada com  o advento  do novo Código Civil.  Porém,  permanecem em  vigor as 
+
+constituídas até janeiro de 2002, em face da regra de direito intertemporal constante do artigo 
+
+2.038, caput, do novo Código Civil.  
+
+O Código Civil de 1916 regulou a enfiteuse privada nos Artigos 678 a 694. 
+
+Prof. João Jr. 
+
+Da Enfiteuse 
+
+ 
+
+4.3.2  Pública 
+
+cação. 
+
+da União; 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Chamada  também  de  Administrativa  ou,  ainda,  Especial,  está  plenamente  em  vigor, 
+
+sendo regulada pelo Decreto-Lei nº 9.760, de 05 de setembro de 1946, pela Lei nº 9.636, de 
+
+15 de maio de 1998 e pela Lei nº 11.481, de 31 de maio de 2007. 
+
+A União-Federal é qualificada como a dona da terra, quer seja nua, quer seja com edifi-
+
+A Secretaria de Patrimôno da União - SPU, através de processo administrativo demarca-
+
+tório,  declara  o  imóvel  como  inserido  em  terrenos  de  marinha  e  seus  acrescidos,  tirando  a 
+
+propriedade do particular; 
+
+O Art. 20, VII, da CF/88, dispõe serem os terrenos de marinha e seus acrescidos, bens 
+
+São bens públicos da espécie dominical,  com  o  qual,  a pessoa de direito público pode 
+
+auferir renda. É um bem privado da pessoa de direito público. 
+
+4.4  SUJEITOS DA RELAÇÃO 
+
+ 
+
+Senhorio direto = proprietário do imóvel, concedente.  
+
+−  Posse indireta/mediata 
+
+−  Domínio direto 
+
+−  Posse direta/imediata 
+
+−  Domínio útil 
+
+  Enfiteuta ou foreiro = concedido ou beneficiário. 
+
+4.5  TERRENOS DE MARINHA E SEUS ACRESCIDOS 
+
+Aviso Imperial de 12.7.1833 define terrenos de marinha como: 
+
+ 31 
+
+Prof. João Jr. 
+
+Da Enfiteuse 
+
+ 
+
+ 32 
+
+Todos  os  que,  banhados  pelas  águas  do  mar  ou  dos  rios  navegáveis,  em  sua 
+foz, vão até a distância de 33 metros para a parte das terras, contados desde o 
+ponto em que chega o preamar médio. (grifos nosso) 
+
+A razão histórica para a  fixação desses 33 metros está na necessidade que havia de se 
+
+estabelecer uma zona de defesa da orla marítima, que seria a primeira linha, em caso de ata-
+
+ques vindos do mar. Pois, era o alcance máximo de metragem que a bola dos canhões conse-
+
+guia chegar. 
+
+A linha da preamar-média de 1831 significa a média das marés altas apuradas em 1831, 
+
+e não em outro período. Muito se discute na doutrina e nos órgãos legislativos do país, que o 
+
+foro,  taxa  de  ocupação  e  o  laudêmio,  rendas  que  decorrem  deste  instituto  são  inconstitucio-
+
+nais, tendo-se em vista que é impossível aferir a linha que demarca os 33 metros de 1831, já 
+
+que de forma natural houve grandes modificações na área litorânea do país.  
+
+4.6  NATUREZA JURÍDICA DO AFORAMENTO E CARACTERÍSTICAS 
+
+A  natureza  jurídica  da  enfiteuse/aforamento  revela-se  na  posição  de  ser  o  mais  amplo 
+
+direito real sobre coisa imóvel alheia, já que com ela se pode tirar da coisa todas as utilidades 
+
+e vantagens. 
+
+O aforamento é constituído pela transcrição no cartório de registro de imóveis, de acor-
+
+do com inciso I, do Artigo 167, da Lei nº 6.015/73. 
+
+A enfiteuse consiste num contrato sinalagmático, isto é, as partes contraentes assumem 
+
+direitos e obrigações recíprocas. É oneroso, pois, as partes ficam privadas de valores, o senho-
+
+rio direito do bem e o foreiro do valor do foro.  
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+4.7  DISTINÇÕES COM OUTROS INSTITUTOS JURÍDICOS 
+
+4.7.1  Quanto ao usufruto 
+
+Em que pese ambos se constituírem em direito real sobre coisa alheia, consubstanciado 
+
+no uso e fruição desta coisa, as diferenças são bem evidentes, principalmente no que respeita 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Da Enfiteuse 
+
+ 
+
+ 33 
+
+ao seguinte: enquanto o usufrutuário não pode transformar ou alterar o bem objeto do usufru-
+
+to, o enfiteuta pode fazê-lo desde que não cause a deterioração da sua substância; enquanto o 
+
+usufruto pode recair sobre bens móveis, imóveis ou direitos, a enfiteuse deve ter por objeto, 
+
+sempre imóvel com ou sem edificação; enquanto o usufruto é direito temporário, a enfiteuse 
+
+tem índole perpétua.  
+
+4.7.2  Quanto ao arrendamento 
+
+Possuem naturezas jurídicas diversas, pois, enquanto a enfiteuse é direito real, o arren-
+
+damento constitui-se em direito pessoal. Mais uma distinção instala-se no caráter temporal de 
+
+ambos os institutos jurídicos, porquanto a enfiteuse cuida-se de instituto de índole perpétuo, já 
+
+em posição antagônica tem-se o arrendamento, cuja disciplina temporal é provisória.  
+
+Em relação ao aforamento privado, o Código Civil de 1916 disciplinou no Art. 692, se-
+
+4.8  MODOS DE EXTINÇÃO 
+
+não vejamos: 
+
+“Art. 692.  A enfiteuse extingue-se: 
+
+I - pela natural deterioração do prédio aforado, quando chegue a não valer o capital corres-
+
+pondente ao foro e mais um quinto deste; 
+
+II - pelo comisso, deixando o foreiro de pagar as pensões devidas, por 3 (três) anos consecu-
+
+tivos, caso em que o senhorio o indenizará das benfeitorias necessárias; 
+
+III - falecendo o enfiteuta, sem herdeiros, salvo o direito dos credores.” 
+
+Numa brevíssima explicação pode-se dizer que: 
+
+O inciso primeiro do referido artigo refere-se ao perecimento da coisa. Nessa hipótese, o 
+
+enfiteuta pode abandonar o bem. Além disso, responde por perdas e danos se o perecimento 
+
+ocorreu por sua culpa. 
+
+ 
+
+Prof. João Jr. 
+
+ 34 
+
+Da Enfiteuse 
+
+ 
+
+pendente. 
+
+A segunda hipótese diz respeito ao comisso. Nesse aspecto cumpre destacar que a dou-
+
+trina e a jurisprudência firmaram o entendimento de que o contrato de enfiteuse somente será 
+
+extinto caso o comisso seja decretado por sentença judicial, conforme súmula 122 do Supre-
+
+mo  Tribunal  Federal.  Antes  disso,  o  enfiteuta  pode  purgar  a  mora,  ou  seja,  quitar  a  dívida 
+
+A terceira hipótese, por sua vez, diz respeito ao falecimento do enfiteuta que não tenha 
+
+herdeiros. Nesse caso, havendo credores, receberão cada um o valor respectivo a seus créditos 
+
+pendentes, e o que restar passa ao domínio pleno do senhorio. 
+
+Além destas, ainda são hipóteses de extinção da enfiteuse, o abandono e a renúncia pelo 
+
+enfiteuta previstos nos Artigos 687 e 691; os casos de alienação constantes dos artigos 683 e 
+
+685, os quais cuidam do direito de prelação do senhorio direto, além do resgate previsto pelo 
+
+artigo 693. Todos os dispositivos são do Código Civil de 1916. 
+
+Ademais, a arrematação ou a adjudicação pelo senhorio do bem penhorado também gera 
+
+a extinção da enfiteuse privada. 
+
+Também na hipótese de desapropriação, por meio da qual também se tem a extinção da 
+
+enfiteuse. Neste caso, em relação ao enfiteuta, entende a doutrina que deverá receber o valor 
+
+correspondente ao domínio útil do bem. 
+
+Já no que concerne à enfiteuse de terrenos de marinha e seus acrescidos, o Decreto Lei 
+
+nº  9.760/46,  em  seu  Art.  103,  com  nova  redação  dada  pela  Lei  nº  11.481/07,  estabelece  as 
+
+hipóteses de sua extinção: 
+
+“Art. 103.  O aforamento extinguir-se-á:  
+
+I - por inadimplemento de cláusula contratual;  
+
+II - por acordo entre as partes;  
+
+III - pela remissão do foro, nas zonas onde não mais subsistam os motivos determinantes da 
+
+aplicação do regime enfitêutico;  
+
+IV - pelo abandono do imóvel, caracterizado pela ocupação, por mais de 5 (cinco) anos, sem 
+
+contestação, de assentamentos informais de baixa renda, retornando o domínio útil à União; 
+
+ 
+
+Prof. João Jr. 
+
+Da Enfiteuse 
+
+ 
+
+ 35 
+
+V - por interesse público, mediante prévia indenização.” 
+
+Assim, façamos uma brevíssima explicitação acerca de cada inciso: 
+
+Quanto  ao  inciso  primeiro,  verifica-se  a  extinção  contratual  pelo  inadimplemento  de 
+
+cláusula, porquanto tal inadimplemento diz respeito à pessoa do foreiro. Todavia, verifica-se 
+
+que o inciso ora em estudo traz tal hipótese de forma genérica, isto é, não específica qual seria 
+
+a cláusula contratual que, uma vez inadimplida, desaguasse no efeito de extinção contratual. 
+
+Desse  modo,  a  exegese  empregada  neste  inciso  se  perfaz  em  qualquer  cláusula  prevista  no 
+
+contrato de aforamento e, iniludivelmente, sempre serão impostas, tais cláusulas, pela União-
+
+Federal que é o Senhorio Direto.  
+
+No que concerne ao inciso segundo, observa-se a transação entre as partes. Pois, o insti-
+
+tuto da transação corresponde em sua substância a concessões recíprocas, cujo objetivo é re-
+
+nunciar para se beneficiar. 
+
+Em relação ao inciso terceiro, vê-se, pois, o instituto da remissão do foro, tendo como 
+
+requisito  autorizador  quando  recair  nas  zonas  onde  não  mais  subsistam  os  motivos  determi-
+
+nantes  da  aplicação  do  regime  enfitêutico.  Ressalte-se  que  o  termo  remissão  (com  dois  “s”) 
+
+significa perdão, diferentemente do vocábulo remição (com ç) que quer dizer pagamento. As-
+
+sim,  quando  se  faz  remir  uma  dívida,  significa  que  houve  um  pagamento,  já  quando  se  fala 
+
+em  remitir  uma  dívida,  estar-se-á  falando  de  perdão  da  dívida.  Então,  Remissão  equivale  a 
+
+remitir uma dívida (perdão); enquanto que, Remição equivale a remir uma dívida (pagamen-
+
+Portanto, na hipótese do inciso ora sob exame, tem-se o perdão (remissão) do foro por 
+
+parte  do  credor  de  tal  crédito,  logo,  verifica-se  que  a  União-Federal,  quando  remitir  o  foro, 
+
+desencadeia-se o efeito jurídico da extinção contratual, recebendo o enfiteuta o domínio direto 
+
+e, por via de consequência, ter-se-á a plenitude do domínio em seu favor. 
+
+No tocante ao inciso quarto, verifica-se o caso de abandono, segundo o qual constitui-se 
+
+em ato jurídico abdicativo. Desse modo, aquele que insurge-se com tal comportamento não é 
+
+merecedor  de  permanecer  como  enfiteuta,  retornando  o  domínio  útil  para  o  senhorio  direto 
+
+que é a União-Federal. 
+
+to). 
+
+ 
+
+Prof. João Jr. 
+
+Da Enfiteuse 
+
+ 
+
+ 36 
+
+Por fim, vem a baila o inciso quinto, o qual determina que a extinção contratual se dará 
+
+“por  interesse  público,  mediante  prévia  indenização”.  Pode-se  facilmente  perceber  que  o 
+
+princípio da supremacia do interesse público sobre o privado, impõe-se no contrato de afora-
+
+mento público, uma vez que consubstancia-se tal avença em um contrato administrativo, em 
+
+que se tem de um lado o poder público (União-Federal) e de outro lado o particular. Assim, 
+
+não há como afastar a incidência do interesse público no referido pacto. 
+
+Destarte, diante da semântica genérica hospedada no inciso ora em tela, conclui-se que 
+
+ficam a cargo da pessoa de direito público os motivos determinantes de, apoiada nos pilares 
+
+da conveniência e oportunidade, ditar as hipóteses autorizadoras capazes de extinguir o con-
+
+trato de aforamento público.   
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+ 
+
+5. DO LAUDÊMIO 
+
+5.1  CONCEITO E ASPECTOS GERAIS 
+
+Laudêmio vem do latim laudare, que significa prêmio. Prêmio pela ocupação. 
+
+Cuida-se  de  uma  renda  em  que  a  União  tem  direito  a  receber,  no  caso  de  aforamento 
+
+público,  quando  o  foreiro  ou  ocupante  de  imóvel  localizado  em  sua  propriedade,  transfere 
+
+onerosamente os direitos de ocupação ou domínio útil a outrem.  
+
+Tal ingresso patrimonial corresponde a 5% do valor atualizado (valor venal) do domínio 
+
+pleno do terreno e das benfeitorias nele construídas. Art. 3º do Dec. Lei n.º 2.398/1987. 
+
+Sua criação remonta aos tempos coloniais, quando a totalidade das terras brasileiras per-
+
+tencia à Coroa portuguesa, que tinha interesse em promover a colonização do país, distribuin-
+
+do  porções  do  território  nacional  a  quem  se  dispusesse  a  cultivá-las.  Em  troca,  cobrava-se 
+
+uma contribuição, denominada de foro ou pensão ou canon, por estes quinhões, que passaram 
+
+a ser classificados como terras aforadas, fazendo com que todas as vezes que fossem comerci-
+
+alizados, teria que ser pago o laudêmio, que sobrevive até hoje. 
+
+A  grande  diferença  decorre  do  fato  da  coroa  portuguesa  não  ser  mais  a  dona  destas 
+
+áreas, sendo que o litoral, correspondente à nossa orla, de acordo com o artigo 20, inciso III, 
+
+da CF/88, pertence à União. 
+
+Para a Secretaria de Patrimônio da União - SPU, só é foreiro quem possui Carta de Afo-
+
+ramento.  Quem  não  possui  dita  carta  de  aforamento  é  ocupante,  pagando  taxa  de  ocupação 
+
+anual  e  como  tal  não  pode  ter  matrícula  no  registro  de  imóveis,  eis  que  ocupação  envolve 
+
+apenas posse e não domínio. 
+
+Prevê a alínea “a”, do inciso I, do parágrafo 2º, do art. 3º, do Dec. Lei n.º 2.398/1987: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Do Laudêmio 
+
+“Art. 3º... 
+
+ 38 
+
+§2º  -  Os  Cartórios  de  Notas  e  Registro  de  Imóveis,  sob  pena  de  responsabilidade  dos  seus 
+
+respectivos  titulares,  não  lavrarão  nem  registrarão  escrituras  relativas  a  bens  imóveis  de 
+
+propriedade da União, ou que contenham, ainda que parcialmente, área de seu domínio: 
+
+I - sem certidão da Secretaria do Patrimônio da União - SPU que declare: 
+
+a) ter o interessado  recolhido o laudêmio  devido, nas transferências  onerosas entre vivos;” 
+
+(grifo nosso) 
+
+5.2  RENDAS INCONFUNDÍVEIS COM O LAUDÊMIO 
+
+5.2.1  Taxa de ocupação 
+
+O ocupante é a pessoa física ou jurídica que está autorizada pela Secretária de Patrimô-
+
+nio da União - SPU a ocupar imóvel de sua propriedade. 
+
+A inscrição de ocupação, a cargo da Secretaria do Patrimônio da União, é ato adminis-
+
+trativo precário, resolúvel a qualquer tempo, que pressupõe o efetivo aproveitamento do terre-
+
+no pelo ocupante, nos termos do regulamento, outorgada pela administração depois de anali-
+
+sada a conveniência e oportunidade, e gera obrigação de pagamento anual da taxa de ocupa-
+
+ção. (Art. 7º da Lei nº 11.481/2007). 
+
+Varia de 2% a 5% do valor do domínio pleno, a depender da data da inscrição da ocu-
+
+pação perante a SPU, se anterior ou posterior a 31/3/1988. Art. 1.º do Dec. Lei nº 2.398/1987; 
+
+5.2.2  Foro 
+
+ 
+
+ 
+
+Equivalente a 0,6%, sobre o valor do domínio pleno, de acordo com o Art. 88 da Lei nº 
+
+7.450/1985. Tal receita patrimonial diz respeito ao contrato de aforamento e não de ocupação. 
+
+Assim como ocorre com a taxa de ocupação, o foro é pago anualmente. 
+
+5.2.3  Tributo 
+
+O artigo 3º, do Código Tributário Nacional, prevê: 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Do Laudêmio 
+
+ 39 
+
+    “Art. 3º. Tributo é toda prestação pecuniária compulsória...” 
+
+O dever de pagar tributo nasce independentemente da vontade do contribuinte. 
+
+Já o laudêmio cuida-se de ingresso patrimonial a que faz jus a União pelo uso de seus 
+
+bens dominicais, voluntariamente pelo particular. Não está sujeito às regras do Sistema Tribu-
+
+tário Constitucional. 
+
+5.3  CONFUSÃO DOS SUJEITOS  
+
+Podem, sobre o mesmo possuidor, recair as qualidades de ocupante e foreiro, em virtude 
+
+de ser possuidor ocupante de imóvel de propriedade da União e, que este imóvel, receba in-
+
+fluência de maré, pela aproximação de mar, rios, lagos, lagoas, etc., hipótese que decorre da 
+
+presença de dois contratos administrativos: aforamento e direito de ocupação; Tanto o foreiro 
+
+quanto  o  ocupante  estão  obrigados  ao  recolhimento  do  laudêmio  em  havendo  transferência 
+
+onerosa do imóvel objeto desses contratos. 
+
+Em decorrência, terá que recolher o foro, a taxa de ocupação, o laudêmio no caso de ali-
+
+enação onerosa do imóvel  enfitêutico ou objeto  de ocupação, e mais o  IPTU, o  ITBI, como 
+
+também outras rendas, taxas e impostos que recaiam sobre o aludido bem. 
+
+5.4  COMO SE DESVENCILHAR DA RENDA LAUDÊMICA?  
+
+Alguns mecanismos previstos no nosso ordenamento jurídico mostram-se idôneos e ca-
+
+pazes de refutar tal ingresso vetusto, conforme vejamos: 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+5.4.1  Instrução Normativa nº 5, de 24 de agosto de 2010 - SPU 
+
+Dispõe sobre os procedimentos de análise dos requerimentos de isenção do pagamento 
+
+de foros, taxas de ocupação e laudêmios referentes a imóveis de domínio da União. 
+
+“Art. 1° A concessão de isenção de pagamento de foros, taxas de ocu-
+pação  e  laudêmios,  por  motivo  de  carência,  referentes  a  imóveis  da 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Do Laudêmio 
+
+ 
+
+ 40 
+
+União, nos termos do Decreto-Lei Nº 1.876, de 15 de julho de 1981, 
+obedecerá ao disposto nesta Instrução Normativa.” (Grifos nosso) 
+
+“ Art. 2º Para os efeitos desta Instrução Normativa considera-se co-
+mo: 
+
+I - isenção por motivo de carência: a isenção do pagamento de foros, 
+taxas  de  ocupação  e  laudêmios,  bem  como  multas,  juros  de  mora  e 
+atualização monetária delas decorrentes, concedidas a pessoas físicas 
+consideradas  carentes  ou  de  baixa  renda  cuja  situação  econômica 
+não lhes permita pagar esses encargos sem prejuízo do sustento pró-
+prio ou de sua família; (Grifos nosso) 
+
+II - carente ou de baixa  renda: pessoa física responsável por imóvel 
+da  União  cuja  renda  familiar  mensal  seja  igual  ou  inferior  ao  valor 
+correspondente a 5 (cinco) salários mínimos; (Grifos nosso) 
+
+III - renda familiar: remuneração e rendimentos de qualquer nature-
+za,  como  aposentadorias  e  pensões,  percebidos  pelo  responsável  e 
+seus familiares que com ele residam.” (Grifos nosso) 
+
+A  Instrução  Normativa  suso  engloba  tanto  o  foreiro  quanto  o  ocupante,  de  modo  que 
+
+ambos podem rechaçar da sua esfera privada a cobrança do laudêmio, assim como a do foro, a 
+
+da taxa de ocupação, sempre de acordo com o contrato celebrado entre o particular e o ente 
+
+público, bem como multas, juros de mora, atualização monetária que, eventualmente, venham 
+
+decorrer. 
+
+Verifica-se, então, que de acordo com o inciso primeiro da daquele ato normativo (Ins-
+
+trução Normativa), o benefício concedido pela isenção destina-se tão somente a pessoas físi-
+
+cas, de maneira que pessoas jurídicas não podem valer-se de tal favorecimento infralegal.  
+
+No que toca ao inciso segundo, este dispositivo deve ser analisado com uma maior dose 
+
+de acuidade, em vista do que o jogo de semântica nele introduzido mostrar-se um tanto quanto 
+
+controvertido. Pois, observa-se a primo icto ocule (a primeira vista) que se traz o conceito de 
+
+baixa  renda,  como  sendo  a  pessoa  física  responsável  pelo  imóvel,  ou  seja,  aquele  indivíduo 
+
+que tem o nome registrado na matrícula do imóvel no cartório de registro de imóveis da res-
+
+pectiva circunscrição, além  disso, deve ainda ter o seu nome registrado na Secretaria de Pa-
+
+trimônio  da  União  –  SPU,  para  ter-se  a  qualificação  de  responsável  pelo  imóvel,  e  que  sua 
+
+renda não ultrapasse o patamar de 5 (cinco) salários mínimos. 
+
+Não  obstante,  observa-se  que,  como  dito  anteriormente,  há  uma  incongruência  no  dis-
+
+posto do inciso ora em estudo, porquanto nota-se em sua primeira parte que se fala em pessoa 
+
+física  responsável  pelo  imóvel  da  União,  dando-se  a  entender  que  a  renda  a  ser  levada  em 
+
+ 
+
+Prof. João Jr. 
+
+Do Laudêmio 
+
+ 
+
+ 41 
+
+conta para fins de análise será apenas a daquele responsável, de modo que numa leitura e exe-
+
+gese apressada pode-se desaguar em conclusões híbridas e dúbias. Por conseguinte, é possível 
+
+verificar quando da leitura da segunda parte do dispositivo  ora em  comento,  que se fala  em 
+
+renda familiar mensal, trazendo, assim, uma confusão à cabeça do  cidadão, posto que, numa 
+
+leitura, repita-se, mais apressada pode-se haver uma confusão na hora de se buscar uma con-
+
+clusão para definir sobre o benefício da isenção.  
+
+Assim, numa melhor interpretação desta norma, o que vai ser realmente levado em con-
+
+ta quando da analise do requerimento  de isenção, é justamente a renda mensal familiar, não 
+
+importando o quanto o responsável percebe a título de remuneração, de modo que a análise é 
+
+feita em cima da renda familiar mensal – per capta – que significa por cabeça. Portanto, o que 
+
+irá ser levado em conta é a renda de todos os moradores daquele imóvel objeto do Contrato de 
+
+Aforamento ou do Contrato de Ocupação. 
+
+Por  fim,  percebe-se  que  o  texto  do  inciso  terceiro  da  Instrução  Normativo  em  apreço, 
+
+nada mais faz do que conceituar de modo exemplificativo o que seria renda familiar. Assim, 
+
+as  espécies  de  renda  ali  previstas  não  são  estanques,  não  se  cuida  de  um  Numerus  clausus 
+
+(uma rol fechado), mas meramente exemplificativo, um rol de números abertos.  
+
+ 
+ 
+
+5.4.2  Jurisprudências do STJ 
+
+O Superior Tribunal de Justiça, como é cediço, é o guardião do direito federal e, por is-
+
+so,  incumbe-lhe  unificar  e  pacificar  as  lides  que  envolvam  leis  federais  e  cuja  matéria  seja 
+
+comum, por tratar-se de uma corte de justiça comum ordinária. 
+
+Com efeito, a jurisprudência desenvolvida pelo STJ passou a pacificar a questão da in-
+
+timação no processo administrativo demarcatório, o qual tem por função com o seu desfecho, 
+
+inserir o imóvel no conceito de terrenos de marinha e seus acrescidos. Na verdade, a referida 
+
+notificação cuida-se de uma notificação administrativa. 
+
+O  âmago  da  controvérsia  encontra-se  no  fato  de  o  Dec.  Lei  9.760/46,  em  seu  Art.  11, 
+
+“Art.  11.   Para  a  realização  da  demarcação,  a  SPU  convidará  os  interessados,  por  edital, 
+para que no prazo de 60 (sessenta) dias ofereçam a estudo plantas, documentos e outros es-
+
+determinar:  
+
+ 
+
+Prof. João Jr. 
+
+Do Laudêmio 
+
+ 
+
+ 42 
+
+clarecimentos concernentes aos terrenos compreendidos no trecho demarcando.” (grifos nos-
+so) 
+
+ Desta forma, verifica-se no corpo do aludido dispositivo que os interessados serão con-
+
+vidados pela SPU por meio de edital para fornecer documentos relativos ao imóvel. Estes in-
+
+teressados são aquelas pessoas que possuem imóveis próximos à influência de maré. Porém, a 
+
+notificação na forma editalícia fere os princípios constitucionais do contraditório e da ampla 
+
+defesa, pois, são também princípios aplicáveis nos processos administrativos e, que, raramen-
+
+te  um  interessado  irá  ter  conhecimento  do  procedimento  administrativo  demarcatório,  até 
+
+mesmo porque, muitas dessas pessoas são de baixa escolaridade e de baixa instrução, e aca-
+
+bam perdendo a propriedade sem ao menos saberem o que se passa. 
+
+Ademais, esses editais são fixados nas independências de repartições públicas federais, 
+
+já  que  se  trata  de  procedimento  de  interesse  federal,  vez  que  os  terrenos  de  marinha  e  seus 
+
+acrescidos são bens do domínio da União.     
+
+Em  assim  sendo,  os  juízes  e  tribunais,  através  do  paradigma  jurisprudencial  do  STJ, 
+
+vêm decidindo pela inconstitucionalidade do Art. 11 do Dec. Lei nº  9.760/46, e anulando os 
+
+procedimentos demarcatórios em que a SPU tenha preterido a notificação pessoal dos interes-
+
+sados certos, isto é, aqueles que têm o nome registrado em seus livros ou no cartório de regis-
+
+tro  de  imóveis.  Um  dos  efeitos  relevantes  dessa  decisão,  é  que  a  cobrança  do  laudêmio  em 
+
+face dos interessados que não foram notificados pessoalmente para se defenderem no proces-
+
+so administrativo demarcatório, torna-se indevida, podendo, inclusive, tal interessado ser res-
+
+sarcido  em dobro lançando-se mão da ação de repetição de indébito, em  caso de pagamento 
+
+do laudêmio nestas condições. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+ 43 
+
+Do Laudêmio 
+
+ 
+
+ 
+
+Vejamos algumas jurisprudências que versam sobre a matéria: 
+
+1 
+
+RECURSO ESPECIAL Nº 724.741 - SC (2005/0023374-3) 
+
+RELATOR : MINISTRO LUIZ FUX 
+
+RECORRENTE : FAZENDA NACIONAL 
+
+RECORRIDO : PATI NICKI CONFECÇÕES LTDA 
+
+ 
+
+ 
+
+EMENTA 
+
+TRIBUTÁRIO  E  ADMINISTRATIVO.  AÇÃO  ANULATÓRIA  DE  DÉ-
+
+BITO  FISCAL.  TAXA  DE  OCUPAÇÃO  DECORRENTE  DA  DEMAR-
+
+CAÇÃO  DE  TERRENO  DE  MARINHA.  PROCESSO  ADMINISTRATI-
+
+VO  DEMARCATÓRIO.    DECRETO-LEI  9.760/46.  INTERESSADOS 
+
+CERTOS.  INTIMAÇÃO  POR  EDITAL.  NULIDADE.  PRINCÍPIOS  DA 
+
+AMPLA DEFESA E DO CONTRADITÓRIO. INOBSERVÂNCIA. 
+
+    Nesse segmento, a interpretação do artigo 11, do Decreto-Lei nº 9.760/46 
+
+não pode se distanciar dos postulados constitucionais da ampla defesa e do 
+
+contraditório,  corolários  do  princípio  mais  amplo  do  due  process  of  law, 
+
+também consagrados no âmbito administrativo. 
+
+Desta sorte, revela-se escorreito o acórdão regional, segundo o qual, identi-
+
+ficados os interessados no procedimento de demarcação dos terrenos de ma-
+
+rinha, cabia à Administração Pública intimá-los pessoalmente a fim de opor-
+
+tunizar-lhes a defesa de seu título, o que eiva de nulidade o ato administrati-
+
+vo  pertinente  (Precedente  do  STJ:  REsp  550146/PE,  publicado  no  DJ  de 
+
+05.12.2005). 
+
+Recurso especial a que se nega provimento. (Grifos nosso) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Do Laudêmio 
+
+ 
+
+ 44 
+
+ 
+
+ 
+
+ 
+
+2 
+
+RECURSO ESPECIAL Nº 617.044 - SC (2003/0205762-7) 
+
+RELATORA : MINISTRA DENISE ARRUDA 
+
+RECORRENTE : LAERTES DA SILVA E OUTROS 
+
+RECORRIDO : FAZENDA NACIONAL 
+
+EMENTA 
+
+PROCESSUAL CIVIL  E ADMINISTRATIVO.  RECURSO ESPECIAL.  TERRE-
+
+NOS DE MARINHA. TAXA DE OCUPAÇÃO. VIOLAÇÃO DE DISPOSITIVOS 
+
+CONSTITUCIONAIS.  INADMISSIBILIDADE.  QUALIFICAÇÃO  DOS  IMÓ-
+
+VEIS COMO TERRENOS DE MARINHA. REEXAME DE FATOS E PROVAS. 
+
+IMPOSSIBILIDADE  (SÚMULA  7/STJ).  FALTA  DE  PREQUESTIONAMENTO 
+
+(SÚMULAS  282  E  356  DO  STF).  PROCESSO  ADMINISTRATIVO  DE  DE-
+
+MARCAÇÃO.  FIXAÇÃO  DA  LINHA  PREAMAR  MÉDIA  DE  1831.  CONVO-
+
+CAÇÃO  DOS  INTERESSADOS  CERTOS  MEDIANTE  EDITAL.  ILEGALIDA-
+
+DE.  NECESSIDADE  DE  CITAÇÃO  PESSOAL  (ART.  11  DO  DECRETO-LEI 
+
+9.760/46). OFENSA AO DEVIDO PROCESSO LEGAL (CF/88,  ART. 5º,  LIV E 
+
+LV).  NULIDADE.  PRECEDENTES  DO  STJ.  RECURSO  PARCIALMENTE 
+
+CONHECIDO E, NESSA PARTE, PROVIDO. 
+
+A citação dos interessados no procedimento demarcatório de terrenos de marinha e 
+
+crescidos, sempre que identificados e certo o domicílio, deverá realizar-se pessoal-
+
+mente.  Somente  no  caso  de  existirem  interessados  incertos  poder-se-á  realizar  a 
+
+convocação editalícia (Decreto-Lei 9.760/46, art. 11). 
+
+A  Administração  Pública,  ao  proceder  à  convocação  por  edital  dos  recorrentes, 
+
+proprietários  com  título registrado no Cartório  de  Imóveis  e endereços certos, não 
+
+lhes assegurou o pleno exercício do contraditório e da ampla defesa, violando, des-
+
+tarte, o devido processo legal constitucionalmente assegurado (CF/88, art. 5º, LIV e 
+
+Recurso especial parcialmente conhecido e, nessa parte, provido, para reconhecer a 
+
+nulidade do processo de demarcação e a ilegalidade da cobrança da taxa de ocupa-
+
+Prof. João Jr. 
+
+LV). 
+
+ção. 
+
+ 
+
+Do Laudêmio 
+
+ 45 
+
+3 
+
+RECURSO ESPECIAL Nº 572.923 - SC (2003/0109496-6) 
+
+RELATOR : MINISTRO JOÃO OTÁVIO DE NORONHA 
+
+RECORRENTE : NORBERTO HERHAUS 
+
+RECORRIDO : UNIÃO 
+
+ 
+
+ 
+
+EMENTA 
+
+ADMINISTRATIVO. TERRENO DE MARINHA. TERRENO DE MARI-
+
+NHA.  FIXAÇÃO  DA  LINHA  PREAMAR  MÉDIA  DE  1831.  NECESSI-
+
+DADE DE CITAÇÃO PESSOAL DOS INTERESSADOS CERTOS. ART. 
+
+11 DO DECRETO-LEI 9.760/46. 
+
+Para  que  sejam  cumpridos  os  princípios  constitucionais  do  contraditório  e 
+
+da ampla defesa, é necessário que os interessados certos - com imóvel regis-
+
+trado  no  cartório  de  registro  de  imóveis  -  sejam  chamados  pessoalmente  a 
+
+participar  do  procedimento  administrativo  de  demarcação  dos  terrenos  de 
+
+marinha. A intimação por edital só é cabível para citação de interessados in-
+
+certos. 
+
+Recurso especial provido. (Grifos nosso) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+Do Laudêmio 
+
+ 
+
+ 46 
+
+4 
+
+ 
+
+RECURSO ESPECIAL Nº 586.859 - SC (2003/0168925-0) 
+
+RELATOR: MINISTRO CASTRO MEIRA 
+
+RECORRENTE: BUSCHLE E LEPPER S/A 
+
+RECORRIDO: UNIÃO 
+
+ 
+
+ 
+
+EMENTA 
+
+ADMINISTRATIVO  E  PROCESSUAL  CIVIL.  RECURSO  ESPECIAL. 
+
+ART.  535.  OMISSÃO.  INEXISTÊNCIA.  TERRENOS  DE  MARINHA. 
+
+DEMARCAÇÃO  DA  LINHA  DO  PREAMAR  MÉDIO  DE  1831.  CHA-
+
+MAMENTO  DAS  PARTES  INTERESSADAS  POR  EDITAL.  QUALIFI-
+
+CAÇÃO DO IMÓVEL. TERRENO DE MARINHA. SÚMULA 7/STJ. 
+
+Por força da garantia do contraditório e da ampla defesa, a citação dos inte-
+
+ressados no procedimento demarcatório de terrenos de marinha, sempre que 
+
+identificados pela União e certo o domicílio, deverá realizar-se pessoalmen-
+
+te. Somente no caso de existirem interessados incertos, poderá a União va-
+
+ler-se da citação por edital. 
+
+Após a demarcação da linha de preamar e a fixação dos terrenos de marinha, 
+
+a propriedade passa ao domínio público e os antigos proprietários passam à 
+
+condição de ocupantes, sendo provocados a regularizar a situação mediante 
+
+pagamento  de  foro  anual  pela  utilização  do  bem.  Permitir  a  conclusão  do 
+
+procedimento demarcatório sem a citação pessoal dos interessados conheci-
+
+dos pela Administração, representaria atentado aos princípios do contraditó-
+
+rio e da ampla defesa, bem como à garantia da propriedade privada. 
+
+A controvérsia sobre a qualificação do imóvel como terreno de marinha en-
+
+volve  o  reexame  do  conjunto  de  fatos  e  provas  que  embasam  o  processo, 
+
+circunstância  que  impede  o  conhecimento  do  recurso  com  base  na  Súmula 
+
+7/STJ. 
+
+Recurso especial conhecido, em parte, e provido. (Grifos nosso) 
+
+ 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+ 47 
+
+Do Laudêmio 
+
+ 
+
+5.4.3  Jurisprudência do STF 
+
+ 
+
+o mesmo adotado pelo STJ. 
+
+A corte suprema do país também já decidiu a questão tomando como linha de raciocínio 
+
+Portanto, o supremo declarou, em 16 de Março de 2011, por maioria de votos, a incons-
+
+titucionalidade do Art. 11 do Dec Lei nº 9.760/46, para obrigar a Secretaria de Patrimônio da 
+
+União – SPU, órgão federal que tem por incumbência fiscalizar e regular os bens imóveis da 
+
+União, dentre eles os terrenos de marinha e seus acrescidos, a proceder com a notificação pes-
+
+soal  dos  interessados  certos  que  possuem  terreno  no  trecho  alvo  de  demarcação,  conforme 
+
+vejamos: 
+
+ADI 4264 - AÇÃO DIRETA DE INCONSTITUCIONALIDADE 
+
+Origem: 
+
+Relator: 
+
+REQTE.(S) 
+
+PE – PERNAMBUCO 
+
+MIN. RICARDO LEWANDOWSKI 
+
+ASSEMBLÉIA LEGISLATIVA DO ESTADO DE 
+
+PERNAMBUCO 
+
+ADV.(A/S) 
+
+ISMAR TEIXEIRA CABRAL 
+
+INTDO.(A/S) 
+
+PRESIDENTE DA REPÚBLICA 
+
+ADV.(A/S) 
+
+ADVOGADO-GERAL DA UNIÃO 
+
+Demarcação de terrenos de marinha e notificação de interessados 
+
+Com a decisão, a Suprema Corte suspendeu, ex tunc (desde o início de sua vigência), a 
+
+nova  redação  dada  pela  Lei  11.418/07  ao  artigo  11  do  Decreto-lei  9.760/46,  impugnada  na 
+
+ADI. Esse texto havia suprimido a obrigatoriedade do convite pessoal aos interessados certos 
+
+(conhecidos), nos procedimentos de demarcação de terrenos de marinha. 
+
+Com  essa mudança do  Decreto-lei 9.760/46,  o  Serviço de Patrimônio  da União (SPU) 
+
+havia  sido  autorizado  a  fazer  a  notificação  apenas  por  edital,  tanto  dos  interessados  certos 
+
+quanto dos incertos (desconhecidos). Uma vez notificados, eles tinham prazo de 60 dias para 
+
+oferecer,  para  estudo,  documentos  e  outros  esclarecimentos  concernentes  aos  terrenos  com-
+
+preendidos no trecho a ser demarcado. 
+
+ 
+
+Prof. João Jr. 
+
+ 
+
+6. CONCLUSÃO 
+
+À luz das considerações supra vertidas, nota-se que o cidadão que tiver seu imóvel inse-
+
+rido no conceito de terrenos de marinha e seus acrescidos por força do processo administrati-
+
+vo demarcatório, tem a seu favor dois instrumentos jurídicos idôneos e capazes de livrá-lo da 
+
+cobrança do laudêmio, quais sejam: a Instrução Normativa nº 5, de 24 de agosto de 2010, ex-
+
+pedida pela SPU, a qual trata da análise do requerimento de isenção do laudêmio para todos 
+
+os que comprovarem renda mensal não superior a 5 (cinco) salários mínimos; e o entendimen-
+
+to jurisprudencial pacífico e remansoso no sentido de que, a SPU tem por obrigação proceder 
+
+à notificação pessoal para todos os interessados certos que possuem imóvel em trecho desti-
+
+nado  à  demarcação  ou  redemarcação,  para  fins  de  enquadrar  o  referido  bem  no  conceito  de 
+
+terrenos de marinha e seus acrescidos, de modo que o possuidor que tiver seu imóvel declara-
+
+do como inserido naquele conceito, pode valer-se da ação de anulação de ato administrativo 
+
+decisório, visando anular a decisão final proferida em processo administrativo demarcatório, 
+
+invocando a violação dos princípios constitucionais do contraditório e da ampla defesa, fican-
+
+do  livre  da  cobrança  do  laudêmio  e,  por  via  de  consequência,  ajuizar  ação  de  repetição  de 
+
+indébito se, eventualmente, recolheu tal ingresso patrimonial indevidamente. Para tanto, basta 
+
+se dirigir à SPU e exigir a comprovação mediante certidão de que foi notificado pessoalmente 
+
+à época da decisão administrativa que inseriu o imóvel no conceito de terrenos de marinha e 
+
+seus acrescidos. Se aquele órgão federal não desincumbir-se desse ônus, certamente sucumbi-
+
+rá à pretensão do cidadão possuidor do imóvel que, como dito antes, poderá impugnar o pro-
+
+cesso administrativo na justiça e anulá-lo, ficando livre da cobrança laudêmica.         
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+ 
+
+ 
+
+ 
+
+7. REFERÊNCIAS BIBLIOGRÁFICAS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BARRETO,  L.  H.  D.  Função  Social  da  Propriedade:  análise  histórica.  08.2005.  Disponível 
+em: <http://jus2.uol.com.br/DOUTRINA/texto.asp?id=7164>. Acesso em: 10 abr. 2010. 
+ 
+BASTONE, F. J. C. Jardim Oceânico/Tijucamar - Foreiros ou Ocupantes – Serviço Patrimo-
+nial da União. [S.D.]. Disponível em: <http://ademi.webtexto.com.br/IMG/pdf/doc-560.pdf>. 
+Acesso em 12.04.2010. 
+ 
+BRASIL,  R.  F.  Função  Social  da  Propriedade.  Uma  Relevância  Sócio-Jurídica.  20.07.2005. 
+<http://www.direitonet.com.br/artigos/exibir/2181/Funcao-social-da-
+
+Disponível 
+propriedade-uma-relevancia-socio-juridica> Acesso em: 10 set. 2009. 
+ 
+BRASIL. Vade Mecum. Obra Coletiva Com a Colaboração de Antonio Luiz de Toledo Pinto, 
+Márcia Cristina Vaz dos Santos... 5. ed. São Paulo: Saraiva, 2009 
+
+em: 
+
+e 
+
+Predial 
+
+(IPTU). 
+
+[S.D.].  Disponível 
+
+Territorial  Urbano 
+
+______. Projeto de Lei nº 676/2007. Destinado a beneficiar todos os foreiros e ocupantes de 
+imóveis urbanos da União, mediante a supressão do pagamento do foro ou da taxa de ocupa-
+ção relativa ao imóvel aforado ou legalmente ocupado, quando sobre ele recair a cobrança do 
+Imposto 
+em:  
+<http://www.direito2.com.br/asen/2008/set/30/camata-quer-suprimir-pagamento-de-taxa-por-
+ocupacao-de-imovel-urbano>. Acesso em: 30 mar. 2010.  
+ 
+______. Decreto  Presidencial nº  6.190,  de 20 de  agosto de 2007. Regulamenta a isenção de 
+pagamento pela utilização de imóveis da União para famílias com renda mensal de até cinco 
+salários mínimos. A medida se aplica a foros, taxas de ocupação e laudêmios, dando um tra-
+tamento  especial  às  pessoas  consideradas  carentes  ou  de  baixa  renda.  Disponível  em: 
+<http://www.anibalimoveis.cim.br/laud.htm>. Acesso em: 12 abr. 2010. 
+ 
+BRASIL. Vade Mecum. Obra Coletiva Com a Colaboração de Antonio Luiz de Toledo Pinto, 
+Márcia Cristina Vaz dos Santos... 5. ed. São Paulo: Saraiva, 2009. Supremo Tribunal Federal. 
+Súmula n.º 122. O enfiteuta pode purgar a mora enquanto não decretado o comisso por sen-
+tença.  
+ 
+______.. Medida provisória n.º 335, de 23 de dezembro de 2006. Dá nova redação a dispositi-
+vos das leis n°s 9.636, de 15 de maio de 1998... Prevê medidas voltadas à regularização fun-
+diária de interesse social em imóveis da união, e dá outras providências. Presidência da Repú-
+blica,  Casa  Civil,  Subchefia  para  Assuntos 
+<http://legislacao.planalto.gov.br/legisla/legislacao.nsf/fraWeb?OpenFrameSet&Frame=frm
+Web2&Src=%2Flegisla%2Flegislacao.nsf%2FViw_Identificacao%2Fmpv%2520335-
+2006%3FOpenDocument%26AutoFramed>. Acesso em: 12 abr. 2010.  
+ 
+______.  Lei  nº 11.481, de 31 de maio de 2007. Dá nova redação a dispositivos  das Leis  nos 
+9.636, de 15 de maio de 1998, 8.666, de 21 de junho de 1993... Prevê medidas voltadas à re-
+gularização fundiária de interesse social em imóveis da União; e dá outras providências. Pre-
+
+[S.D.].  Disponível  em:  
+
+Jurídicos. 
+
+Prof. João Jr. 
+
+Referências Bibliográficas 
+
+ 50 
+
+ 
+
+Jus 
+
+Lei 
+
+em: 
+
+1916 
+
+Brasil 
+
+3.071, 
+
+Disponível 
+
+Legislação. 
+
+providências. 
+
+sidência da República, Casa Civil, Subchefia para Assuntos Jurídicos. [S.D.]. Disponível em: 
+<http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/Lei/L11481.htm>. Acesso em: 12 
+abr. 2010. 
+ 
+ 
+______. 
+<http://www.planalto.gov.br/ccivil_03/Leis/L3071.htm>. Acesso em: 13 abr. 2010. 
+ 
+_____.  Lei  nº  7.450,  de  23  de  dezembro  de  1985.  Altera  a  legislação  tributária  federal  e  dá 
+outras 
+em: 
+<http://www.jusbrasil.com.br/legislacao/109532/lei-7450-85>. Acesso em: 13 abr. 2010. 
+ 
+______. Decreto Lei nº 9.760, de 05 de setembro de 1946. Dispõe sobre os bens imóveis da 
+União 
+em: 
+<http://www.saeb.ba.gov.br/biblioteca_virtual/Legisla%C3%A7%C3%A3oDecretos/Decreto                                                                                                                                                           
+%20Federal/Dec%209760-46%20Disp%C3%B5e%20sobre%20os%20bens% 
+20im%C3%B3veis%20da%20Uni%C3%A3 o.pdf>. Acesso em: 13 abr. 2010. 
+ 
+______. LEI Nº 9.636, de 15 de maio de 1998. Dispõe sobre a regularização, administração, 
+aforamento e alienação de bens imóveis de domínio da União, altera dispositivos dos Decre-
+tos-Leis nos 9.760, de 5 de setembro de 1946, e 2.398, de 21 de dezembro de 1987, regula-
+menta o § 2º do art. 49 do Ato das Disposições Constitucionais Transitórias, e dá outras pro-
+vidências. Disponível em:<http://www.lei.adv.br/9636-98.htm>. Acesso em: 13 abr. 2010.  
+ 
+CARVALHO, A. J. C. Introdução ao Estudo do Direito: primeiras informações. Recife: Fun-
+dação Antônio dos Santos Abranches. Fasa, 1991.  
+
+providências. 
+
+Disponível 
+
+Disponível 
+
+outras 
+
+dá 
+
+e 
+
+ 
+
+ 
+
+ 
+
+COIMBRA,  M. 
+em: 
+<http://www.brasilsoberano.com.br/artigos/Anteriores/saqueaocidadao.htm>.  Acesso  em:  10 
+abr. 2010. 
+
+11.07.2002. 
+
+Disponível 
+
+Cidadão. 
+
+Saque 
+
+ao 
+
+GONÇALVES, C. R. Direito Civil Brasileiro: direito das coisas. São Paulo:Saraiva, 2009.   
+
+HEGLER, Camila Borba. Da Cobrança Atinente aos Terrenos de Marinha. [S.D.]. Disponível 
+em:<  http://www.cleversonteixeira.adv.br/publicacoes_integra.php?id=8>.  Acesso  em:  13 
+abr. 2010.  
+ 
+JORGE,  H.  H.  Q.  P.  A  Evolução  Histórica  da  Propriedade  no  Brasil  sob  a  ótica  do  Direito 
+Constitucional. 
+em: 
+<http://www.clubjus.com.br/?artigos&ver=2.28259>. Acesso em: 10 abr. 2010. 
+ 
+LIMA,  M. 
+<http://jus2.uol.com.br/doutrina/texto.asp?id=9342>. Acesso em: 10 set. 2009.  
+ 
+MADEIRA,  J.  M.  P.  Institutos  Afins  à  Desapropriação.  07.2001.  Disponível  em  < 
+http://jus2.uol.com.br/doutrina/texto.asp?id=3433>. Acesso em: 11 abr. 2010. 
+ 
+
+Propriedade. 
+
+11.01.2010. 
+
+Disponível 
+
+Disponível 
+
+Direito 
+
+[S.D.]. 
+
+de 
+
+S. 
+
+em:      
+
+Prof. João Jr. 
+
+ 
+
+ 
+
+Referências Bibliográficas 
+
+ 51 
+
+ 
+
+ 
+
+MARINHA,  S.  T.  Governo  Vai  Rever  Cobrança.  25.  08.2009.  Disponível 
+em:<http://sosterrenosdemarinha.org.br/imprensa/governo-vai-rever-cobranca>.  Acesso  em 
+12 abr. 2010. 
+
+MAGALHAES,  Polyana  Gonçalves.  Direito  Civil:  Enfiteuse.  20.08.2009.  Disponível  em: 
+<http://www.webartigos.com/articles/23283/1/Direito-Civil-Enfiteuse/pagina1.html>.  Acesso 
+em: 25 mar. 2010. 
+
+Projeto 
+
+MENEZES,  R.  S.  de.  Regime  Patrimonial  dos  Terrenos  De  Marinha.  12.  2003.  Disponível 
+em: <http://jus2.uol.com.br/doutrina/texto.asp?id=5855>. Acesso em: 25 mar. 2010.  
+ 
+MENEZES,  R.  de.  Direitos  Reais:  Propriedade,  Aula  07.  09.09.2004.  Disponível  em:  < 
+http://www.rafaeldemenezes.adv.br/direitosreais/aula7.htm>. Acesso em: 12 abr. 2010.  
+ 
+RANDS,  Maurício. 
+<http://www.mauriciorands.com.br/mandato.php>. Acesso em: 11 abr. 2010. 
+ 
+RIZZARDO, A. Direito das Coisas. Rio de Janeiro: Aide Ed., 1991. 03 v. 
+ 
+RODRIGUES,  R.  M.  A.  O  Que  é  Laudêmio?  09.09.2009.  Disponível  em 
+<http://www.laudemio.com.br/> Acesso em: 10 abr. 2010. 
+ 
+SILVEIRA,  M. 
+<http://jus2.uol.com.br/doutrina/texto.asp?id=6229>. Acesso em: 10 abr. 2010. 
+ 
+
+1.961/2007. 
+
+Disponível 
+
+Disponível 
+
+Feudal. 
+
+Direito 
+
+[S.D.]. 
+
+em: 
+
+em: 
+
+Lei 
+
+D. 
+
+de 
+
+C. 
+
+nº 
+
+WIKIPÉDIA, 
+
+a 
+
+enciclopédia 
+
+livre.  Enfiteuse  Origem. 
+
+[S.D.].  Disponível 
+
+em 
+
+<http://pt.wikipedia.org/wiki/Enfiteuse>. Acesso em: 30 mar 2010. 
+
+ 
+ZANLUCA, 
+[S.D.].  Disponível 
+<http://www.portaltributario.com.br/tributos/laudemio.htm>. Acesso em: 10 abr. 2010. 
+ 
+
+J.  C.  Diferenças  Com  Outras  Rendas. 
+
+em 
+
+ 
+
+ 
+
+Prof. João Jr. 
+
+
